@@ -1,0 +1,1001 @@
+source	 prediction	 target	 loss	 dist
+NACC(SG)Aikido	Aikido	Aikido	0.04592521861195564	0
+NDAT(SG)Aikido	Aikido	Aikido	0.045838773250579834	0
+NGEN(SG)Aikido	Aikidos	Aikidos	0.12246358394622803	0
+NNOM(SG)Aikido	Aikido	Aikido	0.046528421342372894	0
+NACC(PL)Anreise	Anreisen	Anreisen	0.0514812208712101	0
+NACC(SG)Anreise	Anreise	Anreise	0.059517450630664825	0
+NDAT(PL)Anreise	Anreisen	Anreisen	0.0517091304063797	0
+NDAT(SG)Anreise	Anreise	Anreise	0.05934547632932663	0
+NGEN(PL)Anreise	Anreisen	Anreisen	0.05147755891084671	0
+NGEN(SG)Anreise	Anreise	Anreise	0.062122657895088196	0
+NNOM(PL)Anreise	Anreisen	Anreisen	0.05148281157016754	0
+NNOM(SG)Anreise	Anreise	Anreise	0.05057308450341225	0
+NACC(PL)Arsenikesser	Arsenikesser	Arsenikesser	0.05040287598967552	0
+NACC(SG)Arsenikesser	Arsenikesser	Arsenikesser	0.05079803988337517	0
+NDAT(PL)Arsenikesser	Arsenikessern	Arsenikessern	0.05056649073958397	0
+NDAT(SG)Arsenikesser	Arsenikesser	Arsenikesser	0.05073937401175499	0
+NGEN(PL)Arsenikesser	Arsenikesser	Arsenikesser	0.05038511008024216	0
+NGEN(SG)Arsenikesser	Arsenikessers	Arsenikessers	0.05048886314034462	0
+NNOM(PL)Arsenikesser	Arsenikesser	Arsenikesser	0.0503934882581234	0
+NNOM(SG)Arsenikesser	Arsenikesser	Arsenikesser	0.050595723092556	0
+NACC(PL)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05083636939525604	0
+NACC(SG)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.0500890351831913	0
+NDAT(PL)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05075473338365555	0
+NDAT(SG)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05009864643216133	0
+NGEN(PL)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05083170533180237	0
+NGEN(SG)Auslassungszeichen	Auslassungszeichen	Auslassungszeichens	0.13081996142864227	1
+NNOM(PL)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05083907023072243	0
+NNOM(SG)Auslassungszeichen	Auslassungszeichen	Auslassungszeichen	0.05026903748512268	0
+NACC(PL)Bergente	Bergenten	Bergenten	0.0523296520113945	0
+NACC(SG)Bergente	Bergente	Bergente	0.05096597224473953	0
+NDAT(PL)Bergente	Bergenten	Bergenten	0.05162028595805168	0
+NDAT(SG)Bergente	Bergente	Bergente	0.051224369555711746	0
+NGEN(PL)Bergente	Bergenten	Bergenten	0.052467264235019684	0
+NGEN(SG)Bergente	Bergente	Bergente	0.05405351147055626	0
+NNOM(PL)Bergente	Bergenten	Bergenten	0.05223201587796211	0
+NNOM(SG)Bergente	Bergente	Bergente	0.051031239330768585	0
+NACC(PL)Berylliumsalz	Berylliumsalze	Berylliumsalze	0.05060900002717972	0
+NACC(SG)Berylliumsalz	Berylliumsalz	Berylliumsalz	0.04996778815984726	0
+NDAT(PL)Berylliumsalz	Berylliumsalzen	Berylliumsalzen	0.050569675862789154	0
+NDAT(SG)Berylliumsalz	Berylliumsalz	Berylliumsalz	0.04973980411887169	0
+NGEN(PL)Berylliumsalz	Berylliumsalze	Berylliumsalze	0.050453443080186844	0
+NGEN(SG)Berylliumsalz	Berylliumsalzes	Berylliumsalzes	0.05402817577123642	0
+NNOM(PL)Berylliumsalz	Berylliumsalze	Berylliumsalze	0.05044792592525482	0
+NNOM(SG)Berylliumsalz	Berylliumsalz	Berylliumsalz	0.05021172761917114	0
+NACC(PL)Bettlaken	Bettläken	Bettlaken	0.14531353116035461	1
+NACC(SG)Bettlaken	Bettlaken	Bettlaken	0.05149207264184952	0
+NDAT(PL)Bettlaken	Bettlaken	Bettlaken	0.1103811040520668	0
+NDAT(SG)Bettlaken	Bettlaken	Bettlaken	0.05160880833864212	0
+NGEN(PL)Bettlaken	Bettläken	Bettlaken	0.1441648304462433	1
+NGEN(SG)Bettlaken	Bettlakens	Bettlakens	0.051418937742710114	0
+NNOM(PL)Bettlaken	Bettläken	Bettlaken	0.13781821727752686	1
+NNOM(SG)Bettlaken	Bettlaken	Bettlaken	0.051681745797395706	0
+NACC(PL)Bild	Bilde	Bilder	0.7961553931236267	1
+NACC(SG)Bild	Bild	Bild	0.04480573534965515	0
+NDAT(PL)Bild	Bilden	Bildern	0.6489959359169006	1
+NDAT(SG)Bild	Bild	Bild	0.04464580863714218	0
+NGEN(PL)Bild	Bilde	Bilder	0.7621415853500366	1
+NGEN(SG)Bild	Bildes	Bildes	0.14592018723487854	0
+NNOM(PL)Bild	Bilde	Bilder	0.7593067288398743	1
+NNOM(SG)Bild	Bild	Bild	0.04497133195400238	0
+NACC(PL)Brettspiel	Brettspiel	Brettspiele	0.5436155796051025	1
+NACC(SG)Brettspiel	Brettspiel	Brettspiel	0.05011110380291939	0
+NDAT(PL)Brettspiel	Brettspieln	Brettspielen	0.5206781625747681	1
+NDAT(SG)Brettspiel	Brettspiel	Brettspiel	0.05007505044341087	0
+NGEN(PL)Brettspiel	Brettspiel	Brettspiele	0.557462751865387	1
+NGEN(SG)Brettspiel	Brettspiels	Brettspieles	0.4105062484741211	1
+NNOM(PL)Brettspiel	Brettspiel	Brettspiele	0.543691098690033	1
+NNOM(SG)Brettspiel	Brettspiel	Brettspiel	0.05002867057919502	0
+NACC(SG)Bridge	Bridge	Bridge	0.04557720571756363	0
+NDAT(SG)Bridge	Bridge	Bridge	0.04566982761025429	0
+NGEN(SG)Bridge	Bridge	Bridge	0.04957493022084236	0
+NNOM(SG)Bridge	Bridge	Bridge	0.046069685369729996	0
+NACC(SG)Denken	Denken	Denken	0.049968015402555466	0
+NDAT(SG)Denken	Denken	Denken	0.04999769106507301	0
+NGEN(SG)Denken	Denkens	Denkens	0.05556769296526909	0
+NNOM(SG)Denken	Denken	Denken	0.049626946449279785	0
+NACC(PL)Elfe	Elfen	Elfen	0.05240001156926155	0
+NACC(SG)Elfe	Elfe	Elfen	1.1809823513031006	1
+NDAT(PL)Elfe	Elfen	Elfen	0.04741581901907921	0
+NDAT(SG)Elfe	Elfe	Elfen	1.1619974374771118	1
+NGEN(SG)Elfe	Elfe	Elfen	0.9588777422904968	1
+NNOM(PL)Elfe	Elfen	Elfen	0.05332513526082039	0
+NNOM(SG)Elfe	Elfe	Elfe	0.04272811859846115	0
+NACC(PL)Ermittler	Ermittler	Ermittler	0.05059743672609329	0
+NACC(SG)Ermittler	Ermittler	Ermittler	0.05043194815516472	0
+NDAT(PL)Ermittler	Ermittlern	Ermittlern	0.04956616088747978	0
+NDAT(SG)Ermittler	Ermittler	Ermittler	0.050448112189769745	0
+NGEN(PL)Ermittler	Ermittler	Ermittler	0.05058477073907852	0
+NGEN(SG)Ermittler	Ermittlers	Ermittlers	0.05004526302218437	0
+NNOM(PL)Ermittler	Ermittler	Ermittler	0.051369767636060715	0
+NNOM(SG)Ermittler	Ermittler	Ermittler	0.050538141280412674	0
+NACC(PL)Fahnenträger	Fahnenträger	Fahnenträger	0.049721088260412216	0
+NACC(SG)Fahnenträger	Fahnenträger	Fahnenträger	0.050659600645303726	0
+NDAT(PL)Fahnenträger	Fahnenträgern	Fahnenträgern	0.04978666827082634	0
+NDAT(SG)Fahnenträger	Fahnenträger	Fahnenträger	0.05071690306067467	0
+NGEN(PL)Fahnenträger	Fahnenträger	Fahnenträger	0.04971605911850929	0
+NGEN(SG)Fahnenträger	Fahnenträgers	Fahnenträgers	0.050279490649700165	0
+NNOM(PL)Fahnenträger	Fahnenträger	Fahnenträger	0.049705345183610916	0
+NNOM(SG)Fahnenträger	Fahnenträger	Fahnenträger	0.0506126694381237	0
+NACC(PL)Felsen	Felsen	Felsen	0.05096273496747017	0
+NACC(SG)Felsen	Felsen	Felsen	0.05071353167295456	0
+NDAT(PL)Felsen	Felsen	Felsen	0.05041086673736572	0
+NDAT(SG)Felsen	Felsen	Felsen	0.05084595829248428	0
+NGEN(PL)Felsen	Felsen	Felsen	0.05102313309907913	0
+NGEN(SG)Felsen	Felsens	Felsens	0.05226157605648041	0
+NNOM(PL)Felsen	Felsen	Felsen	0.050954725593328476	0
+NNOM(SG)Felsen	Felsen	Felsen	0.05058583989739418	0
+NACC(PL)Fichtelit	Fichtelite	Fichtelite	0.05724048241972923	0
+NACC(SG)Fichtelit	Fichtelit	Fichtelit	0.05148676782846451	0
+NDAT(SG)Fichtelit	Fichtelit	Fichtelit	0.05144498869776726	0
+NGEN(PL)Fichtelit	Fichtelite	Fichtelite	0.05773855745792389	0
+NGEN(SG)Fichtelit	Fichtelites	Fichtelits	0.18748226761817932	1
+NNOM(PL)Fichtelit	Fichtelite	Fichtelite	0.05800885334610939	0
+NNOM(SG)Fichtelit	Fichtelit	Fichtelit	0.051493704319000244	0
+NACC(PL)Fumarole	Fumarolen	Fumarolen	0.05037714168429375	0
+NACC(SG)Fumarole	Fumarole	Fumarole	0.055854517966508865	0
+NDAT(PL)Fumarole	Fumarolen	Fumarolen	0.05073540285229683	0
+NDAT(SG)Fumarole	Fumarole	Fumarole	0.05703067034482956	0
+NGEN(PL)Fumarole	Fumarolen	Fumarolen	0.05038376525044441	0
+NGEN(SG)Fumarole	Fumarole	Fumarole	0.08017381280660629	0
+NNOM(PL)Fumarole	Fumarolen	Fumarolen	0.05038372427225113	0
+NNOM(SG)Fumarole	Fumarole	Fumarole	0.049778785556554794	0
+NACC(PL)Gesäss	Gesässe	Gesässe	0.04714610427618027	0
+NACC(SG)Gesäss	Gesäss	Gesäss	0.04605627804994583	0
+NDAT(PL)Gesäss	Gesässen	Gesässen	0.04860980808734894	0
+NDAT(SG)Gesäss	Gesäss	Gesäss	0.04626091569662094	0
+NGEN(PL)Gesäss	Gesässe	Gesässe	0.047211483120918274	0
+NGEN(SG)Gesäss	Gesässes	Gesässes	0.05096426233649254	0
+NNOM(PL)Gesäss	Gesässe	Gesässe	0.04707147926092148	0
+NNOM(SG)Gesäss	Gesäss	Gesäss	0.04604259133338928	0
+NACC(PL)Hit	Hiten	Hits	0.5382198095321655	2
+NACC(SG)Hit	Hit	Hit	0.04423929750919342	0
+NDAT(PL)Hit	Hiten	Hits	0.4649508595466614	2
+NDAT(SG)Hit	Hit	Hit	0.043270133435726166	0
+NGEN(PL)Hit	Hiten	Hits	0.5261858105659485	2
+NGEN(SG)Hit	Hits	Hits	0.18437924981117249	0
+NNOM(PL)Hit	Hiten	Hits	0.5001567006111145	2
+NNOM(SG)Hit	Hit	Hit	0.04460974410176277	0
+NACC(PL)Kakerlak	Kakerläke	Kakerlaken	0.85347980260849	2
+NACC(SG)Kakerlak	Kakerlak	Kakerlaken	1.2036441564559937	2
+NDAT(PL)Kakerlak	Kakerläken	Kakerlaken	0.18961316347122192	1
+NDAT(SG)Kakerlak	Kakerlak	Kakerlaken	1.193442463874817	2
+NGEN(PL)Kakerlak	Kakerläke	Kakerlaken	0.8529252409934998	2
+NGEN(SG)Kakerlak	Kakerlakes	Kakerlaken	0.6922800540924072	1
+NNOM(PL)Kakerlak	Kakerläke	Kakerlaken	0.8476269245147705	2
+NNOM(SG)Kakerlak	Kakerlak	Kakerlak	0.050342146307229996	0
+NACC(PL)Kolumbienralle	Kolumbienrallen	Kolumbienrallen	0.052879977971315384	0
+NACC(SG)Kolumbienralle	Kolumbienralle	Kolumbienralle	0.05098328739404678	0
+NDAT(PL)Kolumbienralle	Kolumbienrallen	Kolumbienrallen	0.05228279531002045	0
+NDAT(SG)Kolumbienralle	Kolumbienralle	Kolumbienralle	0.05085444077849388	0
+NGEN(PL)Kolumbienralle	Kolumbienrallen	Kolumbienrallen	0.05294892564415932	0
+NGEN(SG)Kolumbienralle	Kolumbienralle	Kolumbienralle	0.049796950072050095	0
+NNOM(PL)Kolumbienralle	Kolumbienrallen	Kolumbienrallen	0.05288546159863472	0
+NNOM(SG)Kolumbienralle	Kolumbienralle	Kolumbienralle	0.05096425861120224	0
+NACC(PL)Lammfellhandschuh	Lammfellhandschuhe	Lammfellhandschuhe	0.09839068353176117	0
+NACC(SG)Lammfellhandschuh	Lammfellhandschuh	Lammfellhandschuh	0.05861140042543411	0
+NDAT(PL)Lammfellhandschuh	Lammfellhandschuhen	Lammfellhandschuhen	0.06343337148427963	0
+NDAT(SG)Lammfellhandschuh	Lammfellhandschuh	Lammfellhandschuh	0.05511598289012909	0
+NGEN(PL)Lammfellhandschuh	Lammfellhandschuhe	Lammfellhandschuhe	0.09276793897151947	0
+NGEN(SG)Lammfellhandschuh	Lammfellhandschuhes	Lammfellhandschuhs	0.17263400554656982	1
+NNOM(PL)Lammfellhandschuh	Lammfellhandschuhe	Lammfellhandschuhe	0.10215917229652405	0
+NNOM(SG)Lammfellhandschuh	Lammfellhandschuh	Lammfellhandschuh	0.05503109470009804	0
+NACC(PL)Leichenhalle	Leichenhallen	Leichenhallen	0.05588376522064209	0
+NACC(SG)Leichenhalle	Leichenhalle	Leichenhalle	0.05093458667397499	0
+NDAT(PL)Leichenhalle	Leichenhallen	Leichenhallen	0.0565546490252018	0
+NDAT(SG)Leichenhalle	Leichenhalle	Leichenhalle	0.050943709909915924	0
+NGEN(PL)Leichenhalle	Leichenhallen	Leichenhallen	0.05620042607188225	0
+NGEN(SG)Leichenhalle	Leichenhalle	Leichenhalle	0.050085052847862244	0
+NNOM(PL)Leichenhalle	Leichenhallen	Leichenhallen	0.055393822491168976	0
+NNOM(SG)Leichenhalle	Leichenhalle	Leichenhalle	0.0510965920984745	0
+NACC(PL)Linguistin	Linguistinen	Linguistinnen	0.20212149620056152	1
+NACC(SG)Linguistin	Linguistin	Linguistin	0.04827449470758438	0
+NDAT(PL)Linguistin	Linguistinen	Linguistinnen	0.1601426899433136	1
+NDAT(SG)Linguistin	Linguistin	Linguistin	0.04826497659087181	0
+NGEN(PL)Linguistin	Linguistinen	Linguistinnen	0.20675362646579742	1
+NGEN(SG)Linguistin	Linguistin	Linguistin	0.05833930894732475	0
+NNOM(PL)Linguistin	Linguistinen	Linguistinnen	0.2023123800754547	1
+NNOM(SG)Linguistin	Linguistin	Linguistin	0.04820810630917549	0
+NACC(PL)Lonsdaleit	Lonsdaleite	Lonsdaleite	0.055258315056562424	0
+NACC(SG)Lonsdaleit	Lonsdaleit	Lonsdaleit	0.05153882876038551	0
+NDAT(PL)Lonsdaleit	Lonsdaleiten	Lonsdaleiten	0.050237592309713364	0
+NDAT(SG)Lonsdaleit	Lonsdaleit	Lonsdaleit	0.051347482949495316	0
+NGEN(PL)Lonsdaleit	Lonsdaleite	Lonsdaleite	0.05501645803451538	0
+NNOM(PL)Lonsdaleit	Lonsdaleite	Lonsdaleite	0.05544117093086243	0
+NNOM(SG)Lonsdaleit	Lonsdaleit	Lonsdaleit	0.05156145989894867	0
+NACC(PL)Maiskolben	Maiskolben	Maiskolben	0.05157921463251114	0
+NACC(SG)Maiskolben	Maiskolben	Maiskolben	0.05198005214333534	0
+NDAT(PL)Maiskolben	Maiskolben	Maiskolben	0.05151081085205078	0
+NDAT(SG)Maiskolben	Maiskolben	Maiskolben	0.05190827697515488	0
+NGEN(PL)Maiskolben	Maiskolben	Maiskolben	0.051585603505373	0
+NGEN(SG)Maiskolben	Maiskolbens	Maiskolbens	0.05502881109714508	0
+NNOM(PL)Maiskolben	Maiskolben	Maiskolben	0.05150794982910156	0
+NNOM(SG)Maiskolben	Maiskolben	Maiskolben	0.05197728052735329	0
+NACC(PL)Marokkaner	Marokkaner	Marokkaner	0.05501706898212433	0
+NACC(SG)Marokkaner	Marokkaner	Marokkaner	0.051241301000118256	0
+NDAT(PL)Marokkaner	Marokkanern	Marokkanern	0.05147426202893257	0
+NDAT(SG)Marokkaner	Marokkaner	Marokkaner	0.051137614995241165	0
+NGEN(PL)Marokkaner	Marokkaner	Marokkaner	0.055082257837057114	0
+NGEN(SG)Marokkaner	Marokkaners	Marokkaners	0.0509679950773716	0
+NNOM(PL)Marokkaner	Marokkaner	Marokkaner	0.05624256283044815	0
+NNOM(SG)Marokkaner	Marokkaner	Marokkaner	0.051656581461429596	0
+NACC(PL)Milchkuh	Milchkuhe	Milchkühe	0.42411404848098755	1
+NACC(SG)Milchkuh	Milchkuh	Milchkuh	0.04738284647464752	0
+NDAT(PL)Milchkuh	Milchkuhen	Milchkühen	0.46729859709739685	1
+NDAT(SG)Milchkuh	Milchkuh	Milchkuh	0.047385912388563156	0
+NGEN(PL)Milchkuh	Milchkuhe	Milchkühe	0.44223976135253906	1
+NGEN(SG)Milchkuh	Milchkuhes	Milchkuh	0.2714424133300781	2
+NNOM(PL)Milchkuh	Milchkuhe	Milchkühe	0.4440836012363434	1
+NNOM(SG)Milchkuh	Milchkuh	Milchkuh	0.04800401255488396	0
+NACC(PL)Nudelholz	Nudelholze	Nudelhölzer	1.0457934141159058	2
+NACC(SG)Nudelholz	Nudelholz	Nudelholz	0.047407008707523346	0
+NDAT(PL)Nudelholz	Nudelholzen	Nudelhölzern	0.9971457123756409	2
+NDAT(SG)Nudelholz	Nudelholz	Nudelholz	0.04749692603945732	0
+NGEN(PL)Nudelholz	Nudelholze	Nudelhölzer	1.0387842655181885	2
+NGEN(SG)Nudelholz	Nudelholzes	Nudelholzes	0.05094373598694801	0
+NNOM(PL)Nudelholz	Nudelholze	Nudelhölzer	1.0492058992385864	2
+NNOM(SG)Nudelholz	Nudelholz	Nudelholz	0.04782040789723396	0
+NACC(SG)Omnipotenz	Omnipotenz	Omnipotenz	0.04907812923192978	0
+NDAT(SG)Omnipotenz	Omnipotenz	Omnipotenz	0.04897325858473778	0
+NGEN(SG)Omnipotenz	Omnipotenzes	Omnipotenz	0.26105785369873047	2
+NNOM(SG)Omnipotenz	Omnipotenz	Omnipotenz	0.0490560382604599	0
+NACC(PL)Parzelle	Parzellen	Parzellen	0.05171607807278633	0
+NACC(SG)Parzelle	Parzelle	Parzelle	0.05201111361384392	0
+NDAT(PL)Parzelle	Parzellen	Parzellen	0.05178520083427429	0
+NDAT(SG)Parzelle	Parzelle	Parzelle	0.05266736447811127	0
+NGEN(PL)Parzelle	Parzellen	Parzellen	0.05165896564722061	0
+NGEN(SG)Parzelle	Parzelle	Parzelle	0.06367360800504684	0
+NNOM(PL)Parzelle	Parzellen	Parzellen	0.05158938094973564	0
+NNOM(SG)Parzelle	Parzelle	Parzelle	0.05141399800777435	0
+NACC(PL)Pfifferling	Pfifferlinge	Pfifferlinge	0.060932788997888565	0
+NACC(SG)Pfifferling	Pfifferling	Pfifferling	0.04651208221912384	0
+NDAT(PL)Pfifferling	Pfifferlingen	Pfifferlingen	0.046983908861875534	0
+NDAT(SG)Pfifferling	Pfifferling	Pfifferling	0.046505529433488846	0
+NGEN(PL)Pfifferling	Pfifferlinge	Pfifferlinge	0.06148350238800049	0
+NGEN(SG)Pfifferling	Pfifferling	Pfifferlings	0.1628788858652115	1
+NNOM(PL)Pfifferling	Pfifferlinge	Pfifferlinge	0.06412029266357422	0
+NNOM(SG)Pfifferling	Pfifferling	Pfifferling	0.04645782336592674	0
+NACC(PL)Reaktionsschritt	Reaktionschritte	Reaktionsschritte	0.4315878450870514	1
+NACC(SG)Reaktionsschritt	Reaktionschritt	Reaktionsschritt	0.5463419556617737	1
+NDAT(PL)Reaktionsschritt	Reaktionschritten	Reaktionsschritten	0.41812029480934143	1
+NDAT(SG)Reaktionsschritt	Reaktionschritt	Reaktionsschritt	0.5331915616989136	1
+NGEN(PL)Reaktionsschritt	Reaktionschritte	Reaktionsschritte	0.4274044930934906	1
+NGEN(SG)Reaktionsschritt	Reaktionschrittes	Reaktionsschritts	0.5189005732536316	2
+NNOM(PL)Reaktionsschritt	Reaktionschritte	Reaktionsschritte	0.4379163384437561	1
+NNOM(SG)Reaktionsschritt	Reaktionschritt	Reaktionsschritt	0.5473573803901672	1
+NACC(PL)Relaiskontakt	Relaiskontakte	Relaiskontakte	0.04938274994492531	0
+NACC(SG)Relaiskontakt	Relaiskontakt	Relaiskontakt	0.05077708512544632	0
+NDAT(PL)Relaiskontakt	Relaiskontakten	Relaiskontakten	0.04997539147734642	0
+NDAT(SG)Relaiskontakt	Relaiskontakt	Relaiskontakt	0.05051082372665405	0
+NGEN(PL)Relaiskontakt	Relaiskontakte	Relaiskontakte	0.049441199749708176	0
+NGEN(SG)Relaiskontakt	Relaiskontaktes	Relaiskontaktes	0.05473732948303223	0
+NNOM(PL)Relaiskontakt	Relaiskontakte	Relaiskontakte	0.049407362937927246	0
+NNOM(SG)Relaiskontakt	Relaiskontakt	Relaiskontakt	0.05049252510070801	0
+NACC(PL)Salzteig	Salzteige	Salzteige	0.05258502811193466	0
+NACC(SG)Salzteig	Salzteig	Salzteig	0.05325359106063843	0
+NDAT(PL)Salzteig	Salzteigen	Salzteigen	0.05230168253183365	0
+NDAT(SG)Salzteig	Salzteig	Salzteig	0.05326550081372261	0
+NGEN(PL)Salzteig	Salzteige	Salzteige	0.05257909372448921	0
+NGEN(SG)Salzteig	Salzteiges	Salzteiges	0.08622903376817703	0
+NNOM(PL)Salzteig	Salzteige	Salzteige	0.0525454506278038	0
+NNOM(SG)Salzteig	Salzteig	Salzteig	0.05368610471487045	0
+NACC(PL)Sandmann	Sandmänner	Sandmänner	0.057331718504428864	0
+NACC(SG)Sandmann	Sandmann	Sandmann	0.050954461097717285	0
+NDAT(PL)Sandmann	Sandmännern	Sandmännern	0.06740289181470871	0
+NDAT(SG)Sandmann	Sandmann	Sandmann	0.05080161988735199	0
+NGEN(PL)Sandmann	Sandmänner	Sandmänner	0.05807730183005333	0
+NGEN(SG)Sandmann	Sandmannes	Sandmannes	0.06444429606199265	0
+NNOM(PL)Sandmann	Sandmänner	Sandmänner	0.05755961313843727	0
+NNOM(SG)Sandmann	Sandmann	Sandmann	0.051363274455070496	0
+NACC(PL)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.049657464027404785	0
+NACC(SG)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.05081947520375252	0
+NDAT(PL)Scheinwerfer	Scheinwerfern	Scheinwerfern	0.050175733864307404	0
+NDAT(SG)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.0508410707116127	0
+NGEN(PL)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.04963136464357376	0
+NGEN(SG)Scheinwerfer	Scheinwerfers	Scheinwerfers	0.049869030714035034	0
+NNOM(PL)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.04964127019047737	0
+NNOM(SG)Scheinwerfer	Scheinwerfer	Scheinwerfer	0.05089272931218147	0
+NACC(PL)Schlagbaum	Schlagbäume	Schlagbäume	0.08085009455680847	0
+NACC(SG)Schlagbaum	Schlagbaum	Schlagbaum	0.04935898631811142	0
+NDAT(PL)Schlagbaum	Schlagbäumen	Schlagbäumen	0.06502556055784225	0
+NDAT(SG)Schlagbaum	Schlagbaum	Schlagbaum	0.04935702309012413	0
+NGEN(PL)Schlagbaum	Schlagbäume	Schlagbäume	0.07487533241510391	0
+NGEN(SG)Schlagbaum	Schlagbaumes	Schlagbaumes	0.04959971085190773	0
+NNOM(PL)Schlagbaum	Schlagbäume	Schlagbäume	0.0758395567536354	0
+NNOM(SG)Schlagbaum	Schlagbaum	Schlagbaum	0.049887362867593765	0
+NACC(PL)Schweizerin	Schweizerinnen	Schweizerinnen	0.06582047790288925	0
+NACC(SG)Schweizerin	Schweizerin	Schweizerin	0.051190633326768875	0
+NDAT(PL)Schweizerin	Schweizerinnen	Schweizerinnen	0.05920065939426422	0
+NDAT(SG)Schweizerin	Schweizerin	Schweizerin	0.05101117491722107	0
+NGEN(PL)Schweizerin	Schweizerinnen	Schweizerinnen	0.06527920812368393	0
+NNOM(PL)Schweizerin	Schweizerinnen	Schweizerinnen	0.06519068032503128	0
+NNOM(SG)Schweizerin	Schweizerin	Schweizerin	0.05115948244929314	0
+NACC(PL)Schürze	Schürzen	Schürzen	0.04822675883769989	0
+NACC(SG)Schürze	Schürze	Schürze	0.04712606221437454	0
+NDAT(PL)Schürze	Schürzen	Schürzen	0.04891394451260567	0
+NDAT(SG)Schürze	Schürze	Schürze	0.04721368849277496	0
+NGEN(PL)Schürze	Schürzen	Schürzen	0.04825074225664139	0
+NGEN(SG)Schürze	Schürze	Schürze	0.052480895072221756	0
+NNOM(PL)Schürze	Schürzen	Schürzen	0.04816532880067825	0
+NNOM(SG)Schürze	Schürze	Schürze	0.04768561199307442	0
+NACC(PL)Taifun	Taifune	Taifune	0.06090432405471802	0
+NACC(SG)Taifun	Taifun	Taifun	0.049635447561740875	0
+NDAT(PL)Taifun	Taifun	Taifunen	0.14782190322875977	2
+NDAT(SG)Taifun	Taifun	Taifun	0.049522485584020615	0
+NGEN(PL)Taifun	Taifune	Taifune	0.06115292012691498	0
+NGEN(SG)Taifun	Taifuns	Taifuns	0.14050701260566711	0
+NNOM(PL)Taifun	Taifune	Taifune	0.06039343401789665	0
+NNOM(SG)Taifun	Taifun	Taifun	0.04951319098472595	0
+NACC(PL)Tensid	Tenside	Tenside	0.046089816838502884	0
+NACC(SG)Tensid	Tensid	Tensid	0.04667435213923454	0
+NDAT(PL)Tensid	Tensiden	Tensiden	0.04667796194553375	0
+NDAT(SG)Tensid	Tensid	Tensid	0.04641900211572647	0
+NGEN(PL)Tensid	Tenside	Tenside	0.04610155150294304	0
+NGEN(SG)Tensid	Tensids	Tensides	0.13436315953731537	1
+NNOM(PL)Tensid	Tenside	Tenside	0.04602707922458649	0
+NNOM(SG)Tensid	Tensid	Tensid	0.046681467443704605	0
+NACC(PL)Theodizee	Theodizen	Theodizeen	0.6581934094429016	1
+NACC(SG)Theodizee	Theodize	Theodizee	0.6038047075271606	1
+NDAT(PL)Theodizee	Theodizen	Theodizeen	0.661358654499054	1
+NDAT(SG)Theodizee	Theodize	Theodizee	0.580609917640686	1
+NGEN(PL)Theodizee	Theodizen	Theodizeen	0.6666537523269653	1
+NGEN(SG)Theodizee	Theodize	Theodizee	0.6834540367126465	1
+NNOM(PL)Theodizee	Theodizen	Theodizeen	0.6626127362251282	1
+NNOM(SG)Theodizee	Theodize	Theodizee	0.6034179925918579	1
+NACC(PL)Tukan	Tukane	Tukane	0.052602048963308334	0
+NACC(SG)Tukan	Tukan	Tukan	0.047796059399843216	0
+NDAT(PL)Tukan	Tukanen	Tukanen	0.04981447011232376	0
+NGEN(PL)Tukan	Tukane	Tukane	0.05167052894830704	0
+NGEN(SG)Tukan	Tukans	Tukans	0.07001004368066788	0
+NNOM(PL)Tukan	Tukane	Tukane	0.05215892195701599	0
+NNOM(SG)Tukan	Tukan	Tukan	0.0476677380502224	0
+NACC(PL)Umweltministerium	Umweltministeriume	Umweltministerien	0.38931068778038025	3
+NACC(SG)Umweltministerium	Umweltministerium	Umweltministerium	0.048894014209508896	0
+NDAT(PL)Umweltministerium	Umweltministeriumen	Umweltministerien	0.4109002351760864	2
+NDAT(SG)Umweltministerium	Umweltministerium	Umweltministerium	0.048792049288749695	0
+NGEN(PL)Umweltministerium	Umweltministeriume	Umweltministerien	0.396027147769928	3
+NGEN(SG)Umweltministerium	Umweltministeriumes	Umweltministeriums	0.10352673381567001	1
+NNOM(PL)Umweltministerium	Umweltministeriumen	Umweltministerien	0.38657936453819275	2
+NNOM(SG)Umweltministerium	Umweltministerium	Umweltministerium	0.04894041270017624	0
+NACC(PL)Unterschenkel	Unterschenkel	Unterschenkel	0.05269135907292366	0
+NACC(SG)Unterschenkel	Unterschenkel	Unterschenkel	0.053454067558050156	0
+NDAT(PL)Unterschenkel	Unterschenkeln	Unterschenkeln	0.052636727690696716	0
+NDAT(SG)Unterschenkel	Unterschenkel	Unterschenkel	0.05350780114531517	0
+NGEN(PL)Unterschenkel	Unterschenkel	Unterschenkel	0.05279575660824776	0
+NGEN(SG)Unterschenkel	Unterschenkels	Unterschenkels	0.05575276166200638	0
+NNOM(PL)Unterschenkel	Unterschenkel	Unterschenkel	0.052755262702703476	0
+NNOM(SG)Unterschenkel	Unterschenkel	Unterschenkel	0.05321691557765007	0
+NACC(PL)Verschwörungstheoretiker	Verschwörungsther	Verschwörungstheoretiker	1.243722915649414	7
+NACC(SG)Verschwörungstheoretiker	Verschwörungstherit	Verschwörungstheoretiker	1.27162766456604	6
+NDAT(PL)Verschwörungstheoretiker	Verschwörungsthern	Verschwörungstheoretikern	1.1774709224700928	7
+NDAT(SG)Verschwörungstheoretiker	Verschwörungstherit	Verschwörungstheoretiker	1.2723726034164429	6
+NGEN(PL)Verschwörungstheoretiker	Verschwörungsther	Verschwörungstheoretiker	1.2571563720703125	7
+NGEN(SG)Verschwörungstheoretiker	Verschwörungstheriteris	Verschwörungstheoretikers	1.1461528539657593	5
+NNOM(PL)Verschwörungstheoretiker	Verschwörungsther	Verschwörungstheoretiker	1.2445776462554932	7
+NNOM(SG)Verschwörungstheoretiker	Verschwörungstherit	Verschwörungstheoretiker	1.2992128133773804	6
+NACC(PL)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.05044413357973099	0
+NACC(SG)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.05049576610326767	0
+NDAT(PL)Vollwaschmittel	Vollwaschmitteln	Vollwaschmitteln	0.05003867298364639	0
+NDAT(SG)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.050484780222177505	0
+NGEN(PL)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.0504099503159523	0
+NNOM(PL)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.05033549293875694	0
+NNOM(SG)Vollwaschmittel	Vollwaschmittel	Vollwaschmittel	0.050444841384887695	0
+NACC(PL)Vorbild	Vorbilde	Vorbilder	0.5993417501449585	1
+NACC(SG)Vorbild	Vorbild	Vorbild	0.048756010830402374	0
+NDAT(PL)Vorbild	Vorbilden	Vorbildern	0.5645506978034973	1
+NDAT(SG)Vorbild	Vorbild	Vorbild	0.04876091331243515	0
+NGEN(PL)Vorbild	Vorbilde	Vorbilder	0.595255970954895	1
+NGEN(SG)Vorbild	Vorbildes	Vorbildes	0.05962979793548584	0
+NNOM(PL)Vorbild	Vorbilde	Vorbilder	0.5836758017539978	1
+NNOM(SG)Vorbild	Vorbild	Vorbild	0.048931144177913666	0
+NACC(PL)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.046730633825063705	0
+NACC(SG)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.04771983250975609	0
+NDAT(PL)Wahlkämpfer	Wahlkämpfern	Wahlkämpfern	0.04696212708950043	0
+NDAT(SG)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.04770034924149513	0
+NGEN(PL)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.04667743667960167	0
+NGEN(SG)Wahlkämpfer	Wahlkämpfers	Wahlkämpfers	0.046862490475177765	0
+NNOM(PL)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.046609193086624146	0
+NNOM(SG)Wahlkämpfer	Wahlkämpfer	Wahlkämpfer	0.0478505901992321	0
+NACC(PL)Wohnsitz	Wohnsitze	Wohnsitze	0.057355284690856934	0
+NACC(SG)Wohnsitz	Wohnsitz	Wohnsitz	0.04769396409392357	0
+NDAT(PL)Wohnsitz	Wohnsitzen	Wohnsitzen	0.04802210256457329	0
+NDAT(SG)Wohnsitz	Wohnsitz	Wohnsitz	0.04770997166633606	0
+NGEN(PL)Wohnsitz	Wohnsitze	Wohnsitze	0.05636833235621452	0
+NGEN(SG)Wohnsitz	Wohnsitzes	Wohnsitzes	0.05372834578156471	0
+NNOM(PL)Wohnsitz	Wohnsitze	Wohnsitze	0.06004513055086136	0
+NNOM(SG)Wohnsitz	Wohnsitz	Wohnsitz	0.047818318009376526	0
+NACC(PL)Zahnärztin	Zahnärztinen	Zahnärztinnen	0.20962253212928772	1
+NACC(SG)Zahnärztin	Zahnärztin	Zahnärztin	0.04844275861978531	0
+NDAT(PL)Zahnärztin	Zahnärztinen	Zahnärztinnen	0.19663994014263153	1
+NDAT(SG)Zahnärztin	Zahnärztin	Zahnärztin	0.04827485978603363	0
+NGEN(PL)Zahnärztin	Zahnärztinen	Zahnärztinnen	0.21408526599407196	1
+NGEN(SG)Zahnärztin	Zahnärztin	Zahnärztin	0.05928396061062813	0
+NNOM(PL)Zahnärztin	Zahnärztinen	Zahnärztinnen	0.2138548195362091	1
+NNOM(SG)Zahnärztin	Zahnärztin	Zahnärztin	0.048261966556310654	0
+VINDPSTNOM(2,SG)abalienieren	abalieniertest	abalieniertest	0.05557715892791748	0
+VINDPSTNOM(3,PL)abalienieren	abalienierten	abalienierten	0.056653253734111786	0
+VNFINabalienieren	abalienieren	abalienieren	0.057529695332050323	0
+VSBJVPRSNOM(1,PL)abalienieren	abalienieren	abalienieren	0.05686963349580765	0
+VSBJVPRSNOM(2,PL)abalienieren	abalienieret	abalienieret	0.056473586708307266	0
+VSBJVPRSNOM(2,SG)abalienieren	abalienierest	abalienierest	0.05553630739450455	0
+VSBJVPRSNOM(3,PL)abalienieren	abalienieren	abalienieren	0.05690734088420868	0
+VSBJVPSTNOM(1,PL)abalienieren	abalienierten	abalienierten	0.05645778402686119	0
+VSBJVPSTNOM(1,SG)abalienieren	abalienierte	abalienierte	0.057033419609069824	0
+VSBJVPSTNOM(2,SG)abalienieren	abalieniertest	abalieniertest	0.055550407618284225	0
+VSBJVPSTNOM(3,PL)abalienieren	abalienierten	abalienierten	0.05648686736822128	0
+VSBJVPSTNOM(3,SG)abalienieren	abalienierte	abalienierte	0.05687917768955231	0
+V.PTCPPSTablaufen	ablauft	abgelaufen	0.32451894879341125	4
+VIMPNOM(2,SG)ablaufen	lauf ab	lauf ab	0.05355391651391983	0
+VINDPRSNOM(1,PL)ablaufen	laufen ab	laufen ab	0.0522826723754406	0
+VINDPRSNOM(1,SG)ablaufen	laufe ab	laufe ab	0.05170818418264389	0
+VINDPRSNOM(3,SG)ablaufen	lauft ab	läuft ab	0.5484052300453186	1
+VINDPSTNOM(1,PL)ablaufen	lauften ab	liefen ab	0.742371141910553	3
+VINDPSTNOM(2,SG)ablaufen	lauftest ab	liefst ab	0.9112884402275085	4
+VINDPSTNOM(3,PL)ablaufen	lauften ab	liefen ab	0.7030097842216492	3
+VINDPSTNOM(3,SG)ablaufen	laufte ab	lief ab	1.2762495279312134	4
+VSBJVPSTNOM(1,PL)ablaufen	lauften ab	liefen ab	0.5821822285652161	3
+VSBJVPSTNOM(1,SG)ablaufen	laufte ab	liefe ab	0.6669025421142578	3
+VSBJVPSTNOM(2,SG)ablaufen	lauftest ab	liefest ab	0.4637965261936188	3
+V.PTCPPRSappliciren	applicirend	applicirend	0.11206106096506119	0
+V.PTCPPSTappliciren	appliciciert	applicirt	0.5692204833030701	3
+VIMPNOM(2,PL)appliciren	appliciert	applicirt	0.3148094713687897	1
+VINDPRSNOM(3,PL)appliciren	applicieren	appliciren	0.20323671400547028	1
+VINDPSTNOM(2,PL)appliciren	appliciertet	applicirtet	0.38624897599220276	1
+VINDPSTNOM(3,PL)appliciren	applicierten	applicirten	0.39970633387565613	1
+VINDPSTNOM(3,SG)appliciren	applicierte	applicirte	0.42342913150787354	1
+VSBJVPRSNOM(2,PL)appliciren	applicieret	appliciret	0.21593479812145233	1
+VSBJVPRSNOM(2,SG)appliciren	applicierest	applicirest	0.21153046190738678	1
+VSBJVPRSNOM(3,PL)appliciren	applicieren	appliciren	0.2194657176733017	1
+VSBJVPSTNOM(1,PL)appliciren	applicierten	applicirten	0.40497663617134094	1
+VSBJVPSTNOM(1,SG)appliciren	applicierte	applicirte	0.42811834812164307	1
+VSBJVPSTNOM(3,SG)appliciren	applicierte	applicirte	0.43214645981788635	1
+VIMPNOM(2,SG)aufheben	heb auf	heb auf	0.05521100014448166	0
+VINDPRSNOM(3,SG)aufheben	hebt auf	hebt auf	0.07135812938213348	0
+VINDPSTNOM(1,SG)aufheben	hiebte auf	hob auf	0.6527337431907654	4
+VINDPSTNOM(2,PL)aufheben	habtet auf	hobt auf	0.43127328157424927	3
+VINDPSTNOM(3,PL)aufheben	habten auf	hoben auf	0.4242497980594635	2
+VINDPSTNOM(3,SG)aufheben	habte auf	hob auf	0.7151004672050476	3
+VSBJVPRSNOM(2,PL)aufheben	hebet auf	hebet auf	0.04983258992433548	0
+VSBJVPRSNOM(2,SG)aufheben	hebest auf	hebest auf	0.048778750002384186	0
+VSBJVPRSNOM(3,PL)aufheben	heben auf	heben auf	0.05027327686548233	0
+VSBJVPRSNOM(3,SG)aufheben	hebe auf	hebe auf	0.05067390203475952	0
+VSBJVPSTNOM(1,PL)aufheben	hiebten auf	höben auf	0.3551880717277527	3
+VSBJVPSTNOM(3,SG)aufheben	hiebte auf	höbe auf	0.39506039023399353	3
+V.PTCPPRSausbrechen	ausbrechend	ausbrechend	0.05434725806117058	0
+VIMPNOM(2,PL)ausbrechen	brechet aus	brecht aus	0.17944379150867462	1
+VINDPRSNOM(1,SG)ausbrechen	breche aus	breche aus	0.051479313522577286	0
+VINDPRSNOM(3,PL)ausbrechen	brechen aus	brechen aus	0.04987263306975365	0
+VINDPRSNOM(3,SG)ausbrechen	brecht aus	bricht aus	0.5838611125946045	1
+VINDPSTNOM(1,PL)ausbrechen	brachten aus	brachen aus	0.16500288248062134	1
+VINDPSTNOM(1,SG)ausbrechen	brachte aus	brach aus	0.36871668696403503	2
+VINDPSTNOM(2,PL)ausbrechen	brachtet aus	bracht aus	0.32932713627815247	2
+VINDPSTNOM(3,PL)ausbrechen	brachen aus	brachen aus	0.1421692669391632	0
+VINDPSTNOM(3,SG)ausbrechen	brachte aus	brach aus	0.39212748408317566	2
+VSBJVPRSNOM(1,PL)ausbrechen	brechen aus	brechen aus	0.04957472160458565	0
+VSBJVPRSNOM(2,PL)ausbrechen	brechet aus	brechet aus	0.04963044449687004	0
+VSBJVPSTNOM(2,SG)ausbrechen	brächest aus	brächest aus	0.059218235313892365	0
+V.PTCPPRSballasten	ballastend	ballastend	0.05529812350869179	0
+VINDPRSNOM(1,SG)ballasten	ballaste	ballaste	0.05681096762418747	0
+VINDPRSNOM(2,SG)ballasten	ballastest	ballastest	0.05611211061477661	0
+VINDPSTNOM(2,SG)ballasten	balließtetest	ballastetest	0.13575071096420288	3
+VINDPSTNOM(3,SG)ballasten	balließte	ballastete	0.13235001266002655	4
+VSBJVPRSNOM(1,PL)ballasten	ballasten	ballasten	0.057056915014982224	0
+VSBJVPRSNOM(2,PL)ballasten	ballastet	ballastet	0.05699143931269646	0
+VSBJVPRSNOM(2,SG)ballasten	ballastest	ballastest	0.055191315710544586	0
+VSBJVPRSNOM(3,SG)ballasten	ballaste	ballaste	0.0572701022028923	0
+VSBJVPSTNOM(1,PL)ballasten	ballasteten	ballasteten	0.10148351639509201	0
+VSBJVPSTNOM(2,SG)ballasten	ballastetest	ballastetest	0.0987735316157341	0
+VSBJVPSTNOM(3,PL)ballasten	ballasteten	ballasteten	0.11078575253486633	0
+VSBJVPSTNOM(3,SG)ballasten	ballastete	ballastete	0.09741916507482529	0
+V.PTCPPSTbefördern	befördert	befördert	0.0521673858165741	0
+VIMPNOM(2,SG)befördern	befördre	befördre	0.1065862774848938	0
+VINDPRSNOM(1,SG)befördern	befördre	befördre	0.13008184731006622	0
+VINDPRSNOM(3,PL)befördern	befördern	befördern	0.0525575689971447	0
+VINDPSTNOM(1,PL)befördern	beförderten	beförderten	0.05264699459075928	0
+VINDPSTNOM(3,SG)befördern	beförderte	beförderte	0.05309438332915306	0
+VSBJVPRSNOM(1,PL)befördern	befördern	befördern	0.052608929574489594	0
+VSBJVPRSNOM(1,SG)befördern	befördere	befördere	0.05256231874227524	0
+VSBJVPRSNOM(2,PL)befördern	beförderet	beförderet	0.052191153168678284	0
+VSBJVPRSNOM(2,SG)befördern	beförderest	beförderest	0.05189666524529457	0
+VSBJVPRSNOM(3,PL)befördern	befördern	befördern	0.052598483860492706	0
+VSBJVPSTNOM(1,PL)befördern	beförderten	beförderten	0.0526905320584774	0
+VSBJVPSTNOM(1,SG)befördern	beförderte	beförderte	0.0529664047062397	0
+V.PTCPPRSbelügen	belügend	belügend	0.05293922871351242	0
+V.PTCPPSTbelügen	belügt	belogen	1.8317404985427856	3
+VINDPRSNOM(2,SG)belügen	belügst	belügst	0.05214823782444	0
+VINDPRSNOM(3,PL)belügen	belügen	belügen	0.05504188314080238	0
+VINDPRSNOM(3,SG)belügen	belügt	belügt	0.05454505607485771	0
+VINDPSTNOM(1,PL)belügen	belügten	belogen	1.894881248474121	2
+VINDPSTNOM(1,SG)belügen	belügte	belog	2.352210760116577	3
+VINDPSTNOM(2,PL)belügen	belügtet	belogt	1.7618887424468994	3
+VSBJVPRSNOM(1,PL)belügen	belügen	belügen	0.054941967129707336	0
+VSBJVPRSNOM(2,PL)belügen	belüget	belüget	0.053925223648548126	0
+VSBJVPRSNOM(3,SG)belügen	belüge	belüge	0.055446796119213104	0
+VSBJVPSTNOM(2,PL)belügen	belügtet	belöget	1.7897882461547852	2
+VSBJVPSTNOM(3,PL)belügen	belügten	belögen	1.7720227241516113	2
+V.PTCPPSTbimmeln	bimmelt	gebimmelt	0.15624156594276428	2
+VIMPNOM(2,PL)bimmeln	bimmelt	bimmelt	0.052168287336826324	0
+VIMPNOM(2,SG)bimmeln	bimmle	bimmle	0.05544385686516762	0
+VINDPRSNOM(1,SG)bimmeln	bimmle	bimmle	0.0948295071721077	0
+VINDPRSNOM(2,PL)bimmeln	bimmelt	bimmelt	0.05148366093635559	0
+VINDPSTNOM(1,PL)bimmeln	bimmelten	bimmelten	0.05189608782529831	0
+VINDPSTNOM(1,SG)bimmeln	bimmelte	bimmelte	0.05207646265625954	0
+VINDPSTNOM(2,PL)bimmeln	bimmeltet	bimmeltet	0.05199273303151131	0
+VINDPSTNOM(3,PL)bimmeln	bimmelten	bimmelten	0.05197584629058838	0
+VSBJVPRSNOM(1,SG)bimmeln	bimmele	bimmele	0.051568545401096344	0
+VSBJVPRSNOM(3,PL)bimmeln	bimmeln	bimmeln	0.050798770040273666	0
+VSBJVPSTNOM(3,PL)bimmeln	bimmelten	bimmelten	0.05174405500292778	0
+VSBJVPSTNOM(3,SG)bimmeln	bimmelte	bimmelte	0.05196211487054825	0
+V.PTCPPSTbummeln	bummelt	gebummelt	0.1550193428993225	2
+VINDPRSNOM(1,SG)bummeln	bummle	bummle	0.09111542999744415	0
+VINDPSTNOM(2,PL)bummeln	bummeltet	bummeltet	0.05240779370069504	0
+VINDPSTNOM(2,SG)bummeln	bummeltest	bummeltest	0.051480043679475784	0
+VINDPSTNOM(3,PL)bummeln	bummelten	bummelten	0.0524238720536232	0
+VINDPSTNOM(3,SG)bummeln	bummelte	bummelte	0.05273185297846794	0
+VNFINbummeln	bummeln	bummeln	0.05116533488035202	0
+VSBJVPRSNOM(1,PL)bummeln	bummeln	bummeln	0.05069276690483093	0
+VSBJVPRSNOM(2,PL)bummeln	bummelet	bummelet	0.050687238574028015	0
+VSBJVPRSNOM(3,PL)bummeln	bummeln	bummeln	0.050745055079460144	0
+VSBJVPSTNOM(1,PL)bummeln	bummelten	bummelten	0.0521315261721611	0
+VSBJVPSTNOM(1,SG)bummeln	bummelte	bummelte	0.05257851630449295	0
+VSBJVPSTNOM(3,SG)bummeln	bummelte	bummelte	0.05244062840938568	0
+VIMPNOM(2,PL)dublieren	dubliert	dubliert	0.054805509746074677	0
+VINDPRSNOM(2,PL)dublieren	dubliert	dubliert	0.05449332669377327	0
+VINDPRSNOM(3,PL)dublieren	dublieren	dublieren	0.05424844101071358	0
+VINDPSTNOM(1,PL)dublieren	dublierten	dublierten	0.05366796255111694	0
+VINDPSTNOM(2,PL)dublieren	dubliertet	dubliertet	0.05375891551375389	0
+VINDPSTNOM(2,SG)dublieren	dubliertest	dubliertest	0.05268285796046257	0
+VINDPSTNOM(3,PL)dublieren	dublierten	dublierten	0.05366474390029907	0
+VNFINdublieren	dublieren	dublieren	0.05448753759264946	0
+VSBJVPRSNOM(3,PL)dublieren	dublieren	dublieren	0.05407685786485672	0
+VSBJVPRSNOM(3,SG)dublieren	dubliere	dubliere	0.054213039577007294	0
+VSBJVPSTNOM(1,PL)dublieren	dublierten	dublierten	0.053717728704214096	0
+VSBJVPSTNOM(3,SG)dublieren	dublierte	dublierte	0.05409359931945801	0
+VINDPRSNOM(1,PL)einleben	leben ein	leben ein	0.051877010613679886	0
+VINDPRSNOM(2,PL)einleben	lebt ein	lebt ein	0.05436906963586807	0
+VINDPSTNOM(1,PL)einleben	leben ein	lebten ein	0.13833551108837128	1
+VINDPSTNOM(2,PL)einleben	lebtet ein	lebtet ein	0.08298052102327347	0
+VINDPSTNOM(2,SG)einleben	lebtest ein	lebtest ein	0.10449773818254471	0
+VINDPSTNOM(3,PL)einleben	leben ein	lebten ein	0.17363569140434265	1
+VINDPSTNOM(3,SG)einleben	lebte ein	lebte ein	0.08195798099040985	0
+VSBJVPRSNOM(1,PL)einleben	leben ein	leben ein	0.05212956666946411	0
+VSBJVPRSNOM(2,PL)einleben	lebet ein	lebet ein	0.05126340314745903	0
+VSBJVPRSNOM(3,PL)einleben	leben ein	leben ein	0.052222300320863724	0
+VSBJVPSTNOM(1,PL)einleben	leben ein	lebten ein	0.15825027227401733	1
+VSBJVPSTNOM(2,PL)einleben	lebet ein	lebtet ein	0.2147553414106369	1
+VSBJVPSTNOM(3,PL)einleben	leben ein	lebten ein	0.19187480211257935	1
+V.PTCPPRSempfinden	empfindend	empfindend	0.04955059289932251	0
+V.PTCPPSTempfinden	empfindet	empfunden	0.6817769408226013	2
+VINDPRSNOM(1,PL)empfinden	empfinden	empfinden	0.050639472901821136	0
+VINDPRSNOM(1,SG)empfinden	empfinde	empfinde	0.04989608749747276	0
+VINDPRSNOM(3,PL)empfinden	empfinden	empfinden	0.05055028200149536	0
+VINDPSTNOM(3,PL)empfinden	empfanden	empfanden	0.08779437094926834	0
+VINDPSTNOM(3,SG)empfinden	empfandete	empfand	0.190015971660614	3
+VSBJVPRSNOM(1,PL)empfinden	empfinden	empfinden	0.05087542533874512	0
+VSBJVPRSNOM(1,SG)empfinden	empfinde	empfinde	0.05056018754839897	0
+VSBJVPSTNOM(1,SG)empfinden	empfände	empfände	0.16445137560367584	0
+VSBJVPSTNOM(2,SG)empfinden	empfändest	empfändest	0.1334557980298996	0
+VSBJVPSTNOM(3,PL)empfinden	empfänden	empfänden	0.15577921271324158	0
+VIMPNOM(2,PL)entführen	entführt	entführt	0.050059668719768524	0
+VINDPRSNOM(1,PL)entführen	entführen	entführen	0.050689660012722015	0
+VINDPRSNOM(1,SG)entführen	entführe	entführe	0.0490158274769783	0
+VINDPRSNOM(2,PL)entführen	entführt	entführt	0.049983687698841095	0
+VINDPRSNOM(3,PL)entführen	entführen	entführen	0.050715137273073196	0
+VINDPSTNOM(1,PL)entführen	entführten	entführten	0.05139802768826485	0
+VINDPSTNOM(3,SG)entführen	entführte	entführte	0.051488690078258514	0
+VSBJVPRSNOM(2,SG)entführen	entführest	entführest	0.04986649751663208	0
+VSBJVPSTNOM(1,PL)entführen	entführten	entführten	0.05148514732718468	0
+VSBJVPSTNOM(1,SG)entführen	entführte	entführte	0.0520842969417572	0
+VSBJVPSTNOM(2,SG)entführen	entführtest	entführtest	0.05089087411761284	0
+VSBJVPSTNOM(3,PL)entführen	entführten	entführten	0.05144455283880234	0
+VSBJVPSTNOM(3,SG)entführen	entführte	entführte	0.05194850638508797	0
+V.PTCPPRSentmineralisieren	entmineralisierend	entmineralisierend	0.052474189549684525	0
+VIMPNOM(2,SG)entmineralisieren	entmineralisier	entmineralisier	0.05334143340587616	0
+VINDPRSNOM(1,PL)entmineralisieren	entmineralisieren	entmineralisieren	0.05412942171096802	0
+VINDPRSNOM(1,SG)entmineralisieren	entmineralisiere	entmineralisiere	0.05389219522476196	0
+VINDPRSNOM(2,SG)entmineralisieren	entmineralisierst	entmineralisierst	0.05293641611933708	0
+VINDPRSNOM(3,PL)entmineralisieren	entmineralisieren	entmineralisieren	0.05417955666780472	0
+VNFINentmineralisieren	entmineralisieren	entmineralisieren	0.05357981473207474	0
+VSBJVPRSNOM(2,SG)entmineralisieren	entmineralisierest	entmineralisierest	0.05301949381828308	0
+VSBJVPRSNOM(3,SG)entmineralisieren	entmineralisiere	entmineralisiere	0.054352276027202606	0
+VSBJVPSTNOM(1,SG)entmineralisieren	entmineralisierte	entmineralisierte	0.05484534054994583	0
+VSBJVPSTNOM(2,PL)entmineralisieren	entmineralisiertet	entmineralisiertet	0.054547857493162155	0
+VSBJVPSTNOM(2,SG)entmineralisieren	entmineralisiertest	entmineralisiertest	0.053758591413497925	0
+VSBJVPSTNOM(3,PL)entmineralisieren	entmineralisierten	entmineralisierten	0.054537661373615265	0
+VINDPRSNOM(1,SG)entsagen	tsage en	entsage	1.0454847812652588	5
+VINDPRSNOM(3,PL)entsagen	tsagen en	entsagen	0.9429634809494019	5
+VINDPRSNOM(3,SG)entsagen	tsagt en	entsagt	1.3323698043823242	5
+VINDPSTNOM(2,PL)entsagen	tsagtet en	entsagtet	1.2959601879119873	5
+VINDPSTNOM(3,PL)entsagen	tsagten en	entsagten	1.1066701412200928	5
+VINDPSTNOM(3,SG)entsagen	tsagte en	entsagte	1.3170369863510132	5
+VSBJVPRSNOM(1,PL)entsagen	tsagen en	entsagen	0.835519552230835	5
+VSBJVPRSNOM(2,PL)entsagen	tsaget en	entsaget	0.9115855097770691	5
+VSBJVPRSNOM(3,PL)entsagen	tsagen en	entsagen	0.8878065347671509	5
+VSBJVPRSNOM(3,SG)entsagen	tsage en	entsage	1.0348126888275146	5
+VSBJVPSTNOM(1,PL)entsagen	tsagten en	entsagten	1.039474368095398	5
+VSBJVPSTNOM(2,PL)entsagen	tsagtet en	entsagtet	1.1802400350570679	5
+VSBJVPSTNOM(3,SG)entsagen	tsagte en	entsagte	1.209416151046753	5
+V.PTCPPRSentschließen	entschließend	entschließend	0.051366936415433884	0
+VINDPRSNOM(2,PL)entschließen	entschließt	entschließt	0.05287688970565796	0
+VINDPRSNOM(2,SG)entschließen	entschließt	entschließt	0.05220647528767586	0
+VINDPRSNOM(3,PL)entschließen	entschließen	entschließen	0.05334112420678139	0
+VINDPRSNOM(3,SG)entschließen	entschließt	entschließt	0.05340324714779854	0
+VINDPSTNOM(1,PL)entschließen	entschlossen	entschlossen	0.05672911927103996	0
+VINDPSTNOM(2,SG)entschließen	entschlosst	entschlossest	0.36028799414634705	2
+VSBJVPRSNOM(1,PL)entschließen	entschließen	entschließen	0.05340320244431496	0
+VSBJVPRSNOM(1,SG)entschließen	entschließe	entschließe	0.053547393530607224	0
+VSBJVPRSNOM(2,PL)entschließen	entschließet	entschließet	0.052694518119096756	0
+VSBJVPSTNOM(2,PL)entschließen	entschlösset	entschlösset	0.061555542051792145	0
+VSBJVPSTNOM(2,SG)entschließen	entschlössest	entschlössest	0.05769467353820801	0
+VSBJVPSTNOM(3,SG)entschließen	entschlösse	entschlösse	0.0651644691824913	0
+V.PTCPPRSetiolieren	etiolierend	etiolierend	0.0547279454767704	0
+VIMPNOM(2,SG)etiolieren	etiolier	etiolier	0.05525098741054535	0
+VINDPRSNOM(1,PL)etiolieren	etiolieren	etiolieren	0.05601207911968231	0
+VINDPRSNOM(2,SG)etiolieren	etiolierst	etiolierst	0.05422002449631691	0
+VINDPSTNOM(2,SG)etiolieren	etioliertest	etioliertest	0.054730065166950226	0
+VSBJVPRSNOM(1,SG)etiolieren	etioliere	etioliere	0.05622062832117081	0
+VSBJVPRSNOM(2,PL)etiolieren	etiolieret	etiolieret	0.05569736659526825	0
+VSBJVPRSNOM(3,PL)etiolieren	etiolieren	etiolieren	0.05602520704269409	0
+VSBJVPRSNOM(3,SG)etiolieren	etioliere	etioliere	0.05621907860040665	0
+VSBJVPSTNOM(1,SG)etiolieren	etiolierte	etiolierte	0.056349050253629684	0
+VSBJVPSTNOM(2,SG)etiolieren	etioliertest	etioliertest	0.05476003512740135	0
+VSBJVPSTNOM(3,SG)etiolieren	etiolierte	etiolierte	0.0563032291829586	0
+V.PTCPPRSexpandieren	expandierend	expandierend	0.051322001963853836	0
+V.PTCPPSTexpandieren	expandiert	expandiert	0.05109294876456261	0
+VINDPRSNOM(2,PL)expandieren	expandiert	expandiert	0.051861975342035294	0
+VINDPRSNOM(2,SG)expandieren	expandierst	expandierst	0.05034540221095085	0
+VINDPRSNOM(3,SG)expandieren	expandiert	expandiert	0.05198008194565773	0
+VINDPSTNOM(1,PL)expandieren	expandierten	expandierten	0.0513899140059948	0
+VINDPSTNOM(2,SG)expandieren	expandiertest	expandiertest	0.05085933208465576	0
+VINDPSTNOM(3,SG)expandieren	expandierte	expandierte	0.05157025158405304	0
+VSBJVPRSNOM(2,SG)expandieren	expandierest	expandierest	0.05087820440530777	0
+VSBJVPRSNOM(3,PL)expandieren	expandieren	expandieren	0.05193899944424629	0
+VSBJVPRSNOM(3,SG)expandieren	expandiere	expandiere	0.05179673060774803	0
+VSBJVPSTNOM(1,PL)expandieren	expandierten	expandierten	0.05136508122086525	0
+VSBJVPSTNOM(3,PL)expandieren	expandierten	expandierten	0.05135736241936684	0
+V.PTCPPRSfeilschen	feilschend	feilschend	0.05206203833222389	0
+VIMPNOM(2,PL)feilschen	feilscht	feilscht	0.052791960537433624	0
+VINDPRSNOM(2,PL)feilschen	feilscht	feilscht	0.05227067694067955	0
+VINDPSTNOM(2,SG)feilschen	feilschst	feilschtest	0.3165023624897003	2
+VINDPSTNOM(3,PL)feilschen	feilschten	feilschten	0.10300369560718536	0
+VSBJVPRSNOM(2,PL)feilschen	feilschet	feilschet	0.052457474172115326	0
+VSBJVPRSNOM(2,SG)feilschen	feilschest	feilschest	0.05215729773044586	0
+VSBJVPRSNOM(3,PL)feilschen	feilschen	feilschen	0.05269614979624748	0
+VSBJVPRSNOM(3,SG)feilschen	feilsche	feilsche	0.052991706877946854	0
+VSBJVPSTNOM(1,PL)feilschen	feilschten	feilschten	0.055378589779138565	0
+VSBJVPSTNOM(1,SG)feilschen	feilschte	feilschte	0.05617361143231392	0
+VSBJVPSTNOM(3,PL)feilschen	feilschten	feilschten	0.05590932071208954	0
+VSBJVPSTNOM(3,SG)feilschen	feilschte	feilschte	0.05624062567949295	0
+V.PTCPPSTfluorieren	fluoriert	fluoriert	0.052486520260572433	0
+VINDPRSNOM(2,PL)fluorieren	fluoriert	fluoriert	0.053261470049619675	0
+VINDPSTNOM(1,PL)fluorieren	fluorierten	fluorierten	0.05302624776959419	0
+VINDPSTNOM(1,SG)fluorieren	fluorierte	fluorierte	0.05294349044561386	0
+VINDPSTNOM(2,PL)fluorieren	fluoriertet	fluoriertet	0.05295736715197563	0
+VINDPSTNOM(3,PL)fluorieren	fluorierten	fluorierten	0.05304545536637306	0
+VINDPSTNOM(3,SG)fluorieren	fluorierte	fluorierte	0.05303560569882393	0
+VSBJVPRSNOM(2,SG)fluorieren	fluorierest	fluorierest	0.05183453485369682	0
+VSBJVPRSNOM(3,PL)fluorieren	fluorieren	fluorieren	0.05292677879333496	0
+VSBJVPRSNOM(3,SG)fluorieren	fluoriere	fluoriere	0.052849166095256805	0
+VSBJVPSTNOM(1,PL)fluorieren	fluorierten	fluorierten	0.05302107706665993	0
+VSBJVPSTNOM(1,SG)fluorieren	fluorierte	fluorierte	0.05311299487948418	0
+VSBJVPSTNOM(2,SG)fluorieren	fluoriertest	fluoriertest	0.051995232701301575	0
+VIMPNOM(2,SG)impfen	impf	impf	0.050463587045669556	0
+VINDPRSNOM(1,PL)impfen	impfen	impfen	0.05063263326883316	0
+VINDPRSNOM(2,PL)impfen	impft	impft	0.0513925664126873	0
+VINDPRSNOM(3,PL)impfen	impfen	impfen	0.05065522715449333	0
+VINDPRSNOM(3,SG)impfen	impft	impft	0.0517534464597702	0
+VINDPSTNOM(2,PL)impfen	impftet	impftet	0.0518927164375782	0
+VINDPSTNOM(3,PL)impfen	impften	impften	0.05086195096373558	0
+VINDPSTNOM(3,SG)impfen	impfte	impfte	0.05172944813966751	0
+VNFINimpfen	impfen	impfen	0.05151387304067612	0
+VSBJVPRSNOM(3,PL)impfen	impfen	impfen	0.05076975375413895	0
+VSBJVPRSNOM(3,SG)impfen	impfe	impfe	0.05147041007876396	0
+VSBJVPSTNOM(2,PL)impfen	impftet	impftet	0.0509464368224144	0
+VSBJVPSTNOM(3,PL)impfen	impften	impften	0.05091201514005661	0
+V.PTCPPRSinfizieren	infizierend	infizierend	0.052782218903303146	0
+VINDPRSNOM(2,PL)infizieren	infiziert	infiziert	0.05359916761517525	0
+VINDPRSNOM(3,PL)infizieren	infizieren	infizieren	0.053642239421606064	0
+VINDPSTNOM(1,PL)infizieren	infizierten	infizierten	0.05324523523449898	0
+VINDPSTNOM(2,PL)infizieren	infiziertet	infiziertet	0.05374550819396973	0
+VINDPSTNOM(3,SG)infizieren	infizierte	infizierte	0.05367155373096466	0
+VSBJVPRSNOM(1,PL)infizieren	infizieren	infizieren	0.05358763784170151	0
+VSBJVPRSNOM(2,PL)infizieren	infizieret	infizieret	0.053182341158390045	0
+VSBJVPRSNOM(2,SG)infizieren	infizierest	infizierest	0.05248977616429329	0
+VSBJVPRSNOM(3,SG)infizieren	infiziere	infiziere	0.05357738584280014	0
+VSBJVPSTNOM(1,SG)infizieren	infizierte	infizierte	0.05373651906847954	0
+VSBJVPSTNOM(2,SG)infizieren	infiziertest	infiziertest	0.052653968334198	0
+VSBJVPSTNOM(3,SG)infizieren	infizierte	infizierte	0.053664252161979675	0
+V.PTCPPRSkieken	kiekend	kiekend	0.05205916985869408	0
+V.PTCPPSTkieken	gekiekt	gekiekt	0.05825690180063248	0
+VINDPRSNOM(1,PL)kieken	kieken	kieken	0.05385146662592888	0
+VINDPRSNOM(2,PL)kieken	kiekt	kiekt	0.053687360137701035	0
+VINDPSTNOM(1,PL)kieken	kiekten	kiekten	0.053133442997932434	0
+VINDPSTNOM(2,PL)kieken	kiektet	kiektet	0.05383625626564026	0
+VINDPSTNOM(3,PL)kieken	kiekten	kiekten	0.05317943915724754	0
+VINDPSTNOM(3,SG)kieken	kiekte	kiekte	0.05333319678902626	0
+VNFINkieken	kieken	kieken	0.053915832191705704	0
+VSBJVPRSNOM(1,SG)kieken	kieke	kieke	0.05397573113441467	0
+VSBJVPSTNOM(1,SG)kieken	kiekte	kiekte	0.05350472405552864	0
+VSBJVPSTNOM(2,SG)kieken	kiektest	kiektest	0.051980160176754	0
+VSBJVPSTNOM(3,SG)kieken	kiekte	kiekte	0.053309760987758636	0
+VIMPNOM(2,SG)kippen	kipp	kipp	0.05044948309659958	0
+VINDPRSNOM(1,SG)kippen	kippe	kippe	0.049370408058166504	0
+VINDPRSNOM(2,SG)kippen	kippst	kippst	0.051623884588479996	0
+VINDPRSNOM(3,SG)kippen	kippt	kippt	0.05139768123626709	0
+VINDPSTNOM(2,PL)kippen	kipptet	kipptet	0.05110442265868187	0
+VINDPSTNOM(3,SG)kippen	kippte	kippte	0.051214415580034256	0
+VNFINkippen	kippen	kippen	0.05127586051821709	0
+VSBJVPRSNOM(1,SG)kippen	kippe	kippe	0.050849467515945435	0
+VSBJVPRSNOM(3,SG)kippen	kippe	kippe	0.050682853907346725	0
+VSBJVPSTNOM(1,PL)kippen	kippten	kippten	0.050875283777713776	0
+VSBJVPSTNOM(1,SG)kippen	kippte	kippte	0.051646508276462555	0
+VSBJVPSTNOM(2,PL)kippen	kipptet	kipptet	0.0508618988096714	0
+VSBJVPSTNOM(2,SG)kippen	kipptest	kipptest	0.0499383881688118	0
+V.PTCPPSTklirren	geklirt	geklirrt	0.867014467716217	1
+VIMPNOM(2,PL)klirren	klirrt	klirrt	0.05475869029760361	0
+VINDPRSNOM(1,PL)klirren	klirren	klirren	0.05427374690771103	0
+VINDPRSNOM(1,SG)klirren	klirre	klirre	0.05137268826365471	0
+VINDPRSNOM(2,PL)klirren	klirrt	klirrt	0.054849959909915924	0
+VINDPSTNOM(1,PL)klirren	klirrten	klirrten	0.05559392273426056	0
+VINDPSTNOM(1,SG)klirren	klirrte	klirrte	0.05608493089675903	0
+VINDPSTNOM(3,PL)klirren	klirrten	klirrten	0.055671028792858124	0
+VNFINklirren	klirren	klirren	0.05430788919329643	0
+VSBJVPRSNOM(2,SG)klirren	klirrest	klirrest	0.05282241106033325	0
+VSBJVPSTNOM(1,PL)klirren	klirrten	klirrten	0.05521388351917267	0
+VSBJVPSTNOM(1,SG)klirren	klirrte	klirrte	0.05603779852390289	0
+V.PTCPPRSkontrahieren	kontrahierend	kontrahierend	0.053632497787475586	0
+V.PTCPPSTkontrahieren	kontrahiert	kontrahiert	0.053757231682538986	0
+VIMPNOM(2,SG)kontrahieren	kontrahier	kontrahier	0.05399947240948677	0
+VINDPRSNOM(1,SG)kontrahieren	kontrahiere	kontrahiere	0.05380776524543762	0
+VINDPRSNOM(3,SG)kontrahieren	kontrahiert	kontrahiert	0.054772619158029556	0
+VINDPSTNOM(1,PL)kontrahieren	kontrahierten	kontrahierten	0.054271455854177475	0
+VINDPSTNOM(2,PL)kontrahieren	kontrahiertet	kontrahiertet	0.05434076115489006	0
+VNFINkontrahieren	kontrahieren	kontrahieren	0.05484507977962494	0
+VSBJVPRSNOM(3,SG)kontrahieren	kontrahiere	kontrahiere	0.05453744903206825	0
+VSBJVPSTNOM(1,SG)kontrahieren	kontrahierte	kontrahierte	0.05458035320043564	0
+VSBJVPSTNOM(2,PL)kontrahieren	kontrahiertet	kontrahiertet	0.05404010787606239	0
+VSBJVPSTNOM(2,SG)kontrahieren	kontrahiertest	kontrahiertest	0.053394898772239685	0
+VSBJVPSTNOM(3,PL)kontrahieren	kontrahierten	kontrahierten	0.05408940836787224	0
+V.PTCPPRSkümmern	kümmernd	kümmernd	0.04830269515514374	0
+VIMPNOM(2,PL)kümmern	kümmert	kümmert	0.05105714872479439	0
+VINDPRSNOM(1,SG)kümmern	kümmere	kümmre	0.26681584119796753	1
+VINDPRSNOM(2,SG)kümmern	kümmerst	kümmerst	0.049367181956768036	0
+VINDPRSNOM(3,PL)kümmern	kümmern	kümmern	0.050502195954322815	0
+VINDPRSNOM(3,SG)kümmern	kümmert	kümmert	0.05125075578689575	0
+VINDPSTNOM(1,SG)kümmern	kümmerte	kümmerte	0.05102310702204704	0
+VINDPSTNOM(2,PL)kümmern	kümmertet	kümmertet	0.05118829756975174	0
+VINDPSTNOM(2,SG)kümmern	kümmertest	kümmertest	0.05025363340973854	0
+VINDPSTNOM(3,PL)kümmern	kümmerten	kümmerten	0.05120650678873062	0
+VSBJVPRSNOM(1,SG)kümmern	kümmere	kümmere	0.04937775433063507	0
+VSBJVPSTNOM(3,PL)kümmern	kümmerten	kümmerten	0.050948213785886765	0
+VSBJVPSTNOM(3,SG)kümmern	kümmerte	kümmerte	0.05083616077899933	0
+V.PTCPPSTliquidieren	liquidiert	liquidiert	0.054305966943502426	0
+VINDPRSNOM(2,PL)liquidieren	liquidiert	liquidiert	0.055761054158210754	0
+VINDPRSNOM(3,SG)liquidieren	liquidiert	liquidiert	0.05590180307626724	0
+VINDPSTNOM(1,PL)liquidieren	liquidierten	liquidierten	0.05483365058898926	0
+VINDPSTNOM(2,SG)liquidieren	liquidiertest	liquidiertest	0.053942080587148666	0
+VINDPSTNOM(3,PL)liquidieren	liquidierten	liquidierten	0.05484843999147415	0
+VINDPSTNOM(3,SG)liquidieren	liquidierte	liquidierte	0.05530816689133644	0
+VSBJVPRSNOM(1,SG)liquidieren	liquidiere	liquidiere	0.05541493743658066	0
+VSBJVPRSNOM(3,PL)liquidieren	liquidieren	liquidieren	0.05516054108738899	0
+VSBJVPRSNOM(3,SG)liquidieren	liquidiere	liquidiere	0.05540553480386734	0
+VSBJVPSTNOM(2,PL)liquidieren	liquidiertet	liquidiertet	0.05457822605967522	0
+VSBJVPSTNOM(3,PL)liquidieren	liquidierten	liquidierten	0.054662756621837616	0
+VSBJVPSTNOM(3,SG)liquidieren	liquidierte	liquidierte	0.055196523666381836	0
+V.PTCPPSTmulchen	gemulcht	gemulcht	0.049993183463811874	0
+VIMPNOM(2,SG)mulchen	mulch	mulch	0.05149337649345398	0
+VINDPRSNOM(1,PL)mulchen	mulchen	mulchen	0.05264825373888016	0
+VINDPRSNOM(3,PL)mulchen	mulchen	mulchen	0.05269801616668701	0
+VINDPRSNOM(3,SG)mulchen	mulcht	mulcht	0.052100200206041336	0
+VINDPSTNOM(1,PL)mulchen	mulchten	mulchten	0.05209050327539444	0
+VINDPSTNOM(1,SG)mulchen	mulchte	mulchte	0.05187607556581497	0
+VINDPSTNOM(3,PL)mulchen	mulchten	mulchten	0.05215946584939957	0
+VSBJVPRSNOM(2,PL)mulchen	mulchet	mulchet	0.0522102452814579	0
+VSBJVPSTNOM(1,PL)mulchen	mulchten	mulchten	0.05184356868267059	0
+VSBJVPSTNOM(1,SG)mulchen	mulchte	mulchte	0.05204854533076286	0
+VSBJVPSTNOM(3,PL)mulchen	mulchten	mulchten	0.051873352378606796	0
+V.PTCPPSTnützen	genützt	genützt	0.057789869606494904	0
+VINDPSTNOM(1,PL)nützen	nützten	nützten	0.05165989696979523	0
+VINDPSTNOM(3,SG)nützen	nützte	nützte	0.052490293979644775	0
+VSBJVPRSNOM(1,PL)nützen	nützen	nützen	0.05240708589553833	0
+VSBJVPRSNOM(1,SG)nützen	nütze	nütze	0.05200028419494629	0
+VSBJVPRSNOM(2,PL)nützen	nützet	nützet	0.050876129418611526	0
+VSBJVPRSNOM(2,SG)nützen	nützest	nützest	0.04972802475094795	0
+VSBJVPRSNOM(3,PL)nützen	nützen	nützen	0.052425991743803024	0
+VSBJVPRSNOM(3,SG)nützen	nütze	nütze	0.0518202930688858	0
+VSBJVPSTNOM(1,SG)nützen	nützte	nützte	0.052561547607183456	0
+VSBJVPSTNOM(2,SG)nützen	nütztest	nütztest	0.050866879522800446	0
+VSBJVPSTNOM(3,SG)nützen	nützte	nützte	0.05241601914167404	0
+V.PTCPPRSparaphrasieren	paraphrasierend	paraphrasierend	0.05390932410955429	0
+VINDPRSNOM(2,PL)paraphrasieren	paraphrasiert	paraphrasiert	0.05422327294945717	0
+VINDPRSNOM(3,SG)paraphrasieren	paraphrasiert	paraphrasiert	0.05433601886034012	0
+VINDPSTNOM(1,PL)paraphrasieren	paraphrasierten	paraphrasierten	0.05481160432100296	0
+VINDPSTNOM(2,PL)paraphrasieren	paraphrasiertet	paraphrasiertet	0.05446019768714905	0
+VNFINparaphrasieren	paraphrasieren	paraphrasieren	0.05482206493616104	0
+VSBJVPRSNOM(1,SG)paraphrasieren	paraphrasiere	paraphrasiere	0.05464163050055504	0
+VSBJVPSTNOM(1,PL)paraphrasieren	paraphrasierten	paraphrasierten	0.05470496788620949	0
+VSBJVPSTNOM(1,SG)paraphrasieren	paraphrasierte	paraphrasierte	0.055040065199136734	0
+VSBJVPSTNOM(2,PL)paraphrasieren	paraphrasiertet	paraphrasiertet	0.054404087364673615	0
+VSBJVPSTNOM(2,SG)paraphrasieren	paraphrasiertest	paraphrasiertest	0.053959622979164124	0
+VSBJVPSTNOM(3,PL)paraphrasieren	paraphrasierten	paraphrasierten	0.054750844836235046	0
+VSBJVPSTNOM(3,SG)paraphrasieren	paraphrasierte	paraphrasierte	0.05501551553606987	0
+VIMPNOM(2,PL)pubertieren	pubertiert	pubertiert	0.054683052003383636	0
+VIMPNOM(2,SG)pubertieren	pubertier	pubertier	0.053722698241472244	0
+VINDPRSNOM(1,PL)pubertieren	pubertieren	pubertieren	0.054738592356443405	0
+VINDPRSNOM(3,SG)pubertieren	pubertiert	pubertiert	0.054813627153635025	0
+VINDPSTNOM(2,PL)pubertieren	pubertiertet	pubertiertet	0.05455312505364418	0
+VINDPSTNOM(2,SG)pubertieren	pubertiertest	pubertiertest	0.05366245284676552	0
+VSBJVPRSNOM(1,PL)pubertieren	pubertieren	pubertieren	0.0545809380710125	0
+VSBJVPRSNOM(2,PL)pubertieren	pubertieret	pubertieret	0.05413159728050232	0
+VSBJVPRSNOM(3,PL)pubertieren	pubertieren	pubertieren	0.05463886633515358	0
+VSBJVPRSNOM(3,SG)pubertieren	pubertiere	pubertiere	0.05463135242462158	0
+VSBJVPSTNOM(1,SG)pubertieren	pubertierte	pubertierte	0.05476270243525505	0
+VSBJVPSTNOM(2,PL)pubertieren	pubertiertet	pubertiertet	0.05429580435156822	0
+VSBJVPSTNOM(2,SG)pubertieren	pubertiertest	pubertiertest	0.05357992649078369	0
+VIMPNOM(2,SG)sabbeln	sable sab	sabble	0.7955558896064758	5
+VINDPRSNOM(1,PL)sabbeln	sabbeln	sabbeln	0.07650364935398102	0
+VINDPRSNOM(1,SG)sabbeln	sable sab	sabble	0.606796383857727	5
+VINDPRSNOM(3,SG)sabbeln	sabelt s	sabbelt	0.34710273146629333	3
+VINDPSTNOM(2,PL)sabbeln	sabeltet s	sabbeltet	0.5989910960197449	3
+VINDPSTNOM(2,SG)sabbeln	sabeltest	sabbeltest	0.5915057063102722	1
+VINDPSTNOM(3,PL)sabbeln	sabelten	sabbelten	0.6381069421768188	1
+VSBJVPRSNOM(2,PL)sabbeln	sabbelet	sabbelet	0.08146706968545914	0
+VSBJVPRSNOM(2,SG)sabbeln	sabbelest	sabbelest	0.08256001770496368	0
+VSBJVPRSNOM(3,PL)sabbeln	sabbeln	sabbeln	0.07876211404800415	0
+VSBJVPRSNOM(3,SG)sabbeln	sabbele	sabbele	0.09902052581310272	0
+VSBJVPSTNOM(1,SG)sabbeln	sabelte	sabbelte	0.6268357634544373	1
+VSBJVPSTNOM(2,SG)sabbeln	sabeltest	sabbeltest	0.5912975668907166	1
+VIMPNOM(2,SG)sehnen	sehn	sehn	0.05138155072927475	0
+VINDPRSNOM(1,PL)sehnen	sehnen	sehnen	0.053364790976047516	0
+VINDPRSNOM(2,PL)sehnen	sehnt	sehnt	0.0533459298312664	0
+VINDPRSNOM(3,PL)sehnen	sehnen	sehnen	0.05337588116526604	0
+VINDPSTNOM(1,PL)sehnen	sehnten	sehnten	0.0529627725481987	0
+VINDPSTNOM(3,PL)sehnen	sehnten	sehnten	0.053043387830257416	0
+VINDPSTNOM(3,SG)sehnen	sehnte	sehnte	0.05584128573536873	0
+VSBJVPRSNOM(3,PL)sehnen	sehnen	sehnen	0.05301329493522644	0
+VSBJVPRSNOM(3,SG)sehnen	sehne	sehne	0.05317986011505127	0
+VSBJVPSTNOM(1,SG)sehnen	sehnte	sehnte	0.053911976516246796	0
+VSBJVPSTNOM(2,PL)sehnen	sehntet	sehntet	0.05297089368104935	0
+VSBJVPSTNOM(3,PL)sehnen	sehnten	sehnten	0.0531555637717247	0
+VSBJVPSTNOM(3,SG)sehnen	sehnte	sehnte	0.05377424508333206	0
+V.PTCPPSTsparen	gespart	gespart	0.05154726654291153	0
+VIMPNOM(2,PL)sparen	spart	spart	0.05685396492481232	0
+VIMPNOM(2,SG)sparen	spar	spar	0.054229866713285446	0
+VINDPRSNOM(2,SG)sparen	sparst	sparst	0.05250648036599159	0
+VINDPSTNOM(3,PL)sparen	sparten	sparten	0.05555785074830055	0
+VSBJVPRSNOM(1,PL)sparen	sparen	sparen	0.05573724955320358	0
+VSBJVPRSNOM(2,SG)sparen	sparest	sparest	0.05337350070476532	0
+VSBJVPRSNOM(3,PL)sparen	sparen	sparen	0.0558306910097599	0
+VSBJVPSTNOM(1,SG)sparen	sparte	sparte	0.056384384632110596	0
+VSBJVPSTNOM(2,PL)sparen	spartet	spartet	0.05501597747206688	0
+VSBJVPSTNOM(2,SG)sparen	spartest	spartest	0.05393201857805252	0
+VSBJVPSTNOM(3,PL)sparen	sparten	sparten	0.05561108514666557	0
+VSBJVPSTNOM(3,SG)sparen	sparte	sparte	0.05629327520728111	0
+V.PTCPPSTtippen	getippt	getippt	0.08790163695812225	0
+VIMPNOM(2,PL)tippen	tippt	tippt	0.05176921188831329	0
+VINDPRSNOM(2,PL)tippen	tippt	tippt	0.051367003470659256	0
+VINDPRSNOM(2,SG)tippen	tippst	tippst	0.06089593097567558	0
+VINDPRSNOM(3,PL)tippen	tippen	tippen	0.05110957473516464	0
+VINDPSTNOM(1,PL)tippen	tippten	tippten	0.05093078687787056	0
+VINDPSTNOM(3,SG)tippen	tippte	tippte	0.05154753103852272	0
+VSBJVPRSNOM(2,PL)tippen	tippet	tippet	0.05043402686715126	0
+VSBJVPRSNOM(2,SG)tippen	tippest	tippest	0.049410972744226456	0
+VSBJVPSTNOM(2,PL)tippen	tipptet	tipptet	0.05108841881155968	0
+VSBJVPSTNOM(3,SG)tippen	tippte	tippte	0.05193795636296272	0
+V.PTCPPRSumwandeln	umwandelnd	umwandelnd	0.04963253438472748	0
+VINDPRSNOM(1,SG)umwandeln	umwandle	wandle um	2.8467178344726562	5
+VINDPRSNOM(2,PL)umwandeln	umwandelt	wandelt um	2.4318687915802	5
+VINDPRSNOM(2,SG)umwandeln	umwandelst	wandelst um	2.1397247314453125	5
+VINDPRSNOM(3,PL)umwandeln	umwandeln	wandeln um	2.7237017154693604	5
+VINDPRSNOM(3,SG)umwandeln	umwandelt	wandelt um	1.9845439195632935	5
+VINDPSTNOM(2,PL)umwandeln	umwandeltet	wandeltet um	1.435266375541687	5
+VINDPSTNOM(3,PL)umwandeln	umwandelten	wandelten um	1.6133326292037964	5
+VNFINumwandeln	umwandeln	umwandeln	0.051050882786512375	0
+VSBJVPRSNOM(1,SG)umwandeln	umwandele	wandele um	2.689777374267578	5
+VSBJVPRSNOM(2,SG)umwandeln	umwandelest	wandelest um	2.492520570755005	5
+VSBJVPSTNOM(1,SG)umwandeln	umwandelte	wandelte um	1.6521466970443726	5
+VINDPRSNOM(1,PL)verscheissern	verscheissern	verscheissern	0.054173555225133896	0
+VINDPRSNOM(2,PL)verscheissern	verscheissert	verscheissert	0.05426785722374916	0
+VINDPRSNOM(2,SG)verscheissern	verscheisserst	verscheisserst	0.0532720573246479	0
+VINDPRSNOM(3,SG)verscheissern	verscheissert	verscheissert	0.0796213299036026	0
+VINDPSTNOM(1,PL)verscheissern	verscheissterten	verscheisserten	0.21791061758995056	1
+VINDPSTNOM(3,PL)verscheissern	verscheissterten	verscheisserten	0.21204066276550293	1
+VINDPSTNOM(3,SG)verscheissern	verscheissterte	verscheisserte	0.24913807213306427	1
+VSBJVPRSNOM(1,PL)verscheissern	verscheissern	verscheissern	0.05426740273833275	0
+VSBJVPRSNOM(1,SG)verscheissern	verscheissere	verscheissere	0.053926169872283936	0
+VSBJVPRSNOM(2,PL)verscheissern	verscheisseret	verscheisseret	0.05342114716768265	0
+VSBJVPRSNOM(3,PL)verscheissern	verscheissern	verscheissern	0.05423827841877937	0
+VSBJVPSTNOM(2,PL)verscheissern	verscheisstertet	verscheissertet	0.20299457013607025	1
+VSBJVPSTNOM(2,SG)verscheissern	verscheisstertest	verscheissertest	0.1797153353691101	1
+V.PTCPPSTversorgen	versorgt	versorgt	0.05139900743961334	0
+VIMPNOM(2,SG)versorgen	versorg	versorg	0.051300160586833954	0
+VINDPRSNOM(1,PL)versorgen	versorgen	versorgen	0.052970461547374725	0
+VINDPSTNOM(1,PL)versorgen	versorgten	versorgten	0.05249330773949623	0
+VINDPSTNOM(1,SG)versorgen	versorgte	versorgte	0.052424848079681396	0
+VINDPSTNOM(2,PL)versorgen	versorgtet	versorgtet	0.052613768726587296	0
+VINDPSTNOM(3,SG)versorgen	versorgte	versorgte	0.05237946659326553	0
+VNFINversorgen	versorgen	versorgen	0.05314825102686882	0
+VSBJVPRSNOM(3,PL)versorgen	versorgen	versorgen	0.05288398265838623	0
+VSBJVPSTNOM(2,PL)versorgen	versorgtet	versorgtet	0.05237342044711113	0
+VSBJVPSTNOM(2,SG)versorgen	versorgtest	versorgtest	0.051888395100831985	0
+VSBJVPSTNOM(3,PL)versorgen	versorgten	versorgten	0.05275830999016762	0
+VSBJVPSTNOM(3,SG)versorgen	versorgte	versorgte	0.05296973139047623	0
+V.PTCPPRSverursachen	verursachend	verursachend	0.05333662033081055	0
+V.PTCPPSTverursachen	verursacht	verursacht	0.05327797308564186	0
+VIMPNOM(2,PL)verursachen	verursacht	verursacht	0.053852833807468414	0
+VINDPRSNOM(3,SG)verursachen	verursacht	verursacht	0.053938690572977066	0
+VINDPSTNOM(1,SG)verursachen	verursachte	verursachte	0.05359293892979622	0
+VINDPSTNOM(2,SG)verursachen	verursachtest	verursachtest	0.05236882343888283	0
+VINDPSTNOM(3,SG)verursachen	verursachte	verursachte	0.053874850273132324	0
+VSBJVPRSNOM(1,SG)verursachen	verursache	verursache	0.054371777921915054	0
+VSBJVPRSNOM(2,SG)verursachen	verursachest	verursachest	0.053086958825588226	0
+VSBJVPRSNOM(3,PL)verursachen	verursachen	verursachen	0.05405479669570923	0
+VSBJVPRSNOM(3,SG)verursachen	verursache	verursache	0.05429793894290924	0
+VSBJVPSTNOM(1,PL)verursachen	verursachten	verursachten	0.05333036556839943	0
+VSBJVPSTNOM(3,SG)verursachen	verursachte	verursachte	0.05356775224208832	0
+V.PTCPPRSverwandeln	verwandelnd	verwandelnd	0.051608990877866745	0
+VINDPRSNOM(2,PL)verwandeln	verwandelt	verwandelt	0.05382233485579491	0
+VINDPSTNOM(1,PL)verwandeln	verwandelten	verwandelten	0.05298127606511116	0
+VINDPSTNOM(2,PL)verwandeln	verwandeltet	verwandeltet	0.05339430272579193	0
+VINDPSTNOM(3,PL)verwandeln	verwandelten	verwandelten	0.05297637730836868	0
+VNFINverwandeln	verwandeln	verwandeln	0.05290931835770607	0
+VSBJVPRSNOM(3,PL)verwandeln	verwandeln	verwandeln	0.0530686229467392	0
+VSBJVPRSNOM(3,SG)verwandeln	verwandele	verwandele	0.05335815250873566	0
+VSBJVPSTNOM(1,SG)verwandeln	verwandelte	verwandelte	0.05345453321933746	0
+VSBJVPSTNOM(2,PL)verwandeln	verwandeltet	verwandeltet	0.05292046070098877	0
+VSBJVPSTNOM(2,SG)verwandeln	verwandeltest	verwandeltest	0.052360184490680695	0
+VSBJVPSTNOM(3,PL)verwandeln	verwandelten	verwandelten	0.05290753021836281	0
+VSBJVPSTNOM(3,SG)verwandeln	verwandelte	verwandelte	0.053363949060440063	0
+V.PTCPPSTwahrnehmen	gewahrnehmt	wahrgenommen	2.5217385292053223	8
+VIMPNOM(2,PL)wahrnehmen	wahrnehmt	nehmt wahr	2.9821207523345947	9
+VINDPRSNOM(1,PL)wahrnehmen	wahrnehmen	nehmen wahr	3.00028920173645	9
+VINDPRSNOM(1,SG)wahrnehmen	wahrnehme	nehme wahr	3.0199334621429443	9
+VINDPRSNOM(2,SG)wahrnehmen	wahrnehmst	nimmst wahr	3.4655399322509766	11
+VINDPSTNOM(2,PL)wahrnehmen	wahrnehmtet	nahmt wahr	2.251715898513794	9
+VINDPSTNOM(2,SG)wahrnehmen	wahrnehmtest	nahmst wahr	2.3252265453338623	10
+VINDPSTNOM(3,PL)wahrnehmen	wahrnehmten	nahmen wahr	2.0931789875030518	9
+VINDPSTNOM(3,SG)wahrnehmen	wahrnehmte	nahm wahr	2.4337494373321533	8
+VSBJVPRSNOM(1,PL)wahrnehmen	wahrnehmen	nehmen wahr	2.97647762298584	9
+VSBJVPRSNOM(1,SG)wahrnehmen	wahrnehme	nehme wahr	2.9543046951293945	9
+VSBJVPRSNOM(3,PL)wahrnehmen	wahrnehmen	nehmen wahr	2.9938173294067383	9
+VSBJVPSTNOM(1,PL)wahrnehmen	wahrnehmten	nähmen wahr	2.3908469676971436	10
+V.PTCPPSTwalzen	gewalzt	gewalzt	0.052373334765434265	0
+VIMPNOM(2,PL)walzen	walzt	walzt	0.053008440881967545	0
+VINDPRSNOM(1,PL)walzen	walzen	walzen	0.052899450063705444	0
+VINDPRSNOM(2,SG)walzen	walzt	walzt	0.05240826681256294	0
+VINDPSTNOM(1,PL)walzen	walzten	walzten	0.05270522087812424	0
+VINDPSTNOM(2,SG)walzen	walztest	walztest	0.05125081166625023	0
+VSBJVPRSNOM(1,SG)walzen	walze	walze	0.05223684012889862	0
+VSBJVPRSNOM(2,PL)walzen	walzet	walzet	0.051606591790914536	0
+VSBJVPRSNOM(3,PL)walzen	walzen	walzen	0.052713923156261444	0
+VSBJVPRSNOM(3,SG)walzen	walze	walze	0.051936980336904526	0
+VSBJVPSTNOM(1,SG)walzen	walzte	walzte	0.05295397713780403	0
+VSBJVPSTNOM(2,SG)walzen	walztest	walztest	0.05158233642578125	0
+VSBJVPSTNOM(3,SG)walzen	walzte	walzte	0.05271128565073013	0
+VIMPNOM(2,PL)werten	wertet	wertet	0.053236015141010284	0
+VINDPRSNOM(2,PL)werten	wertet	wertet	0.0535261295735836	0
+VINDPRSNOM(3,SG)werten	wertet	wertet	0.05377018824219704	0
+VINDPSTNOM(1,PL)werten	werteten	werteten	0.05462922155857086	0
+VINDPSTNOM(3,PL)werten	werteten	werteten	0.054780587553977966	0
+VSBJVPRSNOM(1,PL)werten	werten	werten	0.054154735058546066	0
+VSBJVPRSNOM(2,PL)werten	wertet	wertet	0.05395251512527466	0
+VSBJVPRSNOM(3,SG)werten	werte	werte	0.052799537777900696	0
+VSBJVPSTNOM(1,SG)werten	wertete	wertete	0.0547107458114624	0
+VSBJVPSTNOM(2,SG)werten	wertetest	wertetest	0.05362112447619438	0
+VSBJVPSTNOM(3,PL)werten	werteten	werteten	0.054848358035087585	0
+VSBJVPSTNOM(3,SG)werten	wertete	wertete	0.05489807203412056	0
+V.PTCPPRSzementieren	zementierend	zementierend	0.0522029772400856	0
+V.PTCPPSTzementieren	zementiert	zementiert	0.05231335014104843	0
+VIMPNOM(2,PL)zementieren	zementiert	zementiert	0.05275052413344383	0
+VIMPNOM(2,SG)zementieren	zementier	zementier	0.05164366215467453	0
+VINDPRSNOM(3,PL)zementieren	zementieren	zementieren	0.05320783331990242	0
+VINDPRSNOM(3,SG)zementieren	zementiert	zementiert	0.05295054614543915	0
+VINDPSTNOM(1,PL)zementieren	zementierten	zementierten	0.05298646539449692	0
+VINDPSTNOM(3,PL)zementieren	zementierten	zementierten	0.05301157385110855	0
+VINDPSTNOM(3,SG)zementieren	zementierte	zementierte	0.0530940443277359	0
+VSBJVPRSNOM(1,PL)zementieren	zementieren	zementieren	0.05315393581986427	0
+VSBJVPRSNOM(2,PL)zementieren	zementieret	zementieret	0.052520330995321274	0
+VSBJVPSTNOM(1,SG)zementieren	zementierte	zementierte	0.052968014031648636	0
+VSBJVPSTNOM(3,PL)zementieren	zementierten	zementierten	0.052841782569885254	0
+V.PTCPPSTzugeben	gezugeben	zugegeben	0.5936154723167419	4
+VIMPNOM(2,SG)zugeben	geb zu	gib zu	0.22630880773067474	1
+VINDPRSNOM(1,PL)zugeben	geben zu	geben zu	0.080406554043293	0
+VINDPRSNOM(2,PL)zugeben	zugebt	gebt zu	0.5546927452087402	5
+VINDPRSNOM(2,SG)zugeben	zugebst	gibst zu	0.6895075440406799	6
+VINDPRSNOM(3,PL)zugeben	geben zu	geben zu	0.07862143218517303	0
+VINDPRSNOM(3,SG)zugeben	zugebt	gibt zu	0.32467538118362427	6
+VINDPSTNOM(1,PL)zugeben	gaben zu	gaben zu	0.08698707073926926	0
+VINDPSTNOM(1,SG)zugeben	gab zu	gab zu	0.07571808248758316	0
+VINDPSTNOM(2,SG)zugeben	zugibst	gabst zu	0.16191785037517548	6
+VINDPSTNOM(3,PL)zugeben	gaben zu	gaben zu	0.08157225698232651	0
+VINDPSTNOM(3,SG)zugeben	gab zu	gab zu	0.08967512845993042	0
+VSBJVPRSNOM(3,SG)zugeben	gebe zu	gebe zu	0.08904296904802322	0
+NACC(PL)Überlebenskunst	Überlebenskunsten	Überlebenskünste	0.4055393636226654	2
+NACC(SG)Überlebenskunst	Überlebenskunst	Überlebenskunst	0.058042287826538086	0
+NDAT(PL)Überlebenskunst	Überlebenskunsten	Überlebenskünsten	0.3921491205692291	1
+NDAT(SG)Überlebenskunst	Überlebenskunst	Überlebenskunst	0.07311131060123444	0
+NGEN(PL)Überlebenskunst	Überlebenskunsten	Überlebenskünste	0.40605825185775757	2
+NGEN(SG)Überlebenskunst	Überlebenskunstes	Überlebenskunst	0.381533145904541	2
+NNOM(PL)Überlebenskunst	Überlebenskunsten	Überlebenskünste	0.4114696979522705	2
+NNOM(SG)Überlebenskunst	Überlebenskunst	Überlebenskunst	0.055915169417858124	0

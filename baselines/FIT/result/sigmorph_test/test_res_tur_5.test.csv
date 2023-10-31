@@ -1,0 +1,1001 @@
+source,prediction,target,loss,dist
+NABL(PLPSS(1,PL))acı,acılarımızdan,acılarımızdan,0.048107367008924484,0
+NABL(PLPSS(3,SG))acı,acılarından,acılarından,0.04794330894947052,0
+NABL(SG)acı,acıdan,acıdan,0.049479078501462936,0
+NABL(SGPSS(2,PL))acı,acınızdan,acınızdan,0.04769943282008171,0
+NABL(SGPSS(3,SG))acı,acısından,acısından,0.048317618668079376,0
+NACC(SGPSS(2,SG))acı,acını,acını,0.04821474850177765,0
+NDAT(SGPSS(1,PL))acı,acımıza,acımıza,0.046049512922763824,0
+NDAT(SGPSS(2,SG))acı,acına,acına,0.04566853865981102,0
+NGEN(PL)acı,acıların,acıların,0.04794357717037201,0
+NGEN(PLPSS(2,PL))acı,acılarınızın,acılarınızın,0.05001990497112274,0
+NGEN(PLPSS(3,SG))acı,acılarının,acılarının,0.048825982958078384,0
+NGEN(SG)acı,acının,acının,0.050002165138721466,0
+NLOC(PLPSS(2,PL))acı,acılarınızda,acılarınızda,0.04921609163284302,0
+NLOC(SG)acı,acıda,acıda,0.04949101805686951,0
+NLOC(SGPSS(1,PL))acı,acımızda,acımızda,0.04736514762043953,0
+NLOC(SGPSS(2,SG))acı,acında,acında,0.046897534281015396,0
+NNOM(SGPSS(2,PL))acı,acınız,acınız,0.046923499554395676,0
+NNOM(SGPSS(2,SG))acı,acın,acın,0.054441750049591064,0
+NPLINFRPSTNOM(2,PL)acı,acılarmışsınız,acılarmışsınız,0.050136856734752655,0
+NPLPRSNOM(1,SG)acı,acılarım,acılarım,0.04655824601650238,0
+NSGPRSNOM(1,PL)acı,acıyız,acıyız,0.04855537787079811,0
+NSGPRSNOM(1,SG)acı,acıyım,acıyım,0.04636722058057785,0
+VIMPLGSPEC2NEGDECLNOM(2,PL)acıktırtmak,acıktırtmayınız,acıktırtmayınız,0.05180121958255768,0
+VINDFUTPROGPOSDECLNOM(3,PL)acıktırtmak,acıktırtıyor olacaklar,acıktırtıyor olacaklar,0.06463933736085892,0
+VINDFUTPRSPINTRPOSNOM(1,PL)acıktırtmak,acıktırtacak olacak mıyız,acıktırtacak olacak mıyız,0.05549093335866928,0
+VINDFUTPRSPINTRPOSNOM(2,PL)acıktırtmak,acıktırtacak olacak mısınız,acıktırtacak olacak mısınız,0.055930245667696,0
+VINDFUTPRSPNEGDECLNOM(2,PL)acıktırtmak,acıktırtacak olmayacaksınız,acıktırtacak olmayacaksınız,0.05515380576252937,0
+VINDPRSPROGINTRPOSNOM(3,SG)acıktırtmak,acıktırtıyor mu,acıktırtıyor mu,0.05357113480567932,0
+VINDPSTHABPROGINTRPOSNOM(3,SG)acıktırtmak,acıktırtıyor olur muydu,acıktırtıyor olur muydu,0.05733685567975044,0
+VINDPSTHABPROGNEGINTRNOM(2,SG)acıktırtmak,acıktırtıyor olmaz mıydın,acıktırtıyor olmaz mıydın,0.060453787446022034,0
+VINDPSTPERFINTRPOSNOM(2,SG)acıktırtmak,acıktırttı mıydın,acıktırttı mıydın,0.06986647099256516,0
+VINDPSTPERFNEGINTRNOM(1,PL)acıktırtmak,acıktırtmadı mıydık,acıktırtmadı mıydık,0.051780588924884796,0
+VINDPSTPOSDECLNOM(3,PL)acıktırtmak,acıktırttılar,acıktırttılar,0.06169365718960762,0
+VINDPSTPROGNEGDECLNOM(3,SG)acıktırtmak,acıktırtmıyordu,acıktırtmıyordu,0.050904832780361176,0
+VINFRFUTNEGINTRNOM(3,PL)acıktırtmak,acıktırtmayacaklar mıymış,acıktırtmayacaklar mıymış,0.050056442618370056,0
+VINFRFUTPERFPOSDECLNOM(2,PL)acıktırtmak,acıktırtmış olacaksınız,acıktırtmış olacaksınız,0.051656950265169144,0
+VINFRFUTPOSDECLNOM(2,PL)acıktırtmak,acıktırtacakmışsınız,acıktırtacakmışsınız,0.05113495513796806,0
+VINFRFUTPRSPNEGINTRNOM(2,SG)acıktırtmak,acıktırtacak olmayacak mıymışsın,acıktırtacak olmayacak mıymışsın,0.05099288746714592,0
+VINFRPSTPERFNEGDECLNOM(3,PL)acıktırtmak,acıktırtmamışlardı,acıktırtmamışlardı,0.05033383145928383,0
+VINFRPSTPRSPPOSDECLNOM(2,SG)acıktırtmak,acıktırtmış olacaktın,acıktırtmış olacaktın,0.050679102540016174,0
+VNECPRSPOSDECLNOM(1,SG)acıktırtmak,acıktırtmeliyim,acıktırtmeliyim,0.04964522272348404,0
+VNECPRSPROGNEGDECLNOM(2,SG)acıktırtmak,acıktırtıyor olmamalısın,acıktırtıyor olmamalısın,0.06044939160346985,0
+VNECPSTNEGINTRNOM(1,SG)acıktırtmak,acıktırtmamalı mıydım,acıktırtmamalı mıydım,0.05095210298895836,0
+VNECPSTPROGINTRPOSNOM(1,SG)acıktırtmak,acıktırtıyor olmalı mıydım,acıktırtıyor olmalı mıydım,0.06070062145590782,0
+NABL(PL)akciğer anjiyografisi,akciğer anjirogalarından,akciğer anjiyografilerinden,1.260284423828125,7
+NABL(SG)akciğer anjiyografisi,akciğer anjirogasından,akciğer anjiyografisinden,1.3280980587005615,6
+NACC(PL)akciğer anjiyografisi,akciğer anjirogalarını,akciğer anjiyografilerini,1.1879922151565552,7
+NACC(SG)akciğer anjiyografisi,akciğer anjirosunu,akciğer anjiyografisini,1.3799787759780884,8
+NDAT(PL)akciğer anjiyografisi,akciğer anjirogalarına,akciğer anjiyografilerine,1.3929412364959717,7
+NDAT(SG)akciğer anjiyografisi,akciğer anjirosuna,akciğer anjiyografisine,1.482485294342041,8
+NGEN(PL)akciğer anjiyografisi,akciğer anjirogalarının,akciğer anjiyografilerinin,1.3051633834838867,7
+NGEN(SG)akciğer anjiyografisi,akciğer anjirosunun,akciğer anjiyografisinin,1.271876335144043,8
+NLOC(PL)akciğer anjiyografisi,akciğer anjirogalarında,akciğer anjiyografilerinde,1.2947489023208618,7
+NLOC(SG)akciğer anjiyografisi,akciğer anjirogasında,akciğer anjiyografisinde,1.3506594896316528,6
+NNOM(PL)akciğer anjiyografisi,akciğer anjirogaları,akciğer anjiyografileri,1.3482098579406738,6
+NNOM(SG)akciğer anjiyografisi,akciğer anjirogası,akciğer anjiyografisi,1.4992432594299316,5
+VINDFUTPOSDECLNOM(3,SG)aldırtmak,aldırtacak,aldırtacak,0.04574175179004669,0
+VINDFUTPROGNEGDECLNOM(1,SG)aldırtmak,aldırtıyor olmayacağım,aldırtıyor olmayacağım,0.0507795587182045,0
+VINDFUTPRSPNEGINTRNOM(2,SG)aldırtmak,aldırtacak olmayacak mısın,aldırtacak olmayacak mısın,0.04989027604460716,0
+VINDPSTHABINTRPOSNOM(2,PL)aldırtmak,aldırtır mıydınız,aldırtır mıydınız,0.05211648717522621,0
+VINDPSTHABNEGDECLNOM(1,SG)aldırtmak,aldırtmazdım,aldırtmazdım,0.05026380717754364,0
+VINDPSTHABNEGINTRNOM(3,SG)aldırtmak,aldırtmaz mıydı,aldırtmaz mıydı,0.05191374942660332,0
+VINDPSTNEGDECLNOM(3,SG)aldırtmak,aldırtmadı,aldırtmadı,0.04916650429368019,0
+VINDPSTPRSPPROGNEGINTRNOM(1,PL)aldırtmak,aldırtıyor olmayacak mıydık,aldırtıyor olmayacak mıydık,0.05110487714409828,0
+VINFRFUTHABNEGDECLNOM(3,SG)aldırtmak,aldırtır olmayacakmış,aldırtır olmayacakmış,0.04946323484182358,0
+VINFRFUTNEGDECLNOM(3,PL)aldırtmak,aldırtmayacaklarmış,aldırtmayacaklarmış,0.04826352372765541,0
+VINFRFUTPERFNEGDECLNOM(3,PL)aldırtmak,aldırtmış olmayacaklar,aldırtmış olmayacaklar,0.04888572543859482,0
+VINFRFUTPROGPOSDECLNOM(1,PL)aldırtmak,aldırtıyor olacakmışız,aldırtıyor olacakmışız,0.05100361257791519,0
+VINFRFUTPRSPPOSDECLNOM(3,PL)aldırtmak,aldırtacak olacaklarmış,aldırtacak olacaklarmış,0.047862619161605835,0
+VNECINFRPRSPROGNEGINTRNOM(1,SG)aldırtmak,aldırtıyor olmamalı mıymışım,aldırtıyor olmamalı mıymışım,0.05097128078341484,0
+VNECINFRPSTPOSDECLNOM(3,PL)aldırtmak,aldırtmalılarmış,aldırtmalılarmış,0.04869167134165764,0
+VNECPRSNEGDECLNOM(3,PL)aldırtmak,aldırtmameliler,aldırtmameliler,0.04721609503030777,0
+VNECPRSPOSDECLNOM(1,SG)aldırtmak,aldırtmeliyim,aldırtmeliyim,0.04764831066131592,0
+VNECPRSPOSDECLNOM(2,SG)aldırtmak,aldırtmelisin,aldırtmelisin,0.04866412281990051,0
+VNECPSTNEGDECLNOM(3,SG)aldırtmak,aldırtmamalıydı,aldırtmamalıydı,0.04969894886016846,0
+VNECPSTNEGINTRNOM(3,SG)aldırtmak,aldırtmamalı mıydı,aldırtmamalı mıydı,0.05061011016368866,0
+VNECPSTPOSDECLNOM(1,PL)aldırtmak,aldırtmalıydık,aldırtmalıydık,0.04918884485960007,0
+NABL(PLPSS(2,PL))aygır,aygırlarınızdan,aygırlarınızdan,0.048705995082855225,0
+NABL(SGPSS(1,PL))aygır,aygırımızdan,aygırımızdan,0.047942154109478,0
+NACC(SGPSS(3,SG))aygır,aygırını,aygırını,0.048423316329717636,0
+NDAT(PL)aygır,aygırlara,aygırlara,0.04622151702642441,0
+NDAT(PLPSS(2,SG))aygır,aygırlarına,aygırlarına,0.04782508686184883,0
+NGEN(PLPSS(3,SG))aygır,aygırlarının,aygırlarının,0.04842160642147064,0
+NLOC(SG)aygır,aygırda,aygırda,0.049963291734457016,0
+NLOC(SGPSS(3,SG))aygır,aygırında,aygırında,0.048192448914051056,0
+NNOM(PL)aygır,aygırlar,aygırlar,0.04613383114337921,0
+NPLINDPSTNOM(1,PL)aygır,aygırlardık,aygırlardık,0.04775707423686981,0
+NPLINDPSTNOM(2,SG)aygır,aygırlardın,aygırlardın,0.049067944288253784,0
+NPLINDPSTNOM(3,SG)aygır,aygırlardı,aygırlardı,0.049161866307258606,0
+NPLINFRPSTNOM(2,SG)aygır,aygırlarmışsın,aygırlarmışsın,0.050028204917907715,0
+NPLPRSNOM(1,SG)aygır,aygırlarım,aygırlarım,0.04687095060944557,0
+NSGINDPSTNOM(3,PL)aygır,aygırdılar,aygırdılar,0.04792303964495659,0
+NSGINFRPSTNOM(2,PL)aygır,aygırmışsınız,aygırmışsınız,0.049220647662878036,0
+NSGINFRPSTNOM(2,SG)aygır,aygırmışsın,aygırmışsın,0.04890240728855133,0
+NSGINFRPSTNOM(3,PL)aygır,aygırmışlar,aygırmışlar,0.046457916498184204,0
+NSGPRSNOM(1,SG)aygır,aygırım,aygırım,0.05355314910411835,0
+NSGPRSNOM(3,PL)aygır,aygırlar,aygırlar,0.04596404731273651,0
+NSGPRSNOM(3,SG)aygır,aygır,aygır,0.04622731730341911,0
+NABL(PL)birleşik kelime,birleşik kelimelerden,birleşik kelimelerden,0.04978138208389282,0
+NABL(SG)birleşik kelime,birleşik kelimeden,birleşik kelimeden,0.04998212680220604,0
+NACC(PL)birleşik kelime,birleşik kelimeleri,birleşik kelimeleri,0.05042470619082451,0
+NACC(SG)birleşik kelime,birleşik kelimeyi,birleşik kelimeyi,0.05537738651037216,0
+NDAT(PL)birleşik kelime,birleşik kelimelere,birleşik kelimelere,0.05007137730717659,0
+NDAT(SG)birleşik kelime,birleşik kelimeye,birleşik kelimeye,0.061074428260326385,0
+NGEN(PL)birleşik kelime,birleşik kelimelerin,birleşik kelimelerin,0.049261126667261124,0
+NGEN(SG)birleşik kelime,birleşik kelimenin,birleşik kelimenin,0.05884191766381264,0
+NLOC(PL)birleşik kelime,birleşik kelimelerde,birleşik kelimelerde,0.049700554460287094,0
+NLOC(SG)birleşik kelime,birleşik kelimede,birleşik kelimede,0.0496765673160553,0
+NNOM(PL)birleşik kelime,birleşik kelimeler,birleşik kelimeler,0.048770684748888016,0
+NNOM(SG)birleşik kelime,birleşik kelime,birleşik kelime,0.04884125292301178,0
+VINDFUTPROGNEGINTRNOM(1,PL)büyümek,büyüyor olmayacak mıyız,büyüyor olmayacak mıyız,0.050936341285705566,0
+VINDFUTPRSPINTRPOSNOM(3,PL)büyümek,büyüyecek olacaklar mı,büyüyecek olacaklar mı,0.05083070695400238,0
+VINDFUTPRSPNEGINTRNOM(2,PL)büyümek,büyüyecek olmayacak mısınız,büyüyecek olmayacak mısınız,0.05345892161130905,0
+VINDPRSPROGINTRPOSNOM(1,PL)büyümek,büyüyor muyuz,büyüyor muyuz,0.04784127324819565,0
+VINDPRSPROGINTRPOSNOM(1,SG)büyümek,büyüyor muyum,büyüyor muyum,0.04738115519285202,0
+VINDPRSPROGINTRPOSNOM(2,SG)büyümek,büyüyor musun,büyüyor musun,0.04819595813751221,0
+VINDPSTPERFNEGDECLNOM(1,PL)büyümek,büyümediydik,büyümediydik,0.04716608300805092,0
+VINDPSTPERFNEGINTRNOM(1,PL)büyümek,büyümedi miydik,büyümedi miydik,0.04797745868563652,0
+VINDPSTPOSDECLNOM(1,SG)büyümek,büyüdüm,büyüdüm,0.04404236376285553,0
+VINDPSTPROGNEGDECLNOM(2,PL)büyümek,büyümüyordunuz,büyümüyordunuz,0.046326830983161926,0
+VINFRFUTPERFPOSDECLNOM(1,SG)büyümek,büyümüş olacağım,büyümüş olacağım,0.04760749265551567,0
+VINFRFUTPROGNEGDECLNOM(3,PL)büyümek,büyüyor olmayacaklarmış,büyüyor olmayacaklarmış,0.049673598259687424,0
+VINFRPRSHABPOSDECLNOM(3,PL)büyümek,büyürlermiş,büyürlermiş,0.046461720019578934,0
+VINFRPSTPERFNEGINTRNOM(2,SG)büyümek,büyümemiş miydin,büyümemiş miydin,0.049804121255874634,0
+VNECINFRPRSPROGNEGINTRNOM(1,PL)büyümek,büyüyor olmamalı mıymışız,büyüyor olmamalı mıymışız,0.0509006604552269,0
+VNECINFRPSTNEGINTRNOM(3,PL)büyümek,büyümemeliler miymiş,büyümemeliler miymiş,0.047514598816633224,0
+VNECPRSPOSDECLNOM(3,SG)büyümek,büyümeli,büyümeli,0.04622077941894531,0
+VNECPRSPROGINTRPOSNOM(2,SG)büyümek,büyüyor olmalı mısın,büyüyor olmalı mısın,0.05121608451008797,0
+VNECPSTINTRPOSNOM(2,PL)büyümek,büyümeli miydiniz,büyümeli miydiniz,0.049797508865594864,0
+VNECPSTPOSDECLNOM(1,PL)büyümek,büyümeliydik,büyümeliydik,0.04674800485372543,0
+VNECPSTPROGNEGDECLNOM(1,PL)büyümek,büyüyor olmamalıydık,büyüyor olmamalıydık,0.049877505749464035,0
+NABL(PL)dağlı,dağlılarından,dağlılardan,0.23178142309188843,2
+NABL(SG)dağlı,dağlıdan,dağlıdan,0.046022724360227585,0
+NACC(PL)dağlı,dağlıları,dağlıları,0.12347830832004547,0
+NACC(SG)dağlı,dağlıyı,dağlıyı,0.06249187886714935,0
+NDAT(PL)dağlı,dağlılara,dağlılara,0.05495156720280647,0
+NDAT(SG)dağlı,dağlıya,dağlıya,0.05613699555397034,0
+NGEN(PL)dağlı,dağlıların,dağlıların,0.04865444824099541,0
+NGEN(SG)dağlı,dağlının,dağlının,0.04706616699695587,0
+NLOC(PL)dağlı,dağlılarda,dağlılarda,0.10548721998929977,0
+NLOC(SG)dağlı,dağlıda,dağlıda,0.045720405876636505,0
+NNOM(PL)dağlı,dağlılar,dağlılar,0.04729180783033371,0
+NNOM(SG)dağlı,dağlı,dağlı,0.046448301523923874,0
+VINDFUTPROGPOSDECLNOM(1,SG)dermek,deriyor olacağım,deriyor olacağım,0.050327979028224945,0
+VINDPRSHABPOSDECLNOM(1,SG)dermek,dererim,dererim,0.05317292362451553,0
+VINDPRSHABPOSDECLNOM(2,SG)dermek,derersin,derersin,0.049344584345817566,0
+VINDPSTHABPROGPOSDECLNOM(1,SG)dermek,deriyor olurdum,deriyor olurdum,0.04868409037590027,0
+VINDPSTPERFINTRPOSNOM(2,SG)dermek,derdi miydin,derdi miydin,0.0507582426071167,0
+VINDPSTPROGNEGDECLNOM(3,SG)dermek,dermiyordu,dermiyordu,0.0475185252726078,0
+VINDPSTPRSPNEGDECLNOM(1,SG)dermek,dermeyecektim,dermeyecektim,0.04753865674138069,0
+VINDPSTPRSPPROGINTRPOSNOM(3,SG)dermek,deriyor olacak mıydı,deriyor olacak mıydı,0.05193647742271423,0
+VINDPSTPRSPPROGPOSDECLNOM(1,PL)dermek,deriyor olacaktık,deriyor olacaktık,0.049202170222997665,0
+VINFRFUTPERFPOSDECLNOM(2,PL)dermek,dermiş olacaksınız,dermiş olacaksınız,0.04996731877326965,0
+VINFRFUTPOSDECLNOM(1,SG)dermek,derecekmişim,derecekmişim,0.04703034833073616,0
+VINFRPRSPROGNEGDECLNOM(1,SG)dermek,dermiyormuşum,dermiyormuşum,0.0467522032558918,0
+VINFRPSTNEGINTRNOM(1,PL)dermek,dermemiş miyiz,dermemiş miyiz,0.05003996565937996,0
+VINFRPSTSGPOSDECLNOM(3)dermek,dermişmiş,dermişmiş,0.049666088074445724,0
+VNECINFRPRSPROGNEGDECLNOM(2,PL)dermek,deriyor olmamalıymışsınız,deriyor olmamalıymışsınız,0.05088367685675621,0
+VNECINFRPSTINTRPOSNOM(3,PL)dermek,dermeliler miymiş,dermeliler miymiş,0.0487382635474205,0
+VNECINFRPSTNEGDECLNOM(3,SG)dermek,dermemeliymiş,dermemeliymiş,0.04738602042198181,0
+VNECPRSPOSDECLNOM(2,PL)dermek,dermelisiniz,dermelisiniz,0.04928489401936531,0
+VNECPRSPROGPOSDECLNOM(3,PL)dermek,deriyor olmalılar,deriyor olmalılar,0.04930853471159935,0
+VNECPSTPOSDECLNOM(1,PL)dermek,dermeliydik,dermeliydik,0.04769093915820122,0
+NABL(PLPSS(3,SG))dindarlık,dindarlıklarından,dindarlıklarından,0.04965996369719505,0
+NABL(SGPSS(2,PL))dindarlık,dindarlığınızdan,dindarlığınızdan,0.05083942040801048,0
+NACC(PLPSS(2,PL))dindarlık,dindarlıklarınızı,dindarlıklarınızı,0.05119289830327034,0
+NDAT(PL)dindarlık,dindarlıklara,dindarlıklara,0.04876846820116043,0
+NDAT(PLPSS(2,PL))dindarlık,dindarlıklarınıza,dindarlıklarınıza,0.050045669078826904,0
+NDAT(PLPSS(2,SG))dindarlık,dindarlıklarına,dindarlıklarına,0.049673911184072495,0
+NDAT(SGPSS(2,SG))dindarlık,dindarlığına,dindarlığına,0.05010925233364105,0
+NGEN(PL)dindarlık,dindarlıkların,dindarlıkların,0.04963689669966698,0
+NGEN(PLPSS(3,SG))dindarlık,dindarlıklarının,dindarlıklarının,0.05037158727645874,0
+NGEN(SGPSS(1,PL))dindarlık,dindarlığımızın,dindarlığımızın,0.0508778914809227,0
+NGEN(SGPSS(2,PL))dindarlık,dindarlığınızın,dindarlığınızın,0.05154386907815933,0
+NGEN(SGPSS(2,SG))dindarlık,dindarlığının,dindarlığının,0.050387632101774216,0
+NLOC(PLPSS(1,PL))dindarlık,dindarlıklarımızda,dindarlıklarımızda,0.04946799576282501,0
+NLOC(PLPSS(3,SG))dindarlık,dindarlıklarında,dindarlıklarında,0.049813106656074524,0
+NLOC(SGPSS(1,PL))dindarlık,dindarlığımızda,dindarlığımızda,0.05021267756819725,0
+NLOC(SGPSS(2,PL))dindarlık,dindarlığınızda,dindarlığınızda,0.051008064299821854,0
+NLOC(SGPSS(3,SG))dindarlık,dindarlığında,dindarlığında,0.05029478669166565,0
+NNOM(PLPSS(2,SG))dindarlık,dindarlıkların,dindarlıkların,0.0498727411031723,0
+NNOM(PLPSS(3,SG))dindarlık,dindarlıkları,dindarlıkları,0.04998796805739403,0
+NNOM(SGPSS(1,PL))dindarlık,dindarlığımız,dindarlığımız,0.05061483010649681,0
+NNOM(SGPSS(3,SG))dindarlık,dindarlığı,dindarlığı,0.049837447702884674,0
+VINDFUTPROGNEGDECLNOM(1,SG)doğramak,doğruyor olmayacağım,doğruyor olmayacağım,0.0493474006652832,0
+VINDPRSHABPOSDECLNOM(3,SG)doğramak,doğrar,doğrar,0.04665915295481682,0
+VINDPSTHABINTRPOSNOM(1,PL)doğramak,doğrar mıydık,doğrar mıydık,0.050754062831401825,0
+VINDPSTHABPROGINTRPOSNOM(3,PL)doğramak,doğruyor olurlar mıydı,doğruyor olurlar mıydı,0.05040285736322403,0
+VINDPSTPROGINTRPOSNOM(1,SG)doğramak,doğruyor muydum,doğruyor muydum,0.04982391744852066,0
+VINDPSTPROGNEGINTRNOM(3,PL)doğramak,doğramıyorlar mıydı,doğramıyorlar mıydı,0.0504797101020813,0
+VINDPSTPRSPINTRPOSNOM(3,PL)doğramak,doğrayacaklar mıydı,doğrayacaklar mıydı,0.04961622878909111,0
+VINFRFUTNEGDECLNOM(2,SG)doğramak,doğramayacakmışsın,doğramayacakmışsın,0.0494953878223896,0
+VINFRFUTPERFNEGINTRNOM(2,PL)doğramak,doğramış olmayacak mısınız,doğramış olmayacak mısınız,0.051035087555646896,0
+VINFRFUTPERFPOSDECLNOM(3,PL)doğramak,doğramış olacaklar,doğramış olacaklar,0.04849455878138542,0
+VINFRFUTPROGINTRPOSNOM(3,PL)doğramak,doğruyor olacaklar mıymış,doğruyor olacaklar mıymış,0.050069961696863174,0
+VINFRFUTPRSPINTRPOSNOM(3,PL)doğramak,doğraacak olacaklar mıymış,doğraacak olacaklar mıymış,0.054442815482616425,0
+VINFRPSTNEGINTRNOM(3,PL)doğramak,doğramamışlar mı,doğramamışlar mı,0.04897361248731613,0
+VINFRPSTPERFINTRPOSNOM(1,SG)doğramak,doğramış mıydım,doğramış mıydım,0.05057578906416893,0
+VINFRPSTPRSPINTRPOSNOM(2,SG)doğramak,doğramış olacak mıydın,doğramış olacak mıydın,0.0515814870595932,0
+VINFRPSTPRSPNEGDECLNOM(2,SG)doğramak,doğramış olmayacaktın,doğramış olmayacaktın,0.049645159393548965,0
+VNECINFRPRSPROGNEGINTRNOM(3,PL)doğramak,doğruyor olmamalılar mıymış,doğruyor olmamalılar mıymış,0.04977905750274658,0
+VNECINFRPSTINTRPOSNOM(3,PL)doğramak,doğramalılar mıymış,doğramalılar mıymış,0.04927118867635727,0
+VNECINFRPSTNEGDECLNOM(3,SG)doğramak,doğramamalıymış,doğramamalıymış,0.048457980155944824,0
+VNECINFRPSTPOSDECLNOM(3,PL)doğramak,doğramalılarmış,doğramalılarmış,0.048387233167886734,0
+VNECPRSPROGNEGDECLNOM(2,SG)doğramak,doğruyor olmamalısın,doğruyor olmamalısın,0.049788445234298706,0
+VNECPSTINTRPOSNOM(1,PL)doğramak,doğramalı mıydık,doğramalı mıydık,0.05011623352766037,0
+VINDFUTNEGDECLNOM(3,SG)el sıkışmak,el sıkışmayacak,el sıkışmayacak,0.0485803447663784,0
+VINDFUTPRSPNEGDECLNOM(1,SG)el sıkışmak,el sıkışacak olmayacağım,el sıkışacak olmayacağım,0.049059439450502396,0
+VINDPRSPROGINTRPOSNOM(2,PL)el sıkışmak,el sıkışıyor musunuz,el sıkışıyor musunuz,0.049789950251579285,0
+VINDPRSPROGPOSDECLNOM(3,PL)el sıkışmak,el sıkışıyorlar,el sıkışıyorlar,0.049966976046562195,0
+VINDPSTHABPROGPOSDECLNOM(2,SG)el sıkışmak,el sıkışıyor olurdun,el sıkışıyor olurdun,0.050294943153858185,0
+VINDPSTPERFPOSDECLNOM(3,PL)el sıkışmak,el sıkıştılardı,el sıkıştılardı,0.05247883498668671,0
+VINDPSTPRSPINTRPOSNOM(2,SG)el sıkışmak,el sıkışacak mıydın,el sıkışacak mıydın,0.05152059718966484,0
+VINDPSTPRSPPROGINTRPOSNOM(1,SG)el sıkışmak,el sıkışıyor olacak mıydım,el sıkışıyor olacak mıydım,0.051903415471315384,0
+VINDPSTPRSPPROGNEGDECLNOM(2,PL)el sıkışmak,el sıkışıyor olmayacaktınız,el sıkışıyor olmayacaktınız,0.05079211667180061,0
+VINDPSTPRSPPROGPOSDECLNOM(1,SG)el sıkışmak,el sıkışıyor olacaktım,el sıkışıyor olacaktım,0.05042889341711998,0
+VINFRFUTHABPOSDECLNOM(3,PL)el sıkışmak,el sıkışır olacaklarmış,el sıkışır olacaklarmış,0.049569714814424515,0
+VINFRPSTNEGDECLNOM(1,SG)el sıkışmak,el sıkışmamışım,el sıkışmamışım,0.05090168118476868,0
+VINFRPSTPERFINTRPOSNOM(1,PL)el sıkışmak,el sıkışmış mıydık,el sıkışmış mıydık,0.05163443088531494,0
+VINFRPSTPERFNEGDECLNOM(3,PL)el sıkışmak,el sıkışmamışlardı,el sıkışmamışlardı,0.05046472325921059,0
+VINFRPSTPLINTRPOSNOM(1)el sıkışmak,el sıkışmış mıymışız,el sıkışmış mıymışız,0.05496115982532501,0
+VINFRPSTSGNEGDECLNOM(1)el sıkışmak,el sıkışmamışmışım,el sıkışmamışmışım,0.05052477866411209,0
+VNECINFRPRSPROGNEGINTRNOM(1,PL)el sıkışmak,el sıkışıyor olmamalı mıymışız,el sıkışıyor olmamalı mıymışız,0.051324520260095596,0
+VNECINFRPSTNEGDECLNOM(2,PL)el sıkışmak,el sıkışmamalıymışsınız,el sıkışmamalıymışsınız,0.05043557286262512,0
+VNECPRSINTRPOSNOM(3,PL)el sıkışmak,el sıkışmeliler mi,el sıkışmeliler mi,0.048906318843364716,0
+VNECPSTNEGDECLNOM(3,SG)el sıkışmak,el sıkışmamalıydı,el sıkışmamalıydı,0.0501883365213871,0
+VNECPSTPROGNEGDECLNOM(2,PL)el sıkışmak,el sıkışıyor olmamalıydınız,el sıkışıyor olmamalıydınız,0.05156751349568367,0
+VIMPLGSPEC2NEGDECLNOM(2,PL)fotoğraf çekmek,fotoğraf çekmeyiniz,fotoğraf çekmeyiniz,0.05166976526379585,0
+VIMPPOSDECLNOM(2,SG)fotoğraf çekmek,fotoğraf çek,fotoğraf çek,0.060395464301109314,0
+VINDPRSPROGNEGINTRNOM(1,PL)fotoğraf çekmek,fotoğraf çekmiyor muyuz,fotoğraf çekmiyor muyuz,0.049567144364118576,0
+VINDPSTHABNEGDECLNOM(3,PL)fotoğraf çekmek,fotoğraf çekmezlerdi,fotoğraf çekmezlerdi,0.052389439195394516,0
+VINDPSTHABPROGNEGDECLNOM(2,PL)fotoğraf çekmek,fotoğraf çekiyor olmazdınız,fotoğraf çekiyor olmazdınız,0.05887714400887489,0
+VINDPSTPERFNEGINTRNOM(3,PL)fotoğraf çekmek,fotoğraf çekmediler miydi,fotoğraf çekmediler miydi,0.052308544516563416,0
+VINDPSTPROGNEGDECLNOM(1,PL)fotoğraf çekmek,fotoğraf çekmiyorduk,fotoğraf çekmiyorduk,0.05100703239440918,0
+VINDPSTPROGNEGDECLNOM(2,PL)fotoğraf çekmek,fotoğraf çekmiyordunuz,fotoğraf çekmiyordunuz,0.051444195210933685,0
+VINDPSTPROGPOSDECLNOM(3,PL)fotoğraf çekmek,fotoğraf çekiyorlardı,fotoğraf çekiyorlardı,0.058067988604307175,0
+VINDPSTPRSPNEGDECLNOM(3,SG)fotoğraf çekmek,fotoğraf çekmeyecekti,fotoğraf çekmeyecekti,0.05193265527486801,0
+VINDPSTPRSPNEGINTRNOM(2,SG)fotoğraf çekmek,fotoğraf çekmeyecek miydin,fotoğraf çekmeyecek miydin,0.05264856666326523,0
+VINDPSTPRSPPOSDECLNOM(3,PL)fotoğraf çekmek,fotoğraf çekeceklerdi,fotoğraf çekeceklerdi,0.053103722631931305,0
+VINDPSTPRSPPROGPOSDECLNOM(1,SG)fotoğraf çekmek,fotoğraf çekiyor olacaktım,fotoğraf çekiyor olacaktım,0.07454988360404968,0
+VINFRFUTPROGNEGDECLNOM(2,SG)fotoğraf çekmek,fotoğraf çekiyor olmayacakmışsın,fotoğraf çekiyor olmayacakmışsın,0.053615860641002655,0
+VINFRFUTPRSPNEGINTRNOM(3,SG)fotoğraf çekmek,fotoğraf çekecek olmayacak mıymı,fotoğraf çekecek olmayacak mıymış,0.05113239958882332,1
+VINFRPSTNEGDECLNOM(1,SG)fotoğraf çekmek,fotoğraf çekmemişim,fotoğraf çekmemişim,0.05301760882139206,0
+VINFRPSTPERFPOSDECLNOM(1,PL)fotoğraf çekmek,fotoğraf çekmiştik,fotoğraf çekmiştik,0.05429121106863022,0
+VINFRPSTPRSPNEGDECLNOM(3,PL)fotoğraf çekmek,fotoğraf çekmiş olmayacaklardı,fotoğraf çekmiş olmayacaklardı,0.05274217203259468,0
+VNECINFRPSTPOSDECLNOM(3,SG)fotoğraf çekmek,fotoğraf çekmeliymiş,fotoğraf çekmeliymiş,0.05447990074753761,0
+VNECPRSPROGNEGDECLNOM(3,PL)fotoğraf çekmek,fotoğraf çekiyor olmamalılar,fotoğraf çekiyor olmamalılar,0.05298855900764465,0
+VNECPSTINTRPOSNOM(2,SG)fotoğraf çekmek,fotoğraf çekmeli miydin,fotoğraf çekmeli miydin,0.053580641746520996,0
+VNECPSTPROGPOSDECLNOM(2,PL)fotoğraf çekmek,fotoğraf çekiyor olmalıydınız,fotoğraf çekiyor olmalıydınız,0.06072176247835159,0
+VINDFUTPOSDECLNOM(3,SG)gizlenmek,gizlenecek,gizlenecek,0.045961346477270126,0
+VINDFUTPRSPPOSDECLNOM(3,PL)gizlenmek,gizlenecek olacaklar,gizlenecek olacaklar,0.046850476413965225,0
+VINDPRSHABINTRPOSNOM(1,SG)gizlenmek,gizlenir miyim,gizlenir miyim,0.04633050039410591,0
+VINDPRSHABINTRPOSNOM(3,SG)gizlenmek,gizlenir mi,gizlenir mi,0.0455915741622448,0
+VINDPRSHABPOSDECLNOM(2,SG)gizlenmek,gizlenirsin,gizlenirsin,0.04689355567097664,0
+VINDPSTHABINTRPOSNOM(3,PL)gizlenmek,gizlenirler miydi,gizlenirler miydi,0.04921172931790352,0
+VINDPSTPROGPOSDECLNOM(1,SG)gizlenmek,gizleniyordum,gizleniyordum,0.04787399247288704,0
+VINFRFUTNEGDECLNOM(2,SG)gizlenmek,gizlenmeyecekmişsin,gizlenmeyecekmişsin,0.04841119050979614,0
+VINFRFUTPROGNEGINTRNOM(1,SG)gizlenmek,gizleniyor olmayacak mıymışım,gizleniyor olmayacak mıymışım,0.05053206533193588,0
+VINFRPRSHABINTRPOSNOM(3,PL)gizlenmek,gizlenirler miymiş,gizlenirler miymiş,0.04764660447835922,0
+VINFRPRSHABNEGDECLNOM(2,SG)gizlenmek,gizlenmezmişsin,gizlenmezmişsin,0.04876502603292465,0
+VINFRPRSPROGPOSDECLNOM(2,PL)gizlenmek,gizleniyormuşsunuz,gizleniyormuşsunuz,0.04755920171737671,0
+VINFRPSTPERFNEGDECLNOM(3,PL)gizlenmek,gizlenmemişlerdi,gizlenmemişlerdi,0.04857325926423073,0
+VINFRPSTPRSPNEGINTRNOM(3,PL)gizlenmek,gizlenmiş olmayacaklar mıydı,gizlenmiş olmayacaklar mıydı,0.0497254841029644,0
+VNECINFRPRSPROGNEGINTRNOM(3,SG)gizlenmek,gizleniyor olmamalı mıymış,gizleniyor olmamalı mıymış,0.05027344450354576,0
+VNECINFRPSTNEGINTRNOM(2,PL)gizlenmek,gizlenmemeli miymişsiniz,gizlenmemeli miymişsiniz,0.04917481541633606,0
+VNECPRSNEGDECLNOM(3,PL)gizlenmek,gizlenmemeliler,gizlenmemeliler,0.047059670090675354,0
+VNECPRSPROGNEGINTRNOM(2,SG)gizlenmek,gizleniyor olmamalı mısın,gizleniyor olmamalı mısın,0.05061592534184456,0
+VNECPSTINTRPOSNOM(1,SG)gizlenmek,gizlenmeli miydim,gizlenmeli miydim,0.04907707870006561,0
+VNECPSTPROGNEGDECLNOM(3,SG)gizlenmek,gizleniyor olmamalıydı,gizleniyor olmamalıydı,0.05045580491423607,0
+VNECPSTPROGNEGINTRNOM(1,PL)gizlenmek,gizleniyor olmamalı mıydık,gizleniyor olmamalı mıydık,0.050583615899086,0
+VNECPSTPROGNEGINTRNOM(1,SG)gizlenmek,gizleniyor olmamalı mıydım,gizleniyor olmamalı mıydım,0.050971850752830505,0
+VINDFUTPRSPNEGINTRNOM(3,SG)göndermek,gönderecek olmayacak mı,gönderecek olmayacak mı,0.04774854704737663,0
+VINDPRSHABNEGINTRNOM(3,SG)göndermek,göndermez mi,göndermez mi,0.04741688445210457,0
+VINDPRSPROGPOSDECLNOM(2,PL)göndermek,gönderiyorsunuz,gönderiyorsunuz,0.04742530360817909,0
+VINDPSTPERFINTRPOSNOM(2,PL)göndermek,gönderdi miydiniz,gönderdi miydiniz,0.05128953978419304,0
+VINDPSTPERFNEGINTRNOM(1,PL)göndermek,göndermedi miydik,göndermedi miydik,0.048286184668540955,0
+VINDPSTPERFPOSDECLNOM(1,SG)göndermek,gönderdiydim,gönderdiydim,0.052115779370069504,0
+VINDPSTPERFPOSDECLNOM(2,PL)göndermek,gönderdiydiniz,gönderdiydiniz,0.05210002511739731,0
+VINDPSTPOSDECLNOM(1,PL)göndermek,gönderdik,gönderdik,0.04854222387075424,0
+VINDPSTPROGINTRPOSNOM(2,SG)göndermek,gönderiyor muydun,gönderiyor muydun,0.04916904866695404,0
+VINDPSTPROGNEGDECLNOM(2,SG)göndermek,göndermiyordun,göndermiyordun,0.048520538955926895,0
+VINDPSTPRSPINTRPOSNOM(3,SG)göndermek,gönderecek miydi,gönderecek miydi,0.048742521554231644,0
+VINFRFUTHABPOSDECLNOM(3,SG)göndermek,gönderir olacakmış,gönderir olacakmış,0.047994423657655716,0
+VINFRFUTNEGDECLNOM(1,PL)göndermek,göndermeyecekmişiz,göndermeyecekmişiz,0.04749011993408203,0
+VINFRFUTPROGNEGINTRNOM(3,PL)göndermek,gönderiyor olmayacaklar mıymış,gönderiyor olmayacaklar mıymış,0.049849141389131546,0
+VINFRPSTNEGDECLNOM(3,SG)göndermek,göndermemiş,göndermemiş,0.047170240432024,0
+VINFRPSTPERFINTRPOSNOM(2,PL)göndermek,göndermiş miydiniz,göndermiş miydiniz,0.049483317881822586,0
+VINFRPSTPERFPOSDECLNOM(1,SG)göndermek,göndermiştim,göndermiştim,0.04715863987803459,0
+VNECINFRPRSPROGNEGINTRNOM(1,PL)göndermek,gönderiyor olmamalı mıymışız,gönderiyor olmamalı mıymışız,0.05049741640686989,0
+VNECPRSINTRPOSNOM(1,PL)göndermek,göndermeli miyiz,göndermeli miyiz,0.049017034471035004,0
+VNECPSTPOSDECLNOM(3,PL)göndermek,göndermelilerdi,göndermelilerdi,0.04791311174631119,0
+VNECPSTPROGNEGINTRNOM(2,SG)göndermek,gönderiyor olmamalı mıydın,gönderiyor olmamalı mıydın,0.05115107074379921,0
+VIMPNEGDECLNOM(2,PL)gücenmek,gücenmeyin,gücenmeyin,0.045310016721487045,0
+VIMPNEGDECLNOM(2,SG)gücenmek,gücenme,gücenme,0.04442383348941803,0
+VINDFUTINTRPOSNOM(3,PL)gücenmek,gücenecekler mi,gücenecekler mi,0.046163756400346756,0
+VINDFUTPROGNEGDECLNOM(3,SG)gücenmek,güceniyor olmayacak,güceniyor olmayacak,0.047860268503427505,0
+VINDPSTHABNEGDECLNOM(2,PL)gücenmek,gücenmezdiniz,gücenmezdiniz,0.04840629920363426,0
+VINDPSTNEGINTRNOM(1,PL)gücenmek,gücenmedik mi,gücenmedik mi,0.04621633142232895,0
+VINDPSTPROGPOSDECLNOM(2,SG)gücenmek,güceniyordun,güceniyordun,0.04650068283081055,0
+VINDPSTPRSPINTRPOSNOM(3,PL)gücenmek,gücenecekler miydi,gücenecekler miydi,0.04860246926546097,0
+VINDPSTPRSPNEGINTRNOM(3,PL)gücenmek,gücenmeyecekler miydi,gücenmeyecekler miydi,0.048239950090646744,0
+VINFRFUTHABPOSDECLNOM(3,PL)gücenmek,gücenir olacaklarmış,gücenir olacaklarmış,0.04715248942375183,0
+VINFRFUTPERFNEGINTRNOM(2,PL)gücenmek,gücenmiş olmayacak mısınız,gücenmiş olmayacak mısınız,0.04969983547925949,0
+VINFRPRSHABINTRPOSNOM(2,PL)gücenmek,gücenir miymişsiniz,gücenir miymişsiniz,0.04774465411901474,0
+VINFRPRSHABPOSDECLNOM(3,SG)gücenmek,gücenirmiş,gücenirmiş,0.04390445724129677,0
+VINFRPRSPROGINTRPOSNOM(1,PL)gücenmek,güceniyor muymuşuz,güceniyor muymuşuz,0.04694564640522003,0
+VINFRPRSPROGINTRPOSNOM(3,PL)gücenmek,güceniyorlar mıymış,güceniyorlar mıymış,0.048376865684986115,0
+VINFRPSTNEGDECLNOM(3,PL)gücenmek,gücenmemişler,gücenmemişler,0.04623854160308838,0
+VINFRPSTPOSDECLNOM(1,PL)gücenmek,gücenmişiz,gücenmişiz,0.04593917354941368,0
+VINFRPSTPOSDECLNOM(2,SG)gücenmek,gücenmişsin,gücenmişsin,0.046338897198438644,0
+VNECINFRPRSPROGNEGINTRNOM(3,PL)gücenmek,güceniyor olmamalılar mıymış,güceniyor olmamalılar mıymış,0.04904675483703613,0
+VNECPRSPROGNEGINTRNOM(3,SG)gücenmek,güceniyor olmamalı mı,güceniyor olmamalı mı,0.048404302448034286,0
+VNECPSTPROGINTRPOSNOM(3,SG)gücenmek,güceniyor olmalı mıydı,güceniyor olmalı mıydı,0.050674986094236374,0
+NABL(PLPSS(3,SG))hız,hızlarından,hızlarından,0.04670855402946472,0
+NABL(SGPSS(1,PL))hız,hızımızdan,hızımızdan,0.04668349400162697,0
+NACC(PLPSS(1,PL))hız,hızlarımızı,hızlarımızı,0.04807690903544426,0
+NACC(PLPSS(2,PL))hız,hızlarınızı,hızlarınızı,0.04904602840542793,0
+NACC(PLPSS(2,SG))hız,hızlarını,hızlarını,0.04865005239844322,0
+NACC(SG)hız,hızı,hızı,0.047382015734910965,0
+NACC(SGPSS(2,PL))hız,hızınızı,hızınızı,0.048527199774980545,0
+NACC(SGPSS(2,SG))hız,hızını,hızını,0.04823676496744156,0
+NDAT(PL)hız,hızlara,hızlara,0.04476054757833481,0
+NDAT(SGPSS(2,PL))hız,hızınıza,hızınıza,0.04588868096470833,0
+NDAT(SGPSS(2,SG))hız,hızına,hızına,0.04420284554362297,0
+NDAT(SGPSS(3,SG))hız,hızına,hızına,0.04441428557038307,0
+NGEN(PL)hız,hızların,hızların,0.04623715579509735,0
+NGEN(PLPSS(2,PL))hız,hızlarınızın,hızlarınızın,0.048641327768564224,0
+NGEN(PLPSS(3,SG))hız,hızlarının,hızlarının,0.04721147194504738,0
+NGEN(SGPSS(1,PL))hız,hızımızın,hızımızın,0.0476507768034935,0
+NGEN(SGPSS(2,PL))hız,hızınızın,hızınızın,0.04817638546228409,0
+NGEN(SGPSS(2,SG))hız,hızının,hızının,0.04694398492574692,0
+NGEN(SGPSS(3,SG))hız,hızının,hızının,0.047425586730241776,0
+NNOM(SGPSS(1,PL))hız,hızımız,hızımız,0.046359919011592865,0
+NNOM(SGPSS(2,PL))hız,hızınız,hızınız,0.046310290694236755,0
+NABL(SG)iftitah,iftitahdan,iftitahtan,0.22610455751419067,1
+NABL(SGPSS(2,PL))iftitah,iftitahınızdan,iftitahınızdan,0.04998435825109482,0
+NABL(SGPSS(3,SG))iftitah,iftitahından,iftitahından,0.04920341819524765,0
+NACC(PLPSS(1,PL))iftitah,iftitahlarımızı,iftitahlarımızı,0.05045032501220703,0
+NACC(PLPSS(3,SG))iftitah,iftitahlarını,iftitahlarını,0.05089103803038597,0
+NACC(SGPSS(2,SG))iftitah,iftitahını,iftitahını,0.04938049614429474,0
+NACC(SGPSS(3,SG))iftitah,iftitahını,iftitahını,0.04934362322092056,0
+NDAT(PLPSS(3,SG))iftitah,iftitahlarına,iftitahlarına,0.04938867315649986,0
+NDAT(SGPSS(1,PL))iftitah,iftitahımıza,iftitahımıza,0.04877432808279991,0
+NDAT(SGPSS(2,SG))iftitah,iftitahına,iftitahına,0.04893431439995766,0
+NGEN(PLPSS(1,PL))iftitah,iftitahlarımızın,iftitahlarımızın,0.05001555383205414,0
+NGEN(PLPSS(3,SG))iftitah,iftitahlarının,iftitahlarının,0.05004584416747093,0
+NGEN(SG)iftitah,iftitahın,iftitahın,0.05060911923646927,0
+NGEN(SGPSS(2,SG))iftitah,iftitahının,iftitahının,0.053286388516426086,0
+NLOC(PLPSS(2,PL))iftitah,iftitahlarınızda,iftitahlarınızda,0.04980705678462982,0
+NLOC(PLPSS(2,SG))iftitah,iftitahlarında,iftitahlarında,0.049793992191553116,0
+NLOC(SGPSS(2,PL))iftitah,iftitahınızda,iftitahınızda,0.04995789751410484,0
+NNOM(PLPSS(1,PL))iftitah,iftitahlarımız,iftitahlarımız,0.04983557388186455,0
+NNOM(PLPSS(2,PL))iftitah,iftitahlarınız,iftitahlarınız,0.05054697021842003,0
+NNOM(PLPSS(3,SG))iftitah,iftitahları,iftitahları,0.04960564151406288,0
+NNOM(SGPSS(1,PL))iftitah,iftitahımız,iftitahımız,0.049079522490501404,0
+NNOM(SGPSS(2,SG))iftitah,iftitahın,iftitahın,0.04852203652262688,0
+NABL(PLPSS(2,PL))karşılık,karşılıklarınızdan,karşılıklarınızdan,0.04911820963025093,0
+NABL(PLPSS(3,SG))karşılık,karşılıklarından,karşılıklarından,0.04852615296840668,0
+NABL(SGPSS(3,SG))karşılık,karşılığından,karşılığından,0.048525068908929825,0
+NACC(PL)karşılık,karşılıkları,karşılıkları,0.04908857122063637,0
+NACC(PLPSS(1,PL))karşılık,karşılıklarımızı,karşılıklarımızı,0.049422185868024826,0
+NACC(SG)karşılık,karşılığı,karşılığı,0.048678863793611526,0
+NACC(SGPSS(1,PL))karşılık,karşılığımızı,karşılığımızı,0.05000314116477966,0
+NACC(SGPSS(2,SG))karşılık,karşılığını,karşılığını,0.04969926178455353,0
+NACC(SGPSS(3,SG))karşılık,karşılığını,karşılığını,0.04931073263287544,0
+NDAT(PL)karşılık,karşılıklara,karşılıklara,0.04739922657608986,0
+NDAT(PLPSS(1,PL))karşılık,karşılıklarımıza,karşılıklarımıza,0.04819992184638977,0
+NDAT(PLPSS(3,SG))karşılık,karşılıklarına,karşılıklarına,0.04808329790830612,0
+NGEN(PL)karşılık,karşılıkların,karşılıkların,0.04847409948706627,0
+NGEN(PLPSS(2,PL))karşılık,karşılıklarınızın,karşılıklarınızın,0.05010230839252472,0
+NGEN(SGPSS(2,PL))karşılık,karşılığınızın,karşılığınızın,0.05046042427420616,0
+NLOC(PLPSS(1,PL))karşılık,karşılıklarımızda,karşılıklarımızda,0.04842503368854523,0
+NLOC(SGPSS(1,PL))karşılık,karşılığımızda,karşılığımızda,0.04919280856847763,0
+NLOC(SGPSS(3,SG))karşılık,karşılığında,karşılığında,0.04877062886953354,0
+NNOM(SGPSS(2,PL))karşılık,karşılığınız,karşılığınız,0.04975344240665436,0
+NNOM(SGPSS(2,SG))karşılık,karşılığın,karşılığın,0.04863839969038963,0
+NABL(PL)kipa,kipalardan,kipalardan,0.04699471965432167,0
+NABL(SG)kipa,kipadan,kipadan,0.046612806618213654,0
+NABL(SGPSS(1,PL))kipa,kipamızdan,kipamızdan,0.04708513244986534,0
+NABL(SGPSS(2,PL))kipa,kipanızdan,kipanızdan,0.04772675409913063,0
+NABL(SGPSS(3,SG))kipa,kipasından,kipasından,0.046821750700473785,0
+NACC(PLPSS(1,PL))kipa,kipalarımızı,kipalarımızı,0.049233678728342056,0
+NACC(PLPSS(3,SG))kipa,kipalarını,kipalarını,0.04913823679089546,0
+NACC(SGPSS(1,PL))kipa,kipamızı,kipamızı,0.048006340861320496,0
+NDAT(PLPSS(2,SG))kipa,kipalarına,kipalarına,0.04813544824719429,0
+NDAT(SG)kipa,kipaya,kipaya,0.046249210834503174,0
+NDAT(SGPSS(2,PL))kipa,kipanıza,kipanıza,0.047006070613861084,0
+NGEN(PLPSS(3,SG))kipa,kipalarının,kipalarının,0.048379331827163696,0
+NGEN(SG)kipa,kipanın,kipanın,0.05107671022415161,0
+NGEN(SGPSS(3,SG))kipa,kipasının,kipasının,0.04731180518865585,0
+NLOC(SGPSS(2,PL))kipa,kipanızda,kipanızda,0.04801066592335701,0
+NNOM(PL)kipa,kipalar,kipalar,0.046127524226903915,0
+NNOM(PLPSS(2,PL))kipa,kipalarınız,kipalarınız,0.049112897366285324,0
+NNOM(PLPSS(2,SG))kipa,kipaların,kipaların,0.04816637933254242,0
+NNOM(SGPSS(2,PL))kipa,kipanız,kipanız,0.04705311730504036,0
+NNOM(SGPSS(3,SG))kipa,kipası,kipası,0.046131912618875504,0
+NABL(PL)koca,kocalardan,kocalardan,0.047251489013433456,0
+NABL(PLPSS(1,PL))koca,kocalarımızdan,kocalarımızdan,0.048117320984601974,0
+NABL(PLPSS(2,PL))koca,kocalarınızdan,kocalarınızdan,0.04884506016969681,0
+NABL(SG)koca,kocadan,kocadan,0.05039503052830696,0
+NACC(PLPSS(1,PL))koca,kocalarımızı,kocalarımızı,0.049479369074106216,0
+NACC(SGPSS(1,PL))koca,kocamızı,kocamızı,0.04887019842863083,0
+NDAT(PLPSS(2,SG))koca,kocalarına,kocalarına,0.048630908131599426,0
+NDAT(SG)koca,kocaya,kocaya,0.047893304377794266,0
+NGEN(PLPSS(2,PL))koca,kocalarınızın,kocalarınızın,0.049904417246580124,0
+NGEN(SGPSS(2,PL))koca,kocanızın,kocanızın,0.048799239099025726,0
+NLOC(PLPSS(1,PL))koca,kocalarımızda,kocalarımızda,0.048356324434280396,0
+NLOC(SGPSS(2,PL))koca,kocanızda,kocanızda,0.04855082556605339,0
+NNOM(PLPSS(1,PL))koca,kocalarımız,kocalarımız,0.04840896651148796,0
+NNOM(SGPSS(2,PL))koca,kocanız,kocanız,0.04767340421676636,0
+NPLINDPSTNOM(2,PL)koca,kocalardınız,kocalardınız,0.05001245439052582,0
+NPLINDPSTNOM(3,SG)koca,kocalardı,kocalardı,0.04976636543869972,0
+NPLINFRPSTNOM(1,PL)koca,kocalarmışız,kocalarmışız,0.04897534102201462,0
+NPLINFRPSTNOM(3,PL)koca,kocalarmış,kocalarmış,0.047891195863485336,0
+NSGINFRPSTNOM(1,PL)koca,kocaymışız,kocaymışız,0.048477016389369965,0
+NSGINFRPSTNOM(2,SG)koca,kocaymışsın,kocaymışsın,0.04943041130900383,0
+NSGINFRPSTNOM(3,PL)koca,kocaymışlar,kocaymışlar,0.046989619731903076,0
+NSGPRSNOM(2,SG)koca,kocasın,kocasın,0.05999583750963211,0
+NABL(PL)kontak lens,kontak lenslerinden,kontak lenslerden,0.10462358593940735,2
+NABL(PLPSS(2,SG))kontak lens,kontak lenslerinden,kontak lenslerinden,0.050536006689071655,0
+NABL(PLPSS(3,SG))kontak lens,kontak lenslerinden,kontak lenslerinden,0.05056288093328476,0
+NABL(SGPSS(3,SG))kontak lens,kontak lensinden,kontak lensinden,0.050469379872083664,0
+NACC(PLPSS(2,PL))kontak lens,kontak lenslerinizi,kontak lenslerinizi,0.050521302968263626,0
+NACC(SG)kontak lens,kontak lensini,kontak lensi,0.5061486959457397,2
+NACC(SGPSS(2,SG))kontak lens,kontak lensini,kontak lensini,0.050024762749671936,0
+NDAT(SG)kontak lens,kontak lensine,kontak lense,0.5380818843841553,2
+NDAT(SGPSS(2,PL))kontak lens,kontak lensinize,kontak lensinize,0.05054017901420593,0
+NGEN(PL)kontak lens,kontak lenslerin,kontak lenslerin,0.05266747996211052,0
+NGEN(PLPSS(1,PL))kontak lens,kontak lenslerimizin,kontak lenslerimizin,0.04961053654551506,0
+NGEN(PLPSS(2,SG))kontak lens,kontak lenslerinin,kontak lenslerinin,0.0501888133585453,0
+NGEN(PLPSS(3,SG))kontak lens,kontak lenslerinin,kontak lenslerinin,0.05023323744535446,0
+NGEN(SGPSS(1,PL))kontak lens,kontak lensimizin,kontak lensimizin,0.04895097017288208,0
+NGEN(SGPSS(2,PL))kontak lens,kontak lensinizin,kontak lensinizin,0.05000068247318268,0
+NGEN(SGPSS(2,SG))kontak lens,kontak lensinin,kontak lensinin,0.049526505172252655,0
+NLOC(PLPSS(1,PL))kontak lens,kontak lenslerimizde,kontak lenslerimizde,0.049598511308431625,0
+NLOC(SGPSS(1,PL))kontak lens,kontak lensimizde,kontak lensimizde,0.04955970495939255,0
+NLOC(SGPSS(2,PL))kontak lens,kontak lensinizde,kontak lensinizde,0.05092928186058998,0
+NNOM(PL)kontak lens,kontak lensler,kontak lensler,0.06539139896631241,0
+NNOM(PLPSS(1,PL))kontak lens,kontak lenslerimiz,kontak lenslerimiz,0.04942131042480469,0
+NNOM(PLPSS(3,SG))kontak lens,kontak lensleri,kontak lensleri,0.04975738376379013,0
+NABL(PLPSS(2,PL))koza,kozalarınızdan,kozalarınızdan,0.0487188845872879,0
+NABL(SGPSS(1,PL))koza,kozamızdan,kozamızdan,0.04747353494167328,0
+NABL(SGPSS(2,SG))koza,kozandan,kozandan,0.04687044396996498,0
+NACC(PL)koza,kozaları,kozaları,0.049266744405031204,0
+NACC(PLPSS(1,PL))koza,kozalarımızı,kozalarımızı,0.04927261918783188,0
+NACC(PLPSS(2,SG))koza,kozalarını,kozalarını,0.049944616854190826,0
+NACC(PLPSS(3,SG))koza,kozalarını,kozalarını,0.049395523965358734,0
+NACC(SG)koza,kozayı,kozayı,0.04682688042521477,0
+NACC(SGPSS(1,PL))koza,kozamızı,kozamızı,0.048274073749780655,0
+NACC(SGPSS(2,SG))koza,kozanı,kozanı,0.04803923889994621,0
+NDAT(PL)koza,kozalara,kozalara,0.04686536639928818,0
+NDAT(SG)koza,kozaya,kozaya,0.046187873929739,0
+NGEN(SGPSS(1,PL))koza,kozamızın,kozamızın,0.048004843294620514,0
+NGEN(SGPSS(2,PL))koza,kozanızın,kozanızın,0.04860188812017441,0
+NGEN(SGPSS(2,SG))koza,kozanın,kozanın,0.04699535667896271,0
+NGEN(SGPSS(3,SG))koza,kozasının,kozasının,0.047586508095264435,0
+NLOC(PLPSS(2,PL))koza,kozalarınızda,kozalarınızda,0.04873310402035713,0
+NLOC(SG)koza,kozada,kozada,0.04621460661292076,0
+NNOM(PL)koza,kozalar,kozalar,0.04663512855768204,0
+NNOM(SG)koza,koza,koza,0.04548634588718414,0
+NNOM(SGPSS(2,PL))koza,kozanız,kozanız,0.04759819805622101,0
+NNOM(SGPSS(2,SG))koza,kozan,kozan,0.045890986919403076,0
+VINDFUTPOSDECLNOM(1,SG)köpürmek,köpüreceğim,köpüreceğim,0.04338471218943596,0
+VINDPSTHABPOSDECLNOM(1,PL)köpürmek,köpürürdük,köpürürdük,0.04237879440188408,0
+VINDPSTPERFNEGINTRNOM(2,SG)köpürmek,köpürmedi miydin,köpürmedi miydin,0.048875268548727036,0
+VINDPSTPERFPOSDECLNOM(2,PL)köpürmek,köpürdüydünüz,köpürdüydünüz,0.04724797233939171,0
+VINDPSTPROGNEGINTRNOM(2,SG)köpürmek,köpürmüyor muydun,köpürmüyor muydun,0.047377075999975204,0
+VINDPSTPROGPOSDECLNOM(2,SG)köpürmek,köpürüyordun,köpürüyordun,0.0447210930287838,0
+VINDPSTPRSPINTRPOSNOM(3,PL)köpürmek,köpürecekler miydi,köpürecekler miydi,0.04751366749405861,0
+VINDPSTPRSPPROGINTRPOSNOM(3,PL)köpürmek,köpürüyor olacaklar mıydı,köpürüyor olacaklar mıydı,0.04893598333001137,0
+VINFRFUTPERFINTRPOSNOM(3,SG)köpürmek,köpürmüş olacak mı,köpürmüş olacak mı,0.04676142334938049,0
+VINFRFUTPERFNEGINTRNOM(3,SG)köpürmek,köpürmüş olmayacak mı,köpürmüş olmayacak mı,0.04767964780330658,0
+VINFRFUTPERFPOSDECLNOM(2,PL)köpürmek,köpürmüş olacaksınız,köpürmüş olacaksınız,0.04780364781618118,0
+VINFRFUTPOSDECLNOM(2,SG)köpürmek,köpürecekmişsin,köpürecekmişsin,0.045686278492212296,0
+VINFRPRSHABNEGINTRNOM(2,SG)köpürmek,köpürmez miymişsin,köpürmez miymişsin,0.048193421214818954,0
+VINFRPSTPERFNEGINTRNOM(1,SG)köpürmek,köpürmemiş miydim,köpürmemiş miydim,0.04804306849837303,0
+VINFRPSTSGNEGINTRNOM(1)köpürmek,köpürmemiş miymişim,köpürmemiş miymişim,0.04756065830588341,0
+VNECINFRPRSPROGNEGDECLNOM(2,SG)köpürmek,köpürüyor olmamalıymışsın,köpürüyor olmamalıymışsın,0.04885709285736084,0
+VNECPRSPOSDECLNOM(1,SG)köpürmek,köpürmeliyim,köpürmeliyim,0.04528304189443588,0
+VNECPRSPOSDECLNOM(3,PL)köpürmek,köpürmeliler,köpürmeliler,0.04501190409064293,0
+VNECPRSPROGPOSDECLNOM(3,PL)köpürmek,köpürüyor olmalılar,köpürüyor olmalılar,0.04672382399439812,0
+NABL(PLPSS(1,PL))lehçe,lehçelerimizden,lehçelerimizden,0.050187285989522934,0
+NABL(PLPSS(2,PL))lehçe,lehçelerinizden,lehçelerinizden,0.050860896706581116,0
+NABL(SGPSS(1,PL))lehçe,lehçemizden,lehçemizden,0.049686405807733536,0
+NACC(PLPSS(2,PL))lehçe,lehçelerinizi,lehçelerinizi,0.051536377519369125,0
+NACC(PLPSS(2,SG))lehçe,lehçelerini,lehçelerini,0.051604703068733215,0
+NACC(SG)lehçe,lehçeyi,lehçeyi,0.04894623905420303,0
+NACC(SGPSS(2,SG))lehçe,lehçeni,lehçeni,0.050231438130140305,0
+NDAT(PL)lehçe,lehçelere,lehçelere,0.05032537505030632,0
+NDAT(PLPSS(1,PL))lehçe,lehçelerimize,lehçelerimize,0.05043238028883934,0
+NGEN(PL)lehçe,lehçelerin,lehçelerin,0.0503973625600338,0
+NGEN(SGPSS(1,PL))lehçe,lehçemizin,lehçemizin,0.04912126064300537,0
+NLOC(PL)lehçe,lehçelerde,lehçelerde,0.050811413675546646,0
+NLOC(PLPSS(1,PL))lehçe,lehçelerimizde,lehçelerimizde,0.05039912089705467,0
+NLOC(PLPSS(2,PL))lehçe,lehçelerinizde,lehçelerinizde,0.05105370655655861,0
+NLOC(PLPSS(3,SG))lehçe,lehçelerinde,lehçelerinde,0.05090496316552162,0
+NLOC(SGPSS(1,PL))lehçe,lehçemizde,lehçemizde,0.05023350566625595,0
+NLOC(SGPSS(2,PL))lehçe,lehçenizde,lehçenizde,0.05102110281586647,0
+NLOC(SGPSS(3,SG))lehçe,lehçesinde,lehçesinde,0.0503808818757534,0
+NNOM(PL)lehçe,lehçeler,lehçeler,0.05024482682347298,0
+NNOM(PLPSS(3,SG))lehçe,lehçeleri,lehçeleri,0.05047375708818436,0
+NNOM(SGPSS(2,PL))lehçe,lehçeniz,lehçeniz,0.0498148649930954,0
+NABL(PL)mantık,mantıklardan,mantıklardan,0.04742278531193733,0
+NABL(PLPSS(2,SG))mantık,mantıklarından,mantıklarından,0.048639796674251556,0
+NABL(SGPSS(1,PL))mantık,mantığımızdan,mantığımızdan,0.04965024068951607,0
+NABL(SGPSS(3,SG))mantık,mantığından,mantığından,0.04942396655678749,0
+NACC(SG)mantık,mantığı,mantığı,0.05047028511762619,0
+NACC(SGPSS(2,SG))mantık,mantığını,mantığını,0.05127590149641037,0
+NACC(SGPSS(3,SG))mantık,mantığını,mantığını,0.05080606788396835,0
+NDAT(PLPSS(2,SG))mantık,mantıklarına,mantıklarına,0.04841918125748634,0
+NDAT(SG)mantık,mantığa,mantığa,0.04926757887005806,0
+NDAT(SGPSS(2,PL))mantık,mantığınıza,mantığınıza,0.05014777183532715,0
+NDAT(SGPSS(2,SG))mantık,mantığına,mantığına,0.04958031699061394,0
+NGEN(SGPSS(1,PL))mantık,mantığımızın,mantığımızın,0.050573188811540604,0
+NLOC(PLPSS(2,PL))mantık,mantıklarınızda,mantıklarınızda,0.04889710992574692,0
+NLOC(PLPSS(3,SG))mantık,mantıklarında,mantıklarında,0.04842943698167801,0
+NLOC(SGPSS(1,PL))mantık,mantığımızda,mantığımızda,0.05000724270939827,0
+NLOC(SGPSS(3,SG))mantık,mantığında,mantığında,0.049988437443971634,0
+NNOM(PL)mantık,mantıklar,mantıklar,0.046936072409152985,0
+NNOM(PLPSS(2,PL))mantık,mantıklarınız,mantıklarınız,0.0492854118347168,0
+NNOM(SG)mantık,mantık,mantık,0.0470888689160347,0
+NNOM(SGPSS(2,PL))mantık,mantığınız,mantığınız,0.050988491624593735,0
+NNOM(SGPSS(2,SG))mantık,mantığın,mantığın,0.04983489215373993,0
+NNOM(SGPSS(3,SG))mantık,mantığı,mantığı,0.049135684967041016,0
+NABL(PL)mayonez,mayonezlerden,mayonezlerden,0.052123118191957474,0
+NABL(PLPSS(2,SG))mayonez,mayonezlerinden,mayonezlerinden,0.05226381495594978,0
+NABL(PLPSS(3,SG))mayonez,mayonezlerinden,mayonezlerinden,0.05172960087656975,0
+NABL(SGPSS(1,PL))mayonez,mayonezimizden,mayonezimizden,0.04843305051326752,0
+NABL(SGPSS(2,PL))mayonez,mayonezinizden,mayonezinizden,0.049238745123147964,0
+NACC(PLPSS(1,PL))mayonez,mayonezlerimizi,mayonezlerimizi,0.05081672966480255,0
+NACC(PLPSS(3,SG))mayonez,mayonezlerini,mayonezlerini,0.051553163677453995,0
+NACC(SG)mayonez,mayonezi,mayonezi,0.04757948964834213,0
+NACC(SGPSS(2,PL))mayonez,mayonezinizi,mayonezinizi,0.048351582139730453,0
+NDAT(PL)mayonez,mayonezlere,mayonezlere,0.05008126422762871,0
+NDAT(SG)mayonez,mayoneze,mayoneze,0.0518939308822155,0
+NDAT(SGPSS(2,SG))mayonez,mayonezine,mayonezine,0.04900077357888222,0
+NGEN(PL)mayonez,mayonezlerin,mayonezlerin,0.05004368722438812,0
+NGEN(PLPSS(2,PL))mayonez,mayonezlerinizin,mayonezlerinizin,0.05242159962654114,0
+NGEN(SG)mayonez,mayonezin,mayonezin,0.04841053858399391,0
+NLOC(PLPSS(2,PL))mayonez,mayonezlerinizde,mayonezlerinizde,0.0509556382894516,0
+NLOC(PLPSS(3,SG))mayonez,mayonezlerinde,mayonezlerinde,0.05126200616359711,0
+NLOC(SGPSS(2,PL))mayonez,mayonezinizde,mayonezinizde,0.04967942088842392,0
+NLOC(SGPSS(2,SG))mayonez,mayonezinde,mayonezinde,0.05001400038599968,0
+NLOC(SGPSS(3,SG))mayonez,mayonezinde,mayonezinde,0.04921378195285797,0
+NNOM(SG)mayonez,mayonez,mayonez,0.048475295305252075,0
+NNOM(SGPSS(2,SG))mayonez,mayonezin,mayonezin,0.04834926873445511,0
+VINDFUTINTRPOSNOM(1,PL)nefes aldırmak,nefes aldıracak mıyız,nefes aldıracak mıyız,0.04956044256687164,0
+VINDPRSPROGINTRPOSNOM(3,PL)nefes aldırmak,nefes aldırıyorlar mı,nefes aldırıyorlar mı,0.04923086240887642,0
+VINDPRSPROGPOSDECLNOM(3,PL)nefes aldırmak,nefes aldırıyorlar,nefes aldırıyorlar,0.04894907772541046,0
+VINDPSTHABPROGNEGDECLNOM(1,PL)nefes aldırmak,nefes aldırıyor olmazdık,nefes aldırıyor olmazdık,0.05116653069853783,0
+VINDPSTHABPROGNEGDECLNOM(1,SG)nefes aldırmak,nefes aldırıyor olmazdım,nefes aldırıyor olmazdım,0.051609039306640625,0
+VINDPSTHABPROGNEGDECLNOM(3,PL)nefes aldırmak,nefes aldırıyor olmazlardı,nefes aldırıyor olmazlardı,0.05127515643835068,0
+VINDPSTHABPROGNEGINTRNOM(3,SG)nefes aldırmak,nefes aldırıyor olmaz mıydı,nefes aldırıyor olmaz mıydı,0.05233761668205261,0
+VINDPSTPOSDECLNOM(3,PL)nefes aldırmak,nefes aldırdılar,nefes aldırdılar,0.04867169260978699,0
+VINFRFUTPROGPOSDECLNOM(3,SG)nefes aldırmak,nefes aldırıyor olacakmış,nefes aldırıyor olacakmış,0.05024489015340805,0
+VINFRFUTPRSPNEGINTRNOM(2,SG)nefes aldırmak,nefes aldıracak olmayacak mıymış,nefes aldıracak olmayacak mıymışsın,0.050222139805555344,3
+VINFRPRSHABPOSDECLNOM(2,PL)nefes aldırmak,nefes aldırırmışsınız,nefes aldırırmışsınız,0.049656275659799576,0
+VINFRPRSPROGINTRPOSNOM(1,SG)nefes aldırmak,nefes aldırıyor muymuşum,nefes aldırıyor muymuşum,0.048636965453624725,0
+VINFRPRSPROGNEGDECLNOM(1,PL)nefes aldırmak,nefes aldırmıyormuşuz,nefes aldırmıyormuşuz,0.04867631569504738,0
+VINFRPRSPROGNEGDECLNOM(2,SG)nefes aldırmak,nefes aldırmıyormuşsun,nefes aldırmıyormuşsun,0.04953055828809738,0
+VINFRPSTPERFNEGINTRNOM(2,PL)nefes aldırmak,nefes aldırmamış mıydınız,nefes aldırmamış mıydınız,0.051798418164253235,0
+VINFRPSTPERFPOSDECLNOM(2,SG)nefes aldırmak,nefes aldırmıştın,nefes aldırmıştın,0.04966944456100464,0
+VNECPRSNEGDECLNOM(1,PL)nefes aldırmak,nefes aldırmameliyiz,nefes aldırmameliyiz,0.04846730828285217,0
+VNECPRSPROGNEGDECLNOM(1,PL)nefes aldırmak,nefes aldırıyor olmamalıyız,nefes aldırıyor olmamalıyız,0.050407830625772476,0
+VNECPSTINTRPOSNOM(3,SG)nefes aldırmak,nefes aldırmalı mıydı,nefes aldırmalı mıydı,0.05071452632546425,0
+VNECPSTNEGDECLNOM(3,SG)nefes aldırmak,nefes aldırmamalıydı,nefes aldırmamalıydı,0.049644142389297485,0
+VNECPSTPOSDECLNOM(3,SG)nefes aldırmak,nefes aldırmalıydı,nefes aldırmalıydı,0.049949873238801956,0
+VNECPSTPROGNEGINTRNOM(2,PL)nefes aldırmak,nefes aldırıyor olmamalı mıydını,nefes aldırıyor olmamalı mıydınız,0.051811136305332184,1
+VINDFUTPRSPINTRPOSNOM(2,PL)osurmak,osuracak olacak mısınız,osuracak olacak mısınız,0.049595147371292114,0
+VINDFUTPRSPINTRPOSNOM(3,SG)osurmak,osuracak olacak mı,osuracak olacak mı,0.04760298132896423,0
+VINDFUTPRSPNEGINTRNOM(2,SG)osurmak,osuracak olmayacak mısın,osuracak olmayacak mısın,0.04951633885502815,0
+VINDPRSPROGINTRPOSNOM(1,PL)osurmak,osuruyor muyuz,osuruyor muyuz,0.0465698204934597,0
+VINDPSTHABPROGINTRPOSNOM(1,PL)osurmak,osuruyor olur muyduk,osuruyor olur muyduk,0.047760192304849625,0
+VINDPSTHABPROGNEGDECLNOM(3,PL)osurmak,osuruyor olmazlardı,osuruyor olmazlardı,0.04972941428422928,0
+VINDPSTPERFINTRPOSNOM(2,SG)osurmak,osurdu muydun,osurdu muydun,0.04775455594062805,0
+VINDPSTPROGPOSDECLNOM(1,PL)osurmak,osuruyorduk,osuruyorduk,0.0448954738676548,0
+VINDPSTPRSPPROGPOSDECLNOM(1,SG)osurmak,osuruyor olacaktım,osuruyor olacaktım,0.04821820557117462,0
+VINDPSTPRSPPROGPOSDECLNOM(3,SG)osurmak,osuruyor olacaktı,osuruyor olacaktı,0.04866574704647064,0
+VINFRFUTHABNEGINTRNOM(3,PL)osurmak,osurur olmayacaklar mıymış,osurur olmayacaklar mıymış,0.04851547256112099,0
+VINFRFUTPERFNEGDECLNOM(2,SG)osurmak,osurmuş olmayacaksın,osurmuş olmayacaksın,0.04919622093439102,0
+VINFRPRSHABINTRPOSNOM(1,PL)osurmak,osurur muymuşuz,osurur muymuşuz,0.046147190034389496,0
+VINFRPRSHABINTRPOSNOM(2,SG)osurmak,osurur muymuşsun,osurur muymuşsun,0.04656801000237465,0
+VINFRPRSPROGINTRPOSNOM(3,SG)osurmak,osuruyor muymuş,osuruyor muymuş,0.047101687639951706,0
+VINFRPSTINTRPOSNOM(3,PL)osurmak,osurmuşlar mı,osurmuşlar mı,0.04660433903336525,0
+VINFRPSTPERFINTRPOSNOM(3,PL)osurmak,osurmuşlar mıydı,osurmuşlar mıydı,0.04905356466770172,0
+VNECINFRPRSPROGINTRPOSNOM(3,PL)osurmak,osuruyor olmalılar mıymış,osuruyor olmalılar mıymış,0.0494794100522995,0
+VNECINFRPSTNEGDECLNOM(3,PL)osurmak,osurmamalılarmış,osurmamalılarmış,0.047484539449214935,0
+VNECPSTNEGINTRNOM(1,SG)osurmak,osurmamalı mıydım,osurmamalı mıydım,0.049603503197431564,0
+VNECPSTPROGPOSDECLNOM(3,PL)osurmak,osuruyor olmalılardı,osuruyor olmalılardı,0.049241263419389725,0
+VINDFUTINTRPOSNOM(2,PL)parlatmak,parlatacak mısınız,parlatacak mısınız,0.049007922410964966,0
+VINDFUTPRSPNEGINTRNOM(1,SG)parlatmak,parlatacak olmayacak mıyım,parlatacak olmayacak mıyım,0.04832005500793457,0
+VINDFUTPRSPPOSDECLNOM(1,PL)parlatmak,parlatacak olacağız,parlatacak olacağız,0.047681380063295364,0
+VINDPRSHABINTRPOSNOM(2,PL)parlatmak,parlatır mısınız,parlatır mısınız,0.054350823163986206,0
+VINDPRSHABNEGINTRNOM(3,SG)parlatmak,parlatmaz mı,parlatmaz mı,0.048760268837213516,0
+VINDPRSPROGINTRPOSNOM(2,PL)parlatmak,parlatıyor musunuz,parlatıyor musunuz,0.047412265092134476,0
+VINDPSTHABPROGNEGINTRNOM(3,PL)parlatmak,parlatıyor olmazlar mıydı,parlatıyor olmazlar mıydı,0.05064787715673447,0
+VINDPSTHABPROGPOSDECLNOM(3,PL)parlatmak,parlatıyor olurlardı,parlatıyor olurlardı,0.049129191786050797,0
+VINDPSTPERFPOSDECLNOM(1,PL)parlatmak,parlattıydık,parlattıydık,0.047380004078149796,0
+VINDPSTPROGNEGINTRNOM(1,PL)parlatmak,parlatmıyor muyduk,parlatmıyor muyduk,0.04806002601981163,0
+VINDPSTPRSPNEGINTRNOM(1,PL)parlatmak,parlatmayacak mıydık,parlatmayacak mıydık,0.048479028046131134,0
+VINDPSTPRSPPOSDECLNOM(1,SG)parlatmak,parlatacaktım,parlatacaktım,0.04573911055922508,0
+VINFRFUTNEGDECLNOM(3,SG)parlatmak,parlatmayacakmış,parlatmayacakmış,0.04732063412666321,0
+VINFRPRSPROGNEGDECLNOM(1,SG)parlatmak,parlatmıyormuşum,parlatmıyormuşum,0.046384960412979126,0
+VINFRPRSPROGNEGDECLNOM(2,SG)parlatmak,parlatmıyormuşsun,parlatmıyormuşsun,0.04756546393036842,0
+VINFRPSTPLPOSDECLNOM(3)parlatmak,parlatmışlarmış,parlatmışlarmış,0.047413185238838196,0
+VINFRPSTPOSDECLNOM(1,SG)parlatmak,parlatmışım,parlatmışım,0.04628191888332367,0
+VNECPRSINTRPOSNOM(1,SG)parlatmak,parlatmeli miyim,parlatmeli miyim,0.04729640483856201,0
+VNECPRSNEGDECLNOM(2,PL)parlatmak,parlatmamelisiniz,parlatmamelisiniz,0.047438059002161026,0
+VNECPRSNEGINTRNOM(3,SG)parlatmak,parlatmameli mi,parlatmameli mi,0.04619505628943443,0
+VNECPRSPOSDECLNOM(2,SG)parlatmak,parlatmelisin,parlatmelisin,0.047184254974126816,0
+VNECPRSPROGNEGINTRNOM(3,PL)parlatmak,parlatıyor olmamalılar mı,parlatıyor olmamalılar mı,0.048966024070978165,0
+NABL(PL)profiterol,profiterolardan,profiterollerden,0.5023676753044128,3
+NABL(SG)profiterol,profiteroldan,profiterolden,0.500199019908905,1
+NACC(PL)profiterol,profiteroları,profiterolleri,0.6924110651016235,3
+NACC(SG)profiterol,profiterolu,profiterolü,0.5925193428993225,1
+NDAT(SG)profiterol,profiterola,profiterole,0.4922811985015869,1
+NGEN(PL)profiterol,profiteroların,profiterollerin,0.7421417832374573,3
+NGEN(SG)profiterol,profiterolun,profiterolün,0.5670424103736877,1
+NLOC(PL)profiterol,profiterolarda,profiterollerde,0.5466669797897339,3
+NLOC(SG)profiterol,profiterolda,profiterolde,0.5077101588249207,1
+NNOM(PL)profiterol,profiterolar,profiteroller,0.728723406791687,2
+NNOM(SG)profiterol,profiterol,profiterol,0.04708143696188927,0
+VINDFUTNEGDECLNOM(2,PL)sevmek,sevmeyeceksiniz,sevmeyeceksiniz,0.04858678951859474,0
+VINDFUTNEGDECLNOM(3,SG)sevmek,sevmeyecek,sevmeyecek,0.04668332263827324,0
+VINDFUTPROGNEGDECLNOM(1,SG)sevmek,seviyor olmayacağım,seviyor olmayacağım,0.04991836100816727,0
+VINDPSTHABPOSDECLNOM(3,PL)sevmek,severlerdi,severlerdi,0.048570480197668076,0
+VINDPSTHABPROGINTRPOSNOM(1,PL)sevmek,seviyor olur muyduk,seviyor olur muyduk,0.04897976666688919,0
+VINDPSTNEGDECLNOM(2,SG)sevmek,sevmedin,sevmedin,0.04850618168711662,0
+VINDPSTPROGPOSDECLNOM(2,PL)sevmek,seviyordunuz,seviyordunuz,0.04768403619527817,0
+VINDPSTPRSPINTRPOSNOM(3,PL)sevmek,sevecekler miydi,sevecekler miydi,0.050011392682790756,0
+VINDPSTPRSPPROGNEGINTRNOM(2,PL)sevmek,seviyor olmayacak mıydınız,seviyor olmayacak mıydınız,0.05168205127120018,0
+VINDPSTPRSPPROGNEGINTRNOM(3,PL)sevmek,seviyor olmayacaklar mıydı,seviyor olmayacaklar mıydı,0.05084003880620003,0
+VINFRFUTHABINTRPOSNOM(3,SG)sevmek,sever olacak mıymış,sever olacak mıymış,0.05078762024641037,0
+VINFRFUTHABNEGDECLNOM(3,PL)sevmek,sever olmayacaklarmış,sever olmayacaklarmış,0.049120377749204636,0
+VINFRFUTINTRPOSNOM(2,PL)sevmek,sevecek miymişsiniz,sevecek miymişsiniz,0.04980543255805969,0
+VINFRFUTPROGNEGDECLNOM(1,SG)sevmek,seviyor olmayacakmışım,seviyor olmayacakmışım,0.05025792121887207,0
+VINFRPRSHABNEGDECLNOM(3,PL)sevmek,sevmezlermiş,sevmezlermiş,0.04857476428151131,0
+VINFRPRSHABPOSDECLNOM(2,SG)sevmek,severmişsin,severmişsin,0.04693395271897316,0
+VINFRPSTPLPOSDECLNOM(1)sevmek,sevmişmişiz,sevmişmişiz,0.046243373304605484,0
+VNECPRSPROGINTRPOSNOM(1,SG)sevmek,seviyor olmalı mıyım,seviyor olmalı mıyım,0.05087747052311897,0
+VNECPSTNEGINTRNOM(2,SG)sevmek,sevmemeli miydin,sevmemeli miydin,0.04983944818377495,0
+VNECPSTPROGNEGINTRNOM(3,PL)sevmek,seviyor olmamalılar mıydı,seviyor olmamalılar mıydı,0.05091247335076332,0
+VNECPSTPROGPOSDECLNOM(3,PL)sevmek,seviyor olmalılardı,seviyor olmalılardı,0.0504169687628746,0
+NABL(PLPSS(2,SG))sincap,sincaplarından,sincaplarından,0.048839397728443146,0
+NABL(SG)sincap,sincaptan,sincaptan,0.04841575771570206,0
+NABL(SGPSS(2,PL))sincap,sincabınızdan,sincabınızdan,0.05373970791697502,0
+NACC(PLPSS(1,PL))sincap,sincaplarımızı,sincaplarımızı,0.04956285282969475,0
+NACC(PLPSS(3,SG))sincap,sincaplarını,sincaplarını,0.04972264543175697,0
+NACC(SGPSS(2,SG))sincap,sincabını,sincabını,0.053457170724868774,0
+NACC(SGPSS(3,SG))sincap,sincabını,sincabını,0.05384663864970207,0
+NDAT(SGPSS(2,PL))sincap,sincabınıza,sincabınıza,0.054231006652116776,0
+NDAT(SGPSS(3,SG))sincap,sincabına,sincabına,0.05502660199999809,0
+NGEN(PL)sincap,sincapların,sincapların,0.04912460967898369,0
+NGEN(PLPSS(1,PL))sincap,sincaplarımızın,sincaplarımızın,0.04975367337465286,0
+NGEN(PLPSS(2,PL))sincap,sincaplarınızın,sincaplarınızın,0.05050627142190933,0
+NGEN(PLPSS(3,SG))sincap,sincaplarının,sincaplarının,0.04958968609571457,0
+NGEN(SG)sincap,sincabın,sincabın,0.05713348835706711,0
+NGEN(SGPSS(2,PL))sincap,sincabınızın,sincabınızın,0.053505998104810715,0
+NLOC(PL)sincap,sincaplarda,sincaplarda,0.04805454611778259,0
+NLOC(PLPSS(3,SG))sincap,sincaplarında,sincaplarında,0.048498284071683884,0
+NLOC(SGPSS(2,PL))sincap,sincabınızda,sincabınızda,0.055346325039863586,0
+NNOM(PLPSS(1,PL))sincap,sincaplarımız,sincaplarımız,0.048785094171762466,0
+NNOM(PLPSS(3,SG))sincap,sincapları,sincapları,0.048616182059049606,0
+NNOM(SGPSS(2,SG))sincap,sincabın,sincabın,0.058716099709272385,0
+VINDPRSHABNEGDECLNOM(3,SG)solmak,solmaz,solmaz,0.048895563930273056,0
+VINDPRSPROGINTRPOSNOM(3,PL)solmak,soluyorlar mı,soluyorlar mı,0.047811418771743774,0
+VINDPSTHABINTRPOSNOM(2,PL)solmak,solar mıydınız,solar mıydınız,0.05191368982195854,0
+VINDPSTINTRPOSNOM(3,SG)solmak,soldu mu,soldu mu,0.048600029200315475,0
+VINDPSTPOSDECLNOM(3,SG)solmak,soldu,soldu,0.0492989681661129,0
+VINDPSTPROGNEGINTRNOM(2,SG)solmak,solmuyor muydun,solmuyor muydun,0.04929152876138687,0
+VINDPSTPRSPNEGDECLNOM(2,SG)solmak,solmayacaktın,solmayacaktın,0.04816822335124016,0
+VINDPSTPRSPNEGINTRNOM(3,PL)solmak,solmayacaklar mıydı,solmayacaklar mıydı,0.04990255832672119,0
+VINDPSTPRSPPOSDECLNOM(3,PL)solmak,solacaklardı,solacaklardı,0.04908834397792816,0
+VINFRFUTPOSDECLNOM(1,PL)solmak,solacakmışız,solacakmışız,0.04853111878037453,0
+VINFRFUTPOSDECLNOM(1,SG)solmak,solacakmışım,solacakmışım,0.047934312373399734,0
+VINFRFUTPROGNEGINTRNOM(1,SG)solmak,soluyor olmayacak mıymışım,soluyor olmayacak mıymışım,0.05062471330165863,0
+VINFRFUTPRSPNEGINTRNOM(1,SG)solmak,solacak olmayacak mıymışım,solacak olmayacak mıymışım,0.04953142628073692,0
+VINFRPSTPERFPOSDECLNOM(1,PL)solmak,solmuştuk,solmuştuk,0.0457773432135582,0
+VINFRPSTPLPOSDECLNOM(2)solmak,solmuşmuşsunuz,solmuşmuşsunuz,0.05072939395904541,0
+VINFRPSTPRSPNEGDECLNOM(3,PL)solmak,solmuş olmayacaklardı,solmuş olmayacaklardı,0.049292419105768204,0
+VINFRPSTPRSPPOSDECLNOM(1,SG)solmak,solmuş olacaktım,solmuş olacaktım,0.04807820916175842,0
+VNECPRSPROGNEGDECLNOM(3,PL)solmak,soluyor olmamalılar,soluyor olmamalılar,0.0484648272395134,0
+VNECPRSPROGNEGINTRNOM(3,SG)solmak,soluyor olmamalı mı,soluyor olmamalı mı,0.049404703080654144,0
+VNECPSTINTRPOSNOM(3,SG)solmak,solmalı mıydı,solmalı mıydı,0.051934864372015,0
+VNECPSTNEGINTRNOM(2,SG)solmak,solmamalı mıydın,solmamalı mıydın,0.05101191997528076,0
+NABL(PL)sorum,sorumlardan,sorumlardan,0.048086702823638916,0
+NABL(SG)sorum,sorumdan,sorumdan,0.04844263941049576,0
+NACC(PL)sorum,sorumları,sorumları,0.04868514463305473,0
+NACC(SG)sorum,sorumu,sorumu,0.04672595113515854,0
+NDAT(PL)sorum,sorumlara,sorumlara,0.047865159809589386,0
+NDAT(SG)sorum,soruma,soruma,0.04611433297395706,0
+NGEN(PL)sorum,sorumların,sorumların,0.048294223845005035,0
+NGEN(SG)sorum,sorumun,sorumun,0.047275956720113754,0
+NLOC(PL)sorum,sorumlarda,sorumlarda,0.04782481491565704,0
+NLOC(SG)sorum,sorumda,sorumda,0.048646390438079834,0
+NNOM(PL)sorum,sorumlar,sorumlar,0.04710564389824867,0
+NNOM(SG)sorum,sorum,sorum,0.048389311879873276,0
+VINDFUTNEGDECLNOM(3,PL)sümürmek,sümürmeyecekler,sümürmeyecekler,0.046041570603847504,0
+VINDFUTPOSDECLNOM(2,SG)sümürmek,sümüreceksin,sümüreceksin,0.04692433401942253,0
+VINDFUTPROGNEGDECLNOM(2,SG)sümürmek,sümürüyor olmayacaksın,sümürüyor olmayacaksın,0.049252137541770935,0
+VINDFUTPROGNEGINTRNOM(3,SG)sümürmek,sümürüyor olmayacak mı,sümürüyor olmayacak mı,0.04893751069903374,0
+VINDFUTPRSPNEGINTRNOM(2,SG)sümürmek,sümürecek olmayacak mısın,sümürecek olmayacak mısın,0.04941346496343613,0
+VINDPRSPROGNEGDECLNOM(3,PL)sümürmek,sümürmüyorlar,sümürmüyorlar,0.04630183428525925,0
+VINDPSTHABNEGDECLNOM(3,PL)sümürmek,sümürmezlerdi,sümürmezlerdi,0.04898010939359665,0
+VINDPSTNEGINTRNOM(2,PL)sümürmek,sümürmediniz mi,sümürmediniz mi,0.04876893386244774,0
+VINDPSTPERFNEGDECLNOM(1,SG)sümürmek,sümürmediydim,sümürmediydim,0.04827894642949104,0
+VINDPSTPERFPOSDECLNOM(2,PL)sümürmek,sümürdüydünüz,sümürdüydünüz,0.04851989820599556,0
+VINDPSTPROGNEGDECLNOM(1,SG)sümürmek,sümürmüyordum,sümürmüyordum,0.04665501043200493,0
+VINDPSTPRSPPROGINTRPOSNOM(2,SG)sümürmek,sümürüyor olacak mıydın,sümürüyor olacak mıydın,0.05061523616313934,0
+VINFRFUTPRSPINTRPOSNOM(2,PL)sümürmek,sümürecek olacak mıymışsınız,sümürecek olacak mıymışsınız,0.04996851086616516,0
+VINFRPRSHABNEGDECLNOM(3,PL)sümürmek,sümürmezlermiş,sümürmezlermiş,0.047772035002708435,0
+VINFRPSTNEGINTRNOM(2,PL)sümürmek,sümürmemiş misiniz,sümürmemiş misiniz,0.049591291695833206,0
+VINFRPSTPOSDECLNOM(2,SG)sümürmek,sümürmüşsün,sümürmüşsün,0.04825781658291817,0
+VNECINFRPRSPROGNEGINTRNOM(3,PL)sümürmek,sümürüyor olmamalılar mıymış,sümürüyor olmamalılar mıymış,0.04916874319314957,0
+VNECINFRPSTNEGINTRNOM(1,SG)sümürmek,sümürmemeli miymişim,sümürmemeli miymişim,0.04797079414129257,0
+VNECPRSNEGINTRNOM(1,SG)sümürmek,sümürmemeli miyim,sümürmemeli miyim,0.04765629023313522,0
+VNECPSTNEGINTRNOM(3,SG)sümürmek,sümürmemeli miydi,sümürmemeli miydi,0.04909655079245567,0
+VNECPSTPOSDECLNOM(2,SG)sümürmek,sümürmeliydin,sümürmeliydin,0.04823606461286545,0
+VNECPSTPROGINTRPOSNOM(1,SG)sümürmek,sümürüyor olmalı mıydım,sümürüyor olmalı mıydım,0.05057632923126221,0
+NABL(PL)süper kahraman,süper kahramalarından,süper kahramanlardan,0.3636254072189331,3
+NABL(SG)süper kahraman,süper kahramandan,süper kahramandan,0.059106554836034775,0
+NACC(PL)süper kahraman,süper kahramalarını,süper kahramanları,0.26900219917297363,3
+NACC(SG)süper kahraman,süper kahramanı,süper kahramanı,0.04846062511205673,0
+NDAT(PL)süper kahraman,süper kahramalarına,süper kahramanlara,0.3092363178730011,3
+NDAT(SG)süper kahraman,süper kahramana,süper kahramana,0.0474400520324707,0
+NGEN(PL)süper kahraman,süper kahramalarının,süper kahramanların,0.16487707197666168,3
+NGEN(SG)süper kahraman,süper kahramanın,süper kahramanın,0.04779672995209694,0
+NLOC(PL)süper kahraman,süper kahramalarında,süper kahramanlarda,0.38937753438949585,3
+NNOM(PL)süper kahraman,süper kahramaları,süper kahramanlar,0.2544681131839752,2
+NNOM(SG)süper kahraman,süper kahraman,süper kahraman,0.07511100172996521,0
+VINDFUTINTRPOSNOM(2,PL)tutmak,tutacak mısınız,tutacak mısınız,0.049300216138362885,0
+VINDPRSHABPOSDECLNOM(3,SG)tutmak,tutar,tutar,0.04174704849720001,0
+VINDPRSPROGNEGINTRNOM(2,PL)tutmak,tutmuyor musunuz,tutmuyor musunuz,0.04668370261788368,0
+VINDPSTHABNEGDECLNOM(2,SG)tutmak,tutmazdın,tutmazdın,0.04864625632762909,0
+VINDPSTHABNEGINTRNOM(1,SG)tutmak,tutmaz mıydım,tutmaz mıydım,0.05050019547343254,0
+VINDPSTHABPROGPOSDECLNOM(3,PL)tutmak,tutuyor olurlardı,tutuyor olurlardı,0.04830928146839142,0
+VINDPSTPERFNEGDECLNOM(2,PL)tutmak,tutmadıydınız,tutmadıydınız,0.05064809322357178,0
+VINDPSTPRSPPROGNEGDECLNOM(3,PL)tutmak,tutuyor olmayacaklardı,tutuyor olmayacaklardı,0.04922368749976158,0
+VINFRFUTINTRPOSNOM(3,PL)tutmak,tutacaklar mıymış,tutacaklar mıymış,0.048339322209358215,0
+VINFRFUTPOSDECLNOM(2,SG)tutmak,tutacakmışsın,tutacakmışsın,0.04762110114097595,0
+VINFRFUTPROGINTRPOSNOM(2,SG)tutmak,tutuyor olacak mıymışsın,tutuyor olacak mıymışsın,0.050934065133333206,0
+VINFRFUTPRSPINTRPOSNOM(3,PL)tutmak,tutacak olacaklar mıymış,tutacak olacaklar mıymış,0.04826591536402702,0
+VINFRFUTPRSPPOSDECLNOM(1,PL)tutmak,tutacak olacakmışız,tutacak olacakmışız,0.048107873648405075,0
+VINFRPRSHABNEGDECLNOM(2,SG)tutmak,tutmazmışsın,tutmazmışsın,0.049094416201114655,0
+VINFRPRSHABNEGINTRNOM(1,PL)tutmak,tutmaz mıymışız,tutmaz mıymışız,0.050162069499492645,0
+VINFRPSTPERFINTRPOSNOM(1,PL)tutmak,tutmuş muyduk,tutmuş muyduk,0.04624757543206215,0
+VINFRPSTSGNEGINTRNOM(2)tutmak,tutmamış mıymışsın,tutmamış mıymışsın,0.050705134868621826,0
+VNECINFRPRSPROGPOSDECLNOM(3,SG)tutmak,tutuyor olmalıymış,tutuyor olmalıymış,0.049070488661527634,0
+VNECINFRPSTNEGDECLNOM(1,PL)tutmak,tutmamalıymışız,tutmamalıymışız,0.04802527651190758,0
+VNECPRSINTRPOSNOM(3,PL)tutmak,tutmeliler mi,tutmeliler mi,0.046112027019262314,0
+VNECPSTPROGPOSDECLNOM(2,PL)tutmak,tutuyor olmalıydınız,tutuyor olmalıydınız,0.05068634822964668,0
+VINDFUTPROGNEGDECLNOM(1,SG)tıraş olmak,tıraş oluyor olmayacağım,tıraş oluyor olmayacağım,0.049115993082523346,0
+VINDFUTPRSPNEGINTRNOM(3,PL)tıraş olmak,tıraş olacak olmayacaklar mı,tıraş olacak olmayacaklar mı,0.0480421744287014,0
+VINDPRSPROGNEGINTRNOM(1,PL)tıraş olmak,tıraş olmuyor muyuz,tıraş olmuyor muyuz,0.04736044630408287,0
+VINDPRSPROGPOSDECLNOM(2,PL)tıraş olmak,tıraş oluyorsunuz,tıraş oluyorsunuz,0.04743614420294762,0
+VINDPSTHABINTRPOSNOM(1,PL)tıraş olmak,tıraş olur muyduk,tıraş olur muyduk,0.04868660494685173,0
+VINDPSTNEGDECLNOM(1,PL)tıraş olmak,tıraş olmadık,tıraş olmadık,0.048504214733839035,0
+VINDPSTPERFINTRPOSNOM(3,PL)tıraş olmak,tıraş oldular mıydı,tıraş oldular mıydı,0.05095499008893967,0
+VINDPSTPERFPOSDECLNOM(1,SG)tıraş olmak,tıraş olduydum,tıraş olduydum,0.04970521107316017,0
+VINDPSTPRSPNEGDECLNOM(1,PL)tıraş olmak,tıraş olmayacaktık,tıraş olmayacaktık,0.04725126177072525,0
+VINFRFUTHABPOSDECLNOM(3,SG)tıraş olmak,tıraş olur olacakmış,tıraş olur olacakmış,0.04846645146608353,0
+VINFRFUTPROGINTRPOSNOM(3,SG)tıraş olmak,tıraş oluyor olacak mıymış,tıraş oluyor olacak mıymış,0.05006119981408119,0
+VINFRFUTPRSPNEGINTRNOM(2,SG)tıraş olmak,tıraş olacak olmayacak mıymışsın,tıraş olacak olmayacak mıymışsın,0.04983994737267494,0
+VINFRPRSHABINTRPOSNOM(3,SG)tıraş olmak,tıraş olur muymuş,tıraş olur muymuş,0.0485847145318985,0
+VINFRPRSHABPOSDECLNOM(1,SG)tıraş olmak,tıraş olurmuşum,tıraş olurmuşum,0.04890664666891098,0
+VINFRPSTPRSPNEGDECLNOM(3,SG)tıraş olmak,tıraş olmuş olmayacaktı,tıraş olmuş olmayacaktı,0.048680830746889114,0
+VINFRPSTPRSPNEGINTRNOM(2,SG)tıraş olmak,tıraş olmuş olmayacak mıydın,tıraş olmuş olmayacak mıydın,0.05033278465270996,0
+VINFRPSTSGINTRPOSNOM(2)tıraş olmak,tıraş olmuş muymuşsun,tıraş olmuş muymuşsun,0.04905007779598236,0
+VINFRPSTSGNEGINTRNOM(3)tıraş olmak,tıraş olmamış mıymış,tıraş olmamış mıymış,0.04995186999440193,0
+VNECINFRPSTINTRPOSNOM(3,PL)tıraş olmak,tıraş olmalılar mıymış,tıraş olmalılar mıymış,0.04940806329250336,0
+VNECINFRPSTPOSDECLNOM(2,PL)tıraş olmak,tıraş olmalıymışsınız,tıraş olmalıymışsınız,0.05057313293218613,0
+VNECPRSNEGINTRNOM(3,PL)tıraş olmak,tıraş olmameliler mi,tıraş olmameliler mi,0.04715321213006973,0
+VNECPSTPROGINTRPOSNOM(3,PL)tıraş olmak,tıraş oluyor olmalılar mıydı,tıraş oluyor olmalılar mıydı,0.05018584802746773,0
+NABL(PLPSS(2,PL))yangın,yangınlarınızdan,yangınlarınızdan,0.04916426166892052,0
+NABL(PLPSS(2,SG))yangın,yangınlarından,yangınlarından,0.048665788024663925,0
+NABL(PLPSS(3,SG))yangın,yangınlarından,yangınlarından,0.04846084117889404,0
+NABL(SGPSS(3,SG))yangın,yangınından,yangınından,0.04840272665023804,0
+NACC(PLPSS(1,PL))yangın,yangınlarımızı,yangınlarımızı,0.049342695623636246,0
+NACC(SGPSS(1,PL))yangın,yangınımızı,yangınımızı,0.050297047942876816,0
+NDAT(PLPSS(3,SG))yangın,yangınlarına,yangınlarına,0.04803047701716423,0
+NDAT(SGPSS(1,PL))yangın,yangınımıza,yangınımıza,0.048673778772354126,0
+NDAT(SGPSS(2,SG))yangın,yangınına,yangınına,0.04756617546081543,0
+NGEN(PLPSS(2,SG))yangın,yangınlarının,yangınlarının,0.04902934283018112,0
+NGEN(PLPSS(3,SG))yangın,yangınlarının,yangınlarının,0.048914212733507156,0
+NGEN(SGPSS(3,SG))yangın,yangınının,yangınının,0.055188342928886414,0
+NLOC(PLPSS(1,PL))yangın,yangınlarımızda,yangınlarımızda,0.04849720001220703,0
+NNOM(SGPSS(2,PL))yangın,yangınınız,yangınınız,0.05449892580509186,0
+NPLINDPSTNOM(2,PL)yangın,yangınlardınız,yangınlardınız,0.050068967044353485,0
+NPLINDPSTNOM(2,SG)yangın,yangınlardın,yangınlardın,0.04965076968073845,0
+NPLPRSNOM(2,PL)yangın,yangınlarsınız,yangınlarsınız,0.05084089934825897,0
+NSGINDPSTNOM(1,PL)yangın,yangındık,yangındık,0.04805629700422287,0
+NSGINFRPSTNOM(1,SG)yangın,yangınmışım,yangınmışım,0.0479065477848053,0
+NSGINFRPSTNOM(2,SG)yangın,yangınmışsın,yangınmışsın,0.04958963394165039,0
+NSGPRSNOM(1,PL)yangın,yangınız,yangınız,0.047724127769470215,0
+NSGPRSNOM(2,PL)yangın,yangınsınız,yangınsınız,0.07232867926359177,0
+VINDFUTPROGINTRPOSNOM(2,PL)yapışmak,yapışıyor olacak mısınız,yapışıyor olacak mısınız,0.05102925002574921,0
+VINDFUTPROGNEGDECLNOM(2,PL)yapışmak,yapışıyor olmayacaksınız,yapışıyor olmayacaksınız,0.05010082200169563,0
+VINDFUTPROGPOSDECLNOM(3,SG)yapışmak,yapışıyor olacak,yapışıyor olacak,0.048563726246356964,0
+VINDFUTPRSPNEGINTRNOM(2,PL)yapışmak,yapışacak olmayacak mısınız,yapışacak olmayacak mısınız,0.04942512512207031,0
+VINDFUTPRSPPOSDECLNOM(2,PL)yapışmak,yapışacak olacaksınız,yapışacak olacaksınız,0.04850176349282265,0
+VINDPSTHABINTRPOSNOM(3,SG)yapışmak,yapışır mıydı,yapışır mıydı,0.049786608666181564,0
+VINDPSTHABPROGINTRPOSNOM(2,PL)yapışmak,yapışıyor olur muydunuz,yapışıyor olur muydunuz,0.04958869889378548,0
+VINDPSTHABPROGNEGINTRNOM(1,PL)yapışmak,yapışıyor olmaz mıydık,yapışıyor olmaz mıydık,0.05112384632229805,0
+VINDPSTPERFINTRPOSNOM(1,PL)yapışmak,yapıştı mıydık,yapıştı mıydık,0.05276564136147499,0
+VINDPSTPROGINTRPOSNOM(2,PL)yapışmak,yapışıyor muydunuz,yapışıyor muydunuz,0.048541758209466934,0
+VINDPSTPRSPPROGNEGINTRNOM(1,SG)yapışmak,yapışıyor olmayacak mıydım,yapışıyor olmayacak mıydım,0.05046173557639122,0
+VINFRFUTNEGINTRNOM(2,SG)yapışmak,yapışmayacak mıymışsın,yapışmayacak mıymışsın,0.04993557557463646,0
+VINFRFUTPERFINTRPOSNOM(1,PL)yapışmak,yapışmış olacak mıyız,yapışmış olacak mıyız,0.049911174923181534,0
+VINFRFUTPOSDECLNOM(2,PL)yapışmak,yapışacakmışsınız,yapışacakmışsınız,0.048485077917575836,0
+VINFRPSTPLNEGINTRNOM(1)yapışmak,yapışmamış mıymışız,yapışmamış mıymışız,0.05086451768875122,0
+VINFRPSTPRSPINTRPOSNOM(1,PL)yapışmak,yapışmış olacak mıydık,yapışmış olacak mıydık,0.04949217289686203,0
+VINFRPSTPRSPINTRPOSNOM(3,PL)yapışmak,yapışmış olacaklar mıydı,yapışmış olacaklar mıydı,0.04957946389913559,0
+VNECPRSPROGPOSDECLNOM(1,PL)yapışmak,yapışıyor olmalıyız,yapışıyor olmalıyız,0.050029732286930084,0
+VNECPSTNEGINTRNOM(2,PL)yapışmak,yapışmamalı mıydınız,yapışmamalı mıydınız,0.050079595297575,0
+VNECPSTPROGINTRPOSNOM(3,SG)yapışmak,yapışıyor olmalı mıydı,yapışıyor olmalı mıydı,0.0513572134077549,0
+VNECPSTPROGNEGDECLNOM(2,SG)yapışmak,yapışıyor olmamalıydın,yapışıyor olmamalıydın,0.050342559814453125,0
+VNECPSTPROGPOSDECLNOM(3,SG)yapışmak,yapışıyor olmalıydı,yapışıyor olmalıydı,0.05068853497505188,0
+VINDFUTINTRPOSNOM(2,PL)yoldurtmak,yoldurtacak mısınız,yoldurtacak mısınız,0.04935494810342789,0
+VINDFUTINTRPOSNOM(3,SG)yoldurtmak,yoldurtacak mı,yoldurtacak mı,0.04765758663415909,0
+VINDFUTPOSDECLNOM(1,SG)yoldurtmak,yoldurtacağım,yoldurtacağım,0.04644386097788811,0
+VINDPRSPROGNEGDECLNOM(1,PL)yoldurtmak,yoldurtmuyoruz,yoldurtmuyoruz,0.047062940895557404,0
+VINDPSTHABPROGNEGDECLNOM(1,PL)yoldurtmak,yoldurtuyor olmazdık,yoldurtuyor olmazdık,0.04999743029475212,0
+VINDPSTHABPROGNEGINTRNOM(2,SG)yoldurtmak,yoldurtuyor olmaz mıydın,yoldurtuyor olmaz mıydın,0.051731497049331665,0
+VINDPSTNEGDECLNOM(1,PL)yoldurtmak,yoldurtmadık,yoldurtmadık,0.048453669995069504,0
+VINDPSTPERFPOSDECLNOM(2,PL)yoldurtmak,yoldurttuydunuz,yoldurttuydunuz,0.05115421861410141,0
+VINDPSTPROGNEGDECLNOM(1,SG)yoldurtmak,yoldurtmuyordum,yoldurtmuyordum,0.04775528609752655,0
+VINDPSTPRSPNEGDECLNOM(1,SG)yoldurtmak,yoldurtmayacaktım,yoldurtmayacaktım,0.04758789762854576,0
+VINDPSTPRSPPOSDECLNOM(2,SG)yoldurtmak,yoldurtacaktın,yoldurtacaktın,0.04721704497933388,0
+VINFRFUTHABINTRPOSNOM(2,SG)yoldurtmak,yoldurtur olacak mıymışsın,yoldurtur olacak mıymışsın,0.05031890422105789,0
+VINFRFUTHABNEGDECLNOM(1,SG)yoldurtmak,yoldurtur olmayacakmışım,yoldurtur olmayacakmışım,0.04861311987042427,0
+VINFRFUTPRSPINTRPOSNOM(1,PL)yoldurtmak,yoldurtacak olacak mıymışız,yoldurtacak olacak mıymışız,0.04920152947306633,0
+VINFRFUTPRSPNEGDECLNOM(1,PL)yoldurtmak,yoldurtacak olmayacakmışız,yoldurtacak olmayacakmışız,0.048611585050821304,0
+VINFRPRSHABINTRPOSNOM(1,PL)yoldurtmak,yoldurtur muymuşuz,yoldurtur muymuşuz,0.047854531556367874,0
+VINFRPRSHABNEGDECLNOM(2,SG)yoldurtmak,yoldurtmazmışsın,yoldurtmazmışsın,0.05010421946644783,0
+VINFRPSTPERFNEGINTRNOM(3,SG)yoldurtmak,yoldurtmamış mıydı,yoldurtmamış mıydı,0.051093053072690964,0
+VINFRPSTSGNEGDECLNOM(2)yoldurtmak,yoldurtmamışmışsın,yoldurtmamışmışsın,0.051376666873693466,0
+VNECPRSPOSDECLNOM(3,PL)yoldurtmak,yoldurtmeliler,yoldurtmeliler,0.04713725298643112,0
+VNFINyoldurtmak,yoldurtmak,yoldurtmak,0.049907900393009186,0
+NABL(PLPSS(2,SG))yordam,yordamlarından,yordamlarından,0.04927721247076988,0
+NABL(SGPSS(1,PL))yordam,yordamımızdan,yordamımızdan,0.04859570041298866,0
+NACC(PLPSS(2,PL))yordam,yordamlarınızı,yordamlarınızı,0.050780102610588074,0
+NACC(SG)yordam,yordamı,yordamı,0.04732554778456688,0
+NACC(SGPSS(1,PL))yordam,yordamımızı,yordamımızı,0.0489039309322834,0
+NACC(SGPSS(2,SG))yordam,yordamını,yordamını,0.0490511879324913,0
+NDAT(PLPSS(2,PL))yordam,yordamlarınıza,yordamlarınıza,0.04968872293829918,0
+NDAT(SGPSS(2,PL))yordam,yordamınıza,yordamınıza,0.04875108599662781,0
+NDAT(SGPSS(2,SG))yordam,yordamına,yordamına,0.04809653013944626,0
+NDAT(SGPSS(3,SG))yordam,yordamına,yordamına,0.048113126307725906,0
+NGEN(PL)yordam,yordamların,yordamların,0.04920336231589317,0
+NGEN(SG)yordam,yordamın,yordamın,0.04715311899781227,0
+NGEN(SGPSS(3,SG))yordam,yordamının,yordamının,0.048406943678855896,0
+NLOC(PLPSS(3,SG))yordam,yordamlarında,yordamlarında,0.04923335090279579,0
+NLOC(SG)yordam,yordamda,yordamda,0.049114521592855453,0
+NLOC(SGPSS(2,PL))yordam,yordamınızda,yordamınızda,0.049450263381004333,0
+NLOC(SGPSS(3,SG))yordam,yordamında,yordamında,0.048820625990629196,0
+NNOM(PL)yordam,yordamlar,yordamlar,0.047993019223213196,0
+NNOM(PLPSS(1,PL))yordam,yordamlarımız,yordamlarımız,0.04933696985244751,0
+NNOM(PLPSS(3,SG))yordam,yordamları,yordamları,0.04912710189819336,0
+NNOM(SG)yordam,yordam,yordam,0.0485224649310112,0
+NABL(PL)yönetim,yönetimlerden,yönetimlerden,0.05010519549250603,0
+NABL(PLPSS(1,PL))yönetim,yönetimlerimizden,yönetimlerimizden,0.04969997704029083,0
+NABL(PLPSS(2,SG))yönetim,yönetimlerinden,yönetimlerinden,0.050583384931087494,0
+NABL(SG)yönetim,yönetimden,yönetimden,0.049895789474248886,0
+NABL(SGPSS(2,PL))yönetim,yönetiminizden,yönetiminizden,0.04940907284617424,0
+NACC(PLPSS(2,PL))yönetim,yönetimlerinizi,yönetimlerinizi,0.05085550248622894,0
+NACC(SGPSS(1,PL))yönetim,yönetimimizi,yönetimimizi,0.04897819086909294,0
+NACC(SGPSS(2,PL))yönetim,yönetiminizi,yönetiminizi,0.04914570599794388,0
+NDAT(PLPSS(2,PL))yönetim,yönetimlerinize,yönetimlerinize,0.05054624378681183,0
+NDAT(PLPSS(3,SG))yönetim,yönetimlerine,yönetimlerine,0.051336705684661865,0
+NDAT(SGPSS(2,PL))yönetim,yönetiminize,yönetiminize,0.04907813295722008,0
+NGEN(PL)yönetim,yönetimlerin,yönetimlerin,0.04958047345280647,0
+NGEN(SGPSS(2,SG))yönetim,yönetiminin,yönetiminin,0.05076901987195015,0
+NGEN(SGPSS(3,SG))yönetim,yönetiminin,yönetiminin,0.048189129680395126,0
+NLOC(PLPSS(1,PL))yönetim,yönetimlerimizde,yönetimlerimizde,0.0498376190662384,0
+NLOC(PLPSS(2,PL))yönetim,yönetimlerinizde,yönetimlerinizde,0.05047837644815445,0
+NLOC(SGPSS(2,PL))yönetim,yönetiminizde,yönetiminizde,0.04964866861701012,0
+NLOC(SGPSS(2,SG))yönetim,yönetiminde,yönetiminde,0.04998423159122467,0
+NNOM(PLPSS(1,PL))yönetim,yönetimlerimiz,yönetimlerimiz,0.049112752079963684,0
+NNOM(SG)yönetim,yönetim,yönetim,0.04883503168821335,0
+NNOM(SGPSS(1,PL))yönetim,yönetimimiz,yönetimimiz,0.049058523029088974,0
+NNOM(SGPSS(2,PL))yönetim,yönetiminiz,yönetiminiz,0.04916253685951233,0
+NABL(SG)yüksek fırın,yüksek fırından,yüksek fırından,0.05004578456282616,0
+NABL(SGPSS(2,PL))yüksek fırın,yüksek fırınızdan,yüksek fırınınızdan,0.3853245973587036,2
+NACC(PL)yüksek fırın,yüksek fırını,yüksek fırınları,0.1707465946674347,3
+NACC(SGPSS(2,PL))yüksek fırın,yüksek fırınızı,yüksek fırınınızı,0.4252825379371643,2
+NACC(SGPSS(3,SG))yüksek fırın,yüksek fırını,yüksek fırınını,0.4637795686721802,2
+NDAT(PLPSS(1,PL))yüksek fırın,yüksek fırınlarımıza,yüksek fırınlarımıza,0.0620543546974659,0
+NDAT(PLPSS(2,PL))yüksek fırın,yüksek fırınıza,yüksek fırınlarınıza,0.620836615562439,5
+NGEN(PL)yüksek fırın,yüksek fırınların,yüksek fırınların,0.0642869770526886,0
+NGEN(PLPSS(2,SG))yüksek fırın,yüksek fırınların,yüksek fırınlarının,0.3081028163433075,2
+NGEN(SGPSS(3,SG))yüksek fırın,yüksek fırının,yüksek fırınının,0.40155652165412903,2
+NLOC(PLPSS(3,SG))yüksek fırın,yüksek fırında,yüksek fırınlarında,0.19299103319644928,5
+NLOC(SGPSS(1,PL))yüksek fırın,yüksek fırınızda,yüksek fırınımızda,0.19422316551208496,2
+NLOC(SGPSS(2,SG))yüksek fırın,yüksek fırında,yüksek fırınında,0.7316835522651672,2
+NNOM(PLPSS(2,SG))yüksek fırın,yüksek fırınların,yüksek fırınların,0.07300621271133423,0
+NNOM(SGPSS(2,PL))yüksek fırın,yüksek fırınız,yüksek fırınınız,0.443583607673645,2
+NPLINDPSTNOM(2,PL)yüksek fırın,yüksek fırınızdın,yüksek fırınlardınız,0.5569701790809631,5
+NPLINDPSTNOM(3,SG)yüksek fırın,yüksek fırınlardı,yüksek fırınlardı,0.052638307213783264,0
+NPLINFRPSTNOM(2,PL)yüksek fırın,yüksek fırınız,yüksek fırınlarmışsınız,0.3694186210632324,9
+NPLINFRPSTNOM(2,SG)yüksek fırın,yüksek fırınlarmışsın,yüksek fırınlarmışsın,0.05376389995217323,0
+NSGINFRPSTNOM(2,PL)yüksek fırın,yüksek fırınız,yüksek fırınmışsınız,0.8580445647239685,6
+NSGPRSNOM(2,SG)yüksek fırın,yüksek fırınsın,yüksek fırınsın,0.07402235269546509,0
+NSGPRSNOM(3,PL)yüksek fırın,yüksek fırınlar,yüksek fırınlar,0.049421075731515884,0
+NABL(PL)<UNK>in dağ kedisi,tin dağ kedilerinden,<UNK>in dağ kedi,0.897918164730072,9
+NABL(SG)<UNK>in dağ kedisi,tin dağ kedisinden,<UNK>in dağ kedisi,0.8405441045761108,5
+NACC(PL)<UNK>in dağ kedisi,tin dağ kedilerini,<UNK>in dağ kedi,0.9149065613746643,7
+NACC(SG)<UNK>in dağ kedisi,tin dağ kedisini,<UNK>in dağ kedisi,0.8277161121368408,3
+NDAT(PL)<UNK>in dağ kedisi,tin dağ kedilerine,<UNK>in dağ kedi,0.9120031595230103,7
+NDAT(SG)<UNK>in dağ kedisi,tin dağ kedisine,<UNK>in dağ kedisi,0.8362970352172852,3
+NGEN(PL)<UNK>in dağ kedisi,tin dağ kedilerinin,<UNK>in dağ kedi,0.8987808227539062,8
+NGEN(SG)<UNK>in dağ kedisi,tin dağ kedisinin,<UNK>in dağ kedisi,0.8279340863227844,4
+NLOC(PL)<UNK>in dağ kedisi,tin dağ kedilerinde,<UNK>in dağ kedi,0.9211016297340393,8
+NLOC(SG)<UNK>in dağ kedisi,tin dağ kedisinde,<UNK>in dağ kedisi,0.8366544246673584,4
+NNOM(PL)<UNK>in dağ kedisi,tin dağ kedileri,<UNK>in dağ kedi,0.9265578985214233,5
+NNOM(SG)<UNK>in dağ kedisi,tin dağ kedisi,<UNK>in dağ kedisi,0.363314151763916,1
+VINDFUTNEGDECLNOM(3,SG)övmek,övmeyecek,övmeyecek,0.04428752139210701,0
+VINDPRSHABNEGDECLNOM(1,SG)övmek,övmeyim,övmem,1.430012822151184,2
+VINDPRSPROGPOSDECLNOM(1,PL)övmek,övüyoruz,övüyoruz,0.04353697597980499,0
+VINDPSTHABNEGINTRNOM(1,SG)övmek,övmez miydim,övmez miydim,0.049403116106987,0
+VINDPSTHABNEGINTRNOM(3,SG)övmek,övmez miydi,övmez miydi,0.04982287809252739,0
+VINDPSTPRSPINTRPOSNOM(1,SG)övmek,övecek miydim,övecek miydim,0.04791547730565071,0
+VINDPSTPRSPPOSDECLNOM(1,SG)övmek,övecektim,övecektim,0.044068120419979095,0
+VINFRFUTHABINTRPOSNOM(2,PL)övmek,över olacak mıymışsınız,över olacak mıymışsınız,0.054649367928504944,0
+VINFRFUTHABNEGDECLNOM(3,PL)övmek,över olmayacaklarmış,över olmayacaklarmış,0.05267037823796272,0
+VINFRFUTHABPOSDECLNOM(3,SG)övmek,över olacakmış,över olacakmış,0.05286861211061478,0
+VINFRFUTPOSDECLNOM(3,PL)övmek,öveceklermiş,öveceklermiş,0.04610932245850563,0
+VINFRFUTPRSPINTRPOSNOM(1,PL)övmek,övecek olacak mıymışız,övecek olacak mıymışız,0.04883658513426781,0
+VINFRPRSHABNEGINTRNOM(1,SG)övmek,övmez miymişim,övmez miymişim,0.04788840189576149,0
+VINFRPRSPROGINTRPOSNOM(3,PL)övmek,övüyorlar mıymış,övüyorlar mıymış,0.047976717352867126,0
+VINFRPRSPROGNEGDECLNOM(2,PL)övmek,övmüyormuşsunuz,övmüyormuşsunuz,0.045898184180259705,0
+VINFRPSTPERFINTRPOSNOM(1,SG)övmek,övmüş müydüm,övmüş müydüm,0.04572165012359619,0
+VINFRPSTPLINTRPOSNOM(1)övmek,övmüş müymüşüz,övmüş müymüşüz,0.050979308784008026,0
+VINFRPSTPOSDECLNOM(2,SG)övmek,övmüşsün,övmüşsün,0.04413941875100136,0
+VINFRPSTSGNEGINTRNOM(1)övmek,övmemiş miymişim,övmemiş miymişim,0.04737796261906624,0
+VNECINFRPRSPROGNEGDECLNOM(2,SG)övmek,övüyor olmamalıymışsın,övüyor olmamalıymışsın,0.04951141029596329,0
+VNECINFRPRSPROGPOSDECLNOM(3,SG)övmek,övüyor olmalıymış,övüyor olmalıymış,0.048975639045238495,0
+VNECPRSPROGNEGDECLNOM(3,SG)övmek,övüyor olmamalı,övüyor olmamalı,0.04767429828643799,0
+VIMPPOSDECLNOM(2,PL)üretmek,üretin,üretin,0.04937873035669327,0
+VINDFUTNEGDECLNOM(2,SG)üretmek,üretmeyeceksin,üretmeyeceksin,0.04771094024181366,0
+VINDFUTNEGINTRNOM(3,PL)üretmek,üretmeyecekler mi,üretmeyecekler mi,0.04682478681206703,0
+VINDFUTPOSDECLNOM(2,PL)üretmek,üreteceksiniz,üreteceksiniz,0.047547340393066406,0
+VINDFUTPROGINTRPOSNOM(1,SG)üretmek,üretiyor olacak mıyım,üretiyor olacak mıyım,0.0502573624253273,0
+VINDPRSHABPOSDECLNOM(3,PL)üretmek,üretirler,üretirler,0.05158041790127754,0
+VINDPSTPERFNEGINTRNOM(1,PL)üretmek,üretmedi miydik,üretmedi miydik,0.04866749048233032,0
+VINFRFUTPROGNEGDECLNOM(1,SG)üretmek,üretiyor olmayacakmışım,üretiyor olmayacakmışım,0.04986264184117317,0
+VINFRFUTPROGPOSDECLNOM(1,SG)üretmek,üretiyor olacakmışım,üretiyor olacakmışım,0.049836285412311554,0
+VINFRFUTPROGPOSDECLNOM(2,SG)üretmek,üretiyor olacakmışsın,üretiyor olacakmışsın,0.050654876977205276,0
+VINFRPRSPROGPOSDECLNOM(3,SG)üretmek,üretiyormuş,üretiyormuş,0.04654455557465553,0
+VINFRPSTNEGDECLNOM(1,SG)üretmek,üretmemişim,üretmemişim,0.047533780336380005,0
+VINFRPSTNEGINTRNOM(2,SG)üretmek,üretmemiş misin,üretmemiş misin,0.04954681172966957,0
+VINFRPSTPERFNEGINTRNOM(3,SG)üretmek,üretmemiş miydi,üretmemiş miydi,0.04991847276687622,0
+VINFRPSTPRSPNEGDECLNOM(2,PL)üretmek,üretmiş olmayacaktınız,üretmiş olmayacaktınız,0.04976021125912666,0
+VINFRPSTPRSPPOSDECLNOM(1,PL)üretmek,üretmiş olacaktık,üretmiş olacaktık,0.04816421493887901,0
+VNECINFRPRSPROGINTRPOSNOM(2,SG)üretmek,üretiyor olmalı mıymışsın,üretiyor olmalı mıymışsın,0.05164423957467079,0
+VNECINFRPSTNEGDECLNOM(1,SG)üretmek,üretmemeliymişim,üretmemeliymişim,0.04700527340173721,0
+VNECPRSINTRPOSNOM(2,PL)üretmek,üretmeli misiniz,üretmeli misiniz,0.0492287315428257,0
+VNECPRSPROGNEGINTRNOM(2,SG)üretmek,üretiyor olmamalı mısın,üretiyor olmamalı mısın,0.05055917799472809,0
+NABL(PLPSS(2,PL))ışın,ışınlarınızdan,ışınlarınızdan,0.049494918435811996,0
+NABL(SG)ışın,ışından,ışından,0.048853982239961624,0
+NABL(SGPSS(3,SG))ışın,ışınından,ışınından,0.04838934913277626,0
+NACC(SGPSS(2,PL))ışın,ışınınızı,ışınınızı,0.050683170557022095,0
+NDAT(SGPSS(2,SG))ışın,ışınına,ışınına,0.04759284853935242,0
+NGEN(PLPSS(1,PL))ışın,ışınlarımızın,ışınlarımızın,0.04952571913599968,0
+NGEN(SG)ışın,ışının,ışının,0.04866549372673035,0
+NLOC(PL)ışın,ışınlarda,ışınlarda,0.048590682446956635,0
+NLOC(SG)ışın,ışında,ışında,0.049788035452365875,0
+NLOC(SGPSS(2,PL))ışın,ışınınızda,ışınınızda,0.05006348714232445,0
+NLOC(SGPSS(2,SG))ışın,ışınında,ışınında,0.04949241131544113,0
+NNOM(PLPSS(2,PL))ışın,ışınlarınız,ışınlarınız,0.04984651505947113,0
+NNOM(SG)ışın,ışın,ışın,0.04919305071234703,0
+NPLINDPSTNOM(1,PL)ışın,ışınlardık,ışınlardık,0.04922366142272949,0
+NPLINFRPSTNOM(1,SG)ışın,ışınlarmışım,ışınlarmışım,0.04918922856450081,0
+NPLPRSNOM(2,PL)ışın,ışınlarsınız,ışınlarsınız,0.05159445479512215,0
+NSGINDPSTNOM(2,SG)ışın,ışındın,ışındın,0.05040861666202545,0
+NSGINDPSTNOM(3,SG)ışın,ışındı,ışındı,0.05017814040184021,0
+NSGINFRPSTNOM(1,PL)ışın,ışınmışız,ışınmışız,0.049725379794836044,0
+NSGINFRPSTNOM(2,SG)ışın,ışınmışsın,ışınmışsın,0.05013222619891167,0
+NSGINFRPSTNOM(3,SG)ışın,ışınmış,ışınmış,0.04833332449197769,0
+NSGPRSNOM(3,PL)ışın,ışınlar,ışınlar,0.04755573719739914,0
+NABL(PLPSS(1,PL))şırınga,şırıngalarımızdan,şırıngalarımızdan,0.04943323880434036,0
+NABL(SGPSS(3,SG))şırınga,şırıngasından,şırıngasından,0.04935433343052864,0
+NACC(PLPSS(2,PL))şırınga,şırıngalarınızı,şırıngalarınızı,0.050986871123313904,0
+NACC(SGPSS(3,SG))şırınga,şırıngasını,şırıngasını,0.050119489431381226,0
+NDAT(PL)şırınga,şırıngalara,şırıngalara,0.04856986179947853,0
+NDAT(PLPSS(2,SG))şırınga,şırıngalarına,şırıngalarına,0.04955402389168739,0
+NDAT(SG)şırınga,şırıngaya,şırıngaya,0.04962163046002388,0
+NDAT(SGPSS(2,SG))şırınga,şırıngana,şırıngana,0.04892420023679733,0
+NGEN(PLPSS(1,PL))şırınga,şırıngalarımızın,şırıngalarımızın,0.050194151699543,0
+NGEN(SGPSS(1,PL))şırınga,şırıngamızın,şırıngamızın,0.05008043721318245,0
+NLOC(PLPSS(2,PL))şırınga,şırıngalarınızda,şırıngalarınızda,0.049911610782146454,0
+NLOC(PLPSS(3,SG))şırınga,şırıngalarında,şırıngalarında,0.04958825185894966,0
+NLOC(SG)şırınga,şırıngada,şırıngada,0.04882722347974777,0
+NNOM(PL)şırınga,şırıngalar,şırıngalar,0.04857651889324188,0
+NNOM(SGPSS(1,PL))şırınga,şırıngamız,şırıngamız,0.04965927451848984,0
+NPLINDPSTNOM(1,PL)şırınga,şırıngalardık,şırıngalardık,0.049608100205659866,0
+NPLINFRPSTNOM(3,SG)şırınga,şırıngalarmış,şırıngalarmış,0.04944884777069092,0
+NPLPRSNOM(1,PL)şırınga,şırıngalarız,şırıngalarız,0.04937988147139549,0
+NPLPRSNOM(2,SG)şırınga,şırıngalarsın,şırıngalarsın,0.051016490906476974,0
+NPLPRSNOM(3,PL)şırınga,şırıngalardır,şırıngalardır,0.05527471750974655,0
+NSGPRSNOM(2,PL)şırınga,şırıngasınız,şırıngasınız,0.051259372383356094,0
